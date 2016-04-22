@@ -3,7 +3,7 @@
 [Diesen Text in Deutsch lesen](#German).
 
 ## Project description
-When publising a journal article authors usually transfer exclusive rights to the publisher. Most publishers have policies on self-archving and authors' own re-use of the content. Publishers's terms differ though.
+When publishing a journal article authors usually transfer exclusive rights to the publisher. Most publishers have policies on self-archving and authors' own re-use of the content. Publishers's terms differ though.
 This project summarises publisher policies on
 * re-use of published journal articles in a thesis, and
 * inclusion of yet unpublished, submitted articles in a thesis.
@@ -36,7 +36,7 @@ See [License](/LICENSE) for more information.
 Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) was consulted and highly appreciated.
 
 <a name="German"></a>
-# Verlagspolicies kumulative Dissertationen
+# Verlagspolicies für kumulative Dissertationen
 
 [Read this in English](#English)
 
