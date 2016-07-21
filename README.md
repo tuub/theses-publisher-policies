@@ -60,8 +60,8 @@ Bitte beachten Sie, dass dieses Projekt zu den Bedingungen von [CC0](http://crea
 Bitte konktaktieren Sie uns per E-Mail an openaccess at ub.tu-berlin.de
 * für allgemeine Hinweise,
 * um auf Fehler aufmerksam zu machen,
-* Verbesserungen bzw. Aktualisierungen vorzuschlagen,
-* Informationen zu einem noch nicht aufgeführten Verlag bereitzustellen,
+* um Verbesserungen bzw. Aktualisierungen vorzuschlagen,
+* um Informationen zu einem noch nicht aufgeführten Verlag bereitzustellen,
 * um Möglichkeiten zur Zusammenarbeit zu diskutieren.
 
 ## Lizenz
