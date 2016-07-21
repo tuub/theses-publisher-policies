@@ -6,7 +6,7 @@
 When publishing a journal article, authors usually transfer exclusive rights to the publisher. Most publishers have policies on self-archving and authors' own re-use of the content. Publisher terms differ though.
 This project summarises publisher policies on
 * re-use of published journal articles in a thesis, and
-* inclusion of yet unpublished, submitted articles in a thesis.
+* inclusion of yet unpublished, submitted journal articles in a thesis.
 
 Information on publisher policies is provided in [English](/policies_EN.md) and [German](/policies_DE.md).
 
@@ -42,10 +42,10 @@ Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [
 
 ## Projektbeschreibung
 Beim Veröffentlichen eines Zeitschriftenartikels übertragen Autorinnen und Autoren in der Regel ausschließliche Nutzungsrechte an die Verlage.
-Viele Verlage gestattet eine Open-Access-Zweitveröffentlichung und die Nachnutzung von Inhalten für weitere Veröffentlichungen durch die Autorinnen und Autoren selbst. Die Bedingungen der Verlage unterscheiden sich zum Teil stark.
+Viele Zeitschriftenverlage gestattet eine Open-Access-Zweitveröffentlichung und die Nachnutzung von Inhalten für weitere Veröffentlichungen durch die Autorinnen und Autoren selbst. Die Bedingungen der Verlage unterscheiden sich zum Teil stark.
 Dies Projekt stellt tabellarisch Informationen bereit zu Verlagspolicies bzgl.
-* Nutzung von publizierten Artikeln im Rahmen einer Dissertation, und
-* Nutzung von unveröffentlichten, eingereichten Artikeln im Rahmen einer Dissertation.
+* Nutzung von publizierten Zeitschriftenartikeln im Rahmen einer Dissertation, und
+* Nutzung von unveröffentlichten, eingereichten Zeitschriftenartikeln im Rahmen einer Dissertation.
 
 Informationen zu den Verlagspolicies werden in [Deutsch](/policies_DE.md) und [Englisch](/policies_EN.md) bereitgestellt.
 
