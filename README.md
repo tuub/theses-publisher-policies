@@ -35,6 +35,8 @@ See [License](/LICENSE) for more information.
 
 Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) was consulted and highly appreciated.
 
+The [University Library of Regensburg](http://www.uni-regensburg.de/library) contributed to this list.
+
 <a name="German"></a>
 # Verlagspolicies für kumulative Dissertationen
 
@@ -74,3 +76,5 @@ Für mehr Informationen siehe [License](/LICENSE).
 [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) war eine wichtige Ressource: [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) stellt allgemeine Informationen zu Policies von Verlagen (und Zeitschriften) bzgl. Zweitveröffentlichungen zur Verfügung.
 
 Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) wurden in Vorbereitung konsultiert.
+
+Die [Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/) hat zu dieser Liste beigetragen.
