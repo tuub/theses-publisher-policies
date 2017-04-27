@@ -7,6 +7,7 @@ When publishing a journal article, authors usually transfer exclusive rights to 
 This project summarises publisher policies on
 * re-use of published journal articles in a thesis, and
 * inclusion of yet unpublished, submitted journal articles in a thesis.
+
 Some (not all) publishers have different policies for self-archiving and re-use depending on the publication type: journal article or book chapter. While this list focuses on policies that cover journal articles some policies for book chapters are also included.
  
 Information on publisher policies is provided in [English](/policies_EN.md) and [German](/policies_DE.md).
@@ -33,6 +34,7 @@ See [License](/LICENSE) for more information.
 
 ## Acknowledgement
 [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) was of great help: [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) provides general information on publisher (and journal) policies regarding self-archiving.
+
 Details on re-use of book chapters were partly assembled from [this list](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=0) ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
 
 Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) was consulted and highly appreciated.
@@ -50,6 +52,7 @@ Viele Zeitschriftenverlage gestattet eine Open-Access-Zweitveröffentlichung und
 Dies Projekt stellt tabellarisch Informationen bereit zu Verlagspolicies bzgl.
 * Nutzung von publizierten Zeitschriftenartikeln im Rahmen einer Dissertation, und
 * Nutzung von unveröffentlichten, eingereichten Zeitschriftenartikeln im Rahmen einer Dissertation.
+
 Einige (nicht alle) Verlage machen ihre Bedingungen für  Open-Access-Zweitveröffentlichung und die Nachnutzung von Inhalten für weitere Veröffentlichungen​ abhängig von der Art der Publikation: Zeitschriftenartikel oder Buchkapitel. Diese Übersicht deckt überwiegend Policies für Zeitschriften ab; Policies für Buchkapitel wurden für einige Verlage ergänzt.
 
 Informationen zu den Verlagspolicies werden in [Deutsch](/policies_DE.md) und [Englisch](/policies_EN.md) bereitgestellt.
@@ -77,6 +80,7 @@ Für mehr Informationen siehe [License](/LICENSE).
 
 ## Danksagung
 [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) war eine wichtige Ressource: [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) stellt allgemeine Informationen zu Policies von Verlagen (und Zeitschriften) bzgl. Zweitveröffentlichungen zur Verfügung.
+
 Hinweise für die Nachnutzung von Buchkapiteln wurden z.T. [dieser Übersicht](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=0) ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)) entnommen.
 
 Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) wurden in Vorbereitung konsultiert.

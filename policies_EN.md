@@ -1,5 +1,7 @@
 # Publishers theses policies
 
+[See German version](/policies_DE.md)
+
 ## General terms for re-use
 * Listed here are details extracted from standardized policies and copyright agreements that are freely available online. In case you have agreed to deviating terms with the publisher please check your copyright agreement and follow the respective terms.
 * Listed here are policies for re-use of journal articles; very often policies for re-use of book chapters deviate.
