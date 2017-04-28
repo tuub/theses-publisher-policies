@@ -35,7 +35,7 @@ See [License](/LICENSE) for more information.
 ## Acknowledgement
 [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) was of great help: [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) provides general information on publisher (and journal) policies regarding self-archiving.
 
-Details on re-use of book chapters were partly assembled from [this list](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=0) ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
+Details on re-use of book chapters were partly assembled from [this list](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=0) ([linked from here](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
 
 Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) was consulted and highly appreciated.
 
