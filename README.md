@@ -1,5 +1,10 @@
-<a name="English"></a> 
 # Publisher theses policies
+
+<details>
+<summary>🇺🇸 English version (click here)</summary>
+
+<a name="English"></a> 
+
 [Diesen Text in Deutsch lesen](#German).
 
 ## Project description
@@ -40,6 +45,10 @@ Details on re-use of book chapters were partly assembled from [this list](https:
 Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) was consulted and highly appreciated.
 
 Cornelia Lang ([University Library of Regensburg](http://www.uni-regensburg.de/library)) contributed to this list.
+</details>
+
+<details open>
+<summary>🇩🇪 Deutsche Version</summary>
 
 <a name="German"></a>
 # Verlagspolicies für kumulative Dissertationen
@@ -86,3 +95,4 @@ Hinweise für die Nachnutzung von Buchkapiteln wurden z.T. [dieser Übersicht](h
 Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) wurden in Vorbereitung konsultiert.
 
 Cornelia Lang ([Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/)) hat zu dieser Liste beigetragen.
+</details>
