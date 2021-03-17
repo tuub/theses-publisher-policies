@@ -38,11 +38,11 @@ No rights reserved, this work is distributed under [Creative Commons Public Doma
 See [License](/LICENSE) for more information. 
 
 ## Acknowledgement
-[SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) was of great help: [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) provides general information on publisher (and journal) policies regarding self-archiving.
+[SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) was of great help: [SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) provides general information on publisher (and journal) policies regarding self-archiving.
 
-Details on re-use of book chapters were partly assembled from [this list](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=0) ([linked from here](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
+Details on re-use of book chapters were partly assembled from [this list](https://docs.google.com/spreadsheets/d/1i44kKzsFS412ugDTt0maanAUqy8LV5Rjj820dVkK9vs/edit#gid=1003624866) ([linked from here](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
 
-Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) was consulted and highly appreciated.
+Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) was consulted and highly appreciated.
 
 Cornelia Lang ([University Library of Regensburg](http://www.uni-regensburg.de/library)) contributed to this list.
 </details>
@@ -88,11 +88,11 @@ Sie dürfen das Werk kopieren, verändern, verbreiten und aufführen, sogar zu k
 Für mehr Informationen siehe [License](/LICENSE).
 
 ## Danksagung
-[SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) war eine wichtige Ressource: [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo) stellt allgemeine Informationen zu Policies von Verlagen (und Zeitschriften) bzgl. Zweitveröffentlichungen zur Verfügung.
+[SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) war eine wichtige Ressource: [SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) stellt allgemeine Informationen zu Policies von Verlagen (und Zeitschriften) bzgl. Zweitveröffentlichungen zur Verfügung.
 
-Hinweise für die Nachnutzung von Buchkapiteln wurden z.T. [dieser Übersicht](https://docs.google.com/spreadsheets/d/1-Lq_zzaGqge8SdY1DX-YXTN43JLn75jf2OhidJqXM60/edit#gid=0) ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)) entnommen.
+Hinweise für die Nachnutzung von Buchkapiteln wurden z.T. [dieser Übersicht](https://docs.google.com/spreadsheets/d/1i44kKzsFS412ugDTt0maanAUqy8LV5Rjj820dVkK9vs/edit#gid=1003624866) ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)) entnommen.
 
-Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/publisher-policies-thesis-content-and-article-publishing/) wurden in Vorbereitung konsultiert.
+Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) wurden in Vorbereitung konsultiert.
 
 Cornelia Lang ([Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/)) hat zu dieser Liste beigetragen.
 </details>
