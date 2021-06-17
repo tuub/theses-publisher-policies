@@ -15,11 +15,11 @@ This project summarises publisher policies on
 
 Some (not all) publishers have different policies for self-archiving and re-use depending on the publication type: journal article or book chapter. While this list focuses on policies that cover journal articles some policies for book chapters are also included.
  
-Information on publisher policies is provided in [English](/policies_EN.md) and [German](/policies_DE.md).
+Information on publisher policies is provided in [English](/policies.md).
 
 ## Contribute
 Want to contribute to this project? Great! Do so by 
-* committing to one of the lists (policies in [English](/policies_EN.md) or [German](/policies_DE.md)) in the repository,
+* committing to the [list](/policies.md) in the repository,
 * contacting us via e-mail (openaccess at ub.tu-berlin.de) to suggest updates, report errors, or add a new publisher
 
 Please note that this work is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/). By contributing you agree to do so under these terms.
@@ -44,7 +44,7 @@ Details on re-use of book chapters were partly assembled from [this list](https:
 
 Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) was consulted and highly appreciated.
 
-Cornelia Lang ([University Library of Regensburg](http://www.uni-regensburg.de/library)) contributed to this list.
+Cornelia Lang ([University Library of Regensburg](http://www.uni-regensburg.de/library)) and [Philipp Zumstein](https://github.com/zuphilip) ([UB Mannheim](https://www.bib.uni-mannheim.de/)) contributed to this list. Further policies were added after cross-checking the list provided by ETH Zurich ([in German](https://documentation.library.ethz.ch/display/RC/Kumulative+Dissertationen) or [in English](https://documentation.library.ethz.ch/display/RC/Cumulative+doctoral+theses)).
 </details>
 
 <details open>
@@ -64,11 +64,11 @@ Dies Projekt stellt tabellarisch Informationen bereit zu Verlagspolicies bzgl.
 
 Einige (nicht alle) Verlage machen ihre Bedingungen für  Open-Access-Zweitveröffentlichung und die Nachnutzung von Inhalten für weitere Veröffentlichungen​ abhängig von der Art der Publikation: Zeitschriftenartikel oder Buchkapitel. Diese Übersicht deckt überwiegend Policies für Zeitschriften ab; Policies für Buchkapitel wurden für einige Verlage ergänzt.
 
-Informationen zu den Verlagspolicies werden in [Deutsch](/policies_DE.md) und [Englisch](/policies_EN.md) bereitgestellt.
+Informationen zu den Verlagspolicies werden in [Englisch](/policies.md) bereitgestellt.
 
 ## Mitmachen
 Sie wollen zu diesem Projekt beitragen? Super! Sie können 
-* über GitHub direkt Änderungen zu einer der Übersichten (Policies in [Deutsch](/policies_DE.md) bzw. [Englisch](/policies_EN.md)) einreichen,
+* über GitHub direkt Änderungen zur [Übersicht](/policies.md) einreichen,
 * uns per E-Mail kontaktieren (openaccess at ub.tu-berlin.de), um Aktualisierungen oder einen neuen Verlag vorzuschlagen und Fehler zu melden.
 
 Bitte beachten Sie, dass dieses Projekt zu den Bedingungen von [CC0](http://creativecommons.org/publicdomain/zero/1.0/) verbreitet wird. Indem Sie mitmachen, stimmen Sie [CC0](http://creativecommons.org/publicdomain/zero/1.0/) auch für eigene Beiträge zu.
@@ -94,5 +94,5 @@ Hinweise für die Nachnutzung von Buchkapiteln wurden z.T. [dieser Übersicht](h
 
 Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) wurden in Vorbereitung konsultiert.
 
-Cornelia Lang ([Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/)) hat zu dieser Liste beigetragen.
+Cornelia Lang ([Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/)) und [Philipp Zumstein](https://github.com/zuphilip) ([UB Mannheim](https://www.bib.uni-mannheim.de/)) haben zu dieser Liste beigetragen. Weitere Verlagspolicies wurden nach Ableich der Liste der ETH Zürich ([auf Deutsch](https://documentation.library.ethz.ch/display/RC/Kumulative+Dissertationen) bzw. [auf Englisch](https://documentation.library.ethz.ch/display/RC/Cumulative+doctoral+theses)) ergänzt
 </details>
