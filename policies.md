@@ -58,12 +58,12 @@ Anchor [General terms for re-use](#General-terms-for-re-use) | [Glossary](#Gloss
 ## Publisher policies
 
 <details open>
-<summary> How to use this list </summary>
+<summary> How to use this list:</summary>
     
 * The date in *Last checked* indicates when the provided information was last verified; please contact us if you think the information is incomplete or out-of-date.
 * See *Re-use permitted for...* for information on which part (all and/or part of the paper), type (journal article and/or book chapter) and version (Preprint, Accepted manuscript, Published version) might be used and whether you have to respect an embargo period.
 * See *Prior publication policy* for information on whether you may include the paper in your thesis prior to it being officially published.
-* You always have to provide a proper, full citation (including DOI), some publishers have further requirements (often to include a specific statement, rarely to seek formal permission) -- these are noted as *Special requirements*.
+* You always have to provide a proper, full citation (including DOI), some publishers have further requirements (often to include a specific statement, rarely to seek formal permission) – these are noted as *Special requirements*.
 * Follow to links in *Source* to verify the provided information.
 </details>
 
@@ -130,7 +130,7 @@ Last checked: 17.06.2021
 Permitted but should be disclosed upon submission
 
 #### Special requirements
-* n.a.
+n.a.
 
 #### Source
 * [Reuse Author's Own Material](https://ascelibrary.org/page/informationforasceauthorsreusingyourownmaterial)

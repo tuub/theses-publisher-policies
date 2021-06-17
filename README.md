@@ -19,7 +19,7 @@ Information on publisher policies is provided in [English](/policies.md).
 
 ## Contribute
 Want to contribute to this project? Great! Do so by 
-* committing to the [list](/policies.md) in the repository,
+* committing to the repository (pull request) or creating an [issue](https://github.com/tuub/theses-publisher-policies/issues),
 * contacting us via e-mail (openaccess at ub.tu-berlin.de) to suggest updates, report errors, or add a new publisher
 
 Please note that this work is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/). By contributing you agree to do so under these terms.
@@ -68,7 +68,7 @@ Informationen zu den Verlagspolicies werden in [Englisch](/policies.md) bereitge
 
 ## Mitmachen
 Sie wollen zu diesem Projekt beitragen? Super! Sie können 
-* über GitHub direkt Änderungen zur [Übersicht](/policies.md) einreichen,
+* über GitHub direkt Änderungen einreichen (pull request) oder sog. [Issue](/issues) anlegen,
 * uns per E-Mail kontaktieren (openaccess at ub.tu-berlin.de), um Aktualisierungen oder einen neuen Verlag vorzuschlagen und Fehler zu melden.
 
 Bitte beachten Sie, dass dieses Projekt zu den Bedingungen von [CC0](http://creativecommons.org/publicdomain/zero/1.0/) verbreitet wird. Indem Sie mitmachen, stimmen Sie [CC0](http://creativecommons.org/publicdomain/zero/1.0/) auch für eigene Beiträge zu.
