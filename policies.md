@@ -1,6 +1,6 @@
 # Publishers theses policies
 
-Anchor [General terms for re-use](#General-terms-for-re-use) | [Glossary](#Glossary) | [Publisher polices](#Publisher-policies)
+[General terms for re-use](#General-terms-for-re-use) | [Glossary](#Glossary) | [Publisher polices](#Publisher-policies)
 
 ## General terms for re-use
 
@@ -12,20 +12,20 @@ Anchor [General terms for re-use](#General-terms-for-re-use) | [Glossary](#Gloss
 * Beim Veröffentlichen eines wissenschaftlichen Beitrags übertragen Autor\*innen in der Regel ausschließliche Nutzungsrechte an die Verlage. Viele Zeitschriftenverlage gestattet eine Open-Access-Zweitveröffentlichung und die Nachnutzung von Inhalten für weitere Veröffentlichungen durch die Autor\*innen selbst. Die Bedingungen der Verlage unterscheiden sich zum Teil stark, u.a. hinsichtlich der Nutzung von publizierten  und von unveröffentlichten, eingereichten Beiträgen im Rahmen einer Dissertation.
 * Hier aufgeführt werden Angaben aus **Standardverträgen bzw. Standardpolicies** der Verlage, die frei recherchierbar sind. Für den Fall, dass Sie mit dem Verlag abweichende Vereinbarungen getroffen haben, prüfen Sie bitte die genauen Bestimmungen Ihres Verlagsvertrages.
 * Falls der Artikel **Open Access** und unter einer freien Lizenz (Creative-Commons-Lizenz) beim Verlag erschienen ist, dann ist eine umfangreichere Nachnutzung als die hier genannte möglich. Dies kann neben reinen Open-Access-Zeitschriften auch in Abo-pflichtigen Zeitschriften der Fall sein, falls der Artikel als sogenanntes hybrides Open Access frei gekauft wurde oder zu Open Access über einen Publish-and-Read-Vertrag (z.B. [DEAL](https://www.projekt-deal.de/)) berechtigt war.
-* Hier aufgeführt werden Informationen, die sich auf die Nutzung für **Online-Dissertationen** beziehen. Wenn Sie Ihre kumulative Dissertation in einem (kommerziellen) Verlag publizieren wollen, klären Sie dies direkt mit den Verlagen.
+* Hier aufgeführt werden Informationen, die sich auf die Nutzung für **Online-Dissertationen** auf dem institutionellen Repositorium beziehen. Wenn Sie Ihre kumulative Dissertation in einem (kommerziellen) Verlag publizieren wollen, klären Sie dies direkt mit den Verlagen.
 * Einige (nicht alle) Verlage machen ihre Bedingungen für die Open-Access-Zweitveröffentlichung und die Nachnutzung von Inhalten für weitere Veröffentlichungen abhängig von der Art der Publikation: **Zeitschriftenartikel** oder **Buchkapitel**. Diese Übersicht deckt überwiegend Policies für Zeitschriften ab; Policies für Buchkapitel wurden für einige Verlage ergänzt. Bitte überprüfen Sie sorgfältig, ob die angeführte Policy auf Ihre Art von Beitrag anwendbar ist.
 * **Allgemein gilt**: Sie müssen die **Quelle der Erstveröffentlichung** korrekt und vollständig angeben und mithilfe der **DOI auf die Verlagsversion verlinken**. Darüberhinaus beachten Sie bitte ggf. die besonderen Auflagen der Verlage (**"Special requirements"**).
 * Prinzipiell ist die Vergabe einer Open-Access-konformen **freien Lizenz** (v.a. Creative Commons Namensnennung, CC BY) zu begrüßen. Für kumulative Dissertationen wird die Vergabe einer freien Lizenz im Allgemeinen nicht empfohlen, wenn bereits exklusive Rechte an Verlage abgetreten wurden.
-* Unten aufgeführt sind allgemeine Hinweise. Um eine andere Version nutzen zu können, eine Verkürzung der Embargofrist zu verhandeln o. Ä. müssen Sie die Genehmigung direkt beim Verlag einholen. Die meisten Verlage arbeiten für die Lizenzvergabe mit dem [RightsLink Service](http://www.copyright.com/rightsholders/rightslink-permissions/) des Copyright Clearance Center zusammen.
+* Unten aufgeführt sind allgemeine Hinweise. Um eine andere Version nutzen zu können, eine Verkürzung der Embargofrist zu verhandeln o.Ä. müssen Sie die Genehmigung direkt beim Verlag einholen. Die meisten Verlage arbeiten für die Lizenzvergabe mit dem [RightsLink Service](http://www.copyright.com/rightsholders/rightslink-permissions/) des Copyright Clearance Center zusammen.
 </details>
 
 <details open>
 <summary>🇺🇸 In English</summary>
     
-* When publishing a paper, authors usually transfer exclusive rights to the publisher. Most publishers have policies on self-archving and authors' own re-use of the content. Publisher terms differ though, a.o.t. regarding re-use of published papers and inclusion of yet unpublished, submitted papers in a thesis.
-* Listed here are details extracted from **standardized policies and copyright agreements** that are freely available online. In case you have agreed to deviating terms with the publisher please check your copyright agreement and follow the respective terms.
+* When publishing a paper, authors usually transfer exclusive rights to the publisher. Most publishers have policies on self-archving and authors' own re-use of the content. Publisher terms differ though, e.g. regarding re-use of published papers and inclusion of yet unpublished, submitted papers in a thesis.
+* Listed here are details extracted from **standardized policies and copyright agreements** that are freely available online. In case you have agreed to deviating terms with the publisher, please check your copyright agreement and follow the respective terms.
 * If the article was published open access and distributed under an open content license (Creative Commons license) there are a wider re-use options than described below. In addition to genuine open access journals, this can also be the case in subscription-based journals if the article was paid for on a single fee basis (so called hybrid open access) or Open Access was covered as part of a publish-and-read contract (e.g. [DEAL](https://www.projekt-deal.de/)).
-* Listed here is information that relates to use for **online theses**. If you want to publish your cumulative thesis with a (commercial) publisher, please check permissions/terms directly with the publishers.
+* Listed here is information that relates to use for **online theses** (published via the institutional repository). If you want to publish your cumulative thesis with a (commercial) publisher, please check permissions/terms directly with the publishers.
 * Some (not all) publishers have different policies for self-archiving and re-use depending on the type of publication: **journal article** or **book chapter**. While this list focuses on journal articles, some policies for book chapters are also included. Please check carefully whether the described policy applies to your type of contribution.
 * **In general**: You must provide a **proper, full citation** and use the **DOI to link to the publisher's version**. In addition, please check whether the publisher has any **Special requirements**, if applicable.
 * While the use of an open access compliant **free license** (especially Creative Commons Attribution, CC BY) is advisable in general, it is not recommended for a thesis by publication (cumulative dissertation) if exclusive rights have already been assigned to publishers.
@@ -60,11 +60,11 @@ Anchor [General terms for re-use](#General-terms-for-re-use) | [Glossary](#Gloss
 <details open>
 <summary> How to use this list:</summary>
     
-* The date in *Last checked* indicates when the provided information was last verified; please contact us if you think the information is incomplete or out-of-date.
-* See *Re-use permitted for...* for information on which part (all and/or part of the paper), type (journal article and/or book chapter) and version (Preprint, Accepted manuscript, Published version) might be used and whether you have to respect an embargo period.
-* See *Prior publication policy* for information on whether you may include the paper in your thesis prior to it being officially published.
-* You always have to provide a proper, full citation (including DOI), some publishers have further requirements (often to include a specific statement, rarely to seek formal permission) – these are noted as *Special requirements*.
-* Follow to links in *Source* to verify the provided information.
+* The date in **Last checked** indicates when the provided information was last verified; please contact us if you think the information is incomplete or out-of-date.
+* See **Re-use permitted for...** for information on which part (all and/or part of the paper), type (journal article and/or book chapter) and version (Preprint, Accepted manuscript, Published version) might be used and whether you have to respect an embargo period.
+* See **Prior publication policy** for information on whether you may include the paper in your thesis prior to it being officially published.
+* You always have to provide a proper, full citation (including DOI), some publishers have further requirements (often to include a specific statement, rarely to seek formal permission) – these are noted as **Special requirements**.
+* Follow the links in **Source** to verify the provided information.
 </details>
 
 
