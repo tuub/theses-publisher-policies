@@ -102,7 +102,7 @@ Last checked: 17.06.2021
 * Preprint,  Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -127,7 +127,7 @@ Last checked: 17.06.2021
 * Preprint, Accepted manuscript
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
 
 #### Special requirements
@@ -151,7 +151,7 @@ Last checked: 28.05.2021
 * Preprint, Accepted manuscript
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -174,7 +174,7 @@ Last checked: 01.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 * Journals have different policies on prior publication, cf. → [check policy](http://pubs.acs.org/page/policy/prior/index.html) for each journal
 
 #### Special requirements
@@ -200,7 +200,7 @@ Last checked: 16.06.2021
 * Embargo: 6 months for Published version
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -224,7 +224,7 @@ Last checked: 01.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -248,7 +248,7 @@ Last checked: 01.06.2021
 * Preprint, Accepted manuscript
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -272,8 +272,8 @@ Last checked: 01.06.2021
 * Preprint, Accepted manuscript
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
-Permitted for preprint	
+#### Re-use before official publication by publisher
+Permitted for preprint  
 
 #### Special requirements
 * Unpublished articles: reference to publisher and journal, giving the date of submission is recommended (e.g. "Draft version 1.3, 1/5/16. This paper has not been peer reviewed. Please do not copy or cite without author's permission.")
@@ -296,7 +296,7 @@ Last checked: 03.06.2021
 * Preprint, Accepted manuscript
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Generally permitted; obtain permission to use any APS prepared version
 
 #### Special requirements
@@ -318,7 +318,7 @@ Last checked: 16.06.2021
 * Preprint, Accepted manuscript, Published version
 * Embargo: 12 months for Published version
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -339,7 +339,7 @@ Last checked: 16.06.2021
 * Author must obtain publisher's permission
 * Fee might be charged for online re-use
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Author must obtain publisher's permission
 
 #### Special requirements
@@ -363,7 +363,7 @@ Last checked: 03.06.2021
 * No embargo
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -386,7 +386,7 @@ Last checked: 16.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
     
 #### Special requirements
@@ -411,7 +411,7 @@ General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-f
 * Preprint, Accepted manuscript
 * Embargo: 6 months for STM journals, no embargo for SSH journals (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2))
 
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -436,7 +436,7 @@ Last checked: 03.06.2021
 * Published version
 * 12 months embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Usually permitted, but author must obtain publisher‘s permission directly
 
 #### Special requirements
@@ -458,7 +458,7 @@ Last checked: 17.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -482,7 +482,7 @@ Last checked: 16.06.2021
 * Preprint (accepted or published version may not be used)
 * Embargo: 6 months    
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
     
 #### Special requirements
@@ -504,7 +504,7 @@ Last checked: 04.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 * Generally permitted, some journals have deviating rules → check policy for each journal
 * e.g. [Cell Press](https://www.cell.com/cell/authors) and [Lancet](https://www.thelancet.com/lancet/about): prior publication prohibited
 
@@ -529,7 +529,7 @@ Last checked: 04.06.2021
 * Preprint, Accepted manuscript
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Generally permitted, managing editor should be informed
 
 #### Special requirements
@@ -549,7 +549,7 @@ Last checked: 04.06.2021
 #### Re-use permitted for...
 Author must obtain publisher's permission
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Author must obtain publisher's permission
 
 #### Special requirements
@@ -571,7 +571,7 @@ Last checked: 04.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -597,7 +597,7 @@ Last checked: 04.06.2021
 * Preprint, Accepted manuscript
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted for Accepted manuscript
 
 #### Special requirements
@@ -618,7 +618,7 @@ Last checked: 17.06.2021
 #### Re-use permitted for...
 Author must obtain publisher's permission
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Author must obtain publisher's permission
 
 #### Special requirements
@@ -640,7 +640,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript
 * 12 months embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -663,7 +663,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript
 * Embargo: 12 months embargo for Accepted manuscript
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -689,7 +689,7 @@ Last checked: 17.06.2021
 * Preprint, Accepted manuscript
 * Embargo: 12 months embargo for Accepted manuscript
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Generally permitted, publisher should be contacted in advance
 
 #### Special requirements
@@ -713,7 +713,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript
 * Embargo: Accepted manuscript 6 months
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -737,7 +737,7 @@ Last checked: 17.06.2021
 * Accepted manuscript
 * Embargo: 12 months
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
 
 #### Special requirements
@@ -760,7 +760,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript
 * Embargo: Accepted manuscript 12–24 months >> varies per discipline, cf. [Author Reuse](https://global.oup.com/academic/rights/permissions/autperm/?cc=de&lang=en&)
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -783,7 +783,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript
 * Embargo: Accepted manuscript 12–24 months → check per journal, cf. [Embargo periods](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/embargo_periods)
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Generally permitted, managing editor should be informed
 
 #### Special requirements
@@ -809,7 +809,7 @@ Last checked: 17.06.2021
 * No embargo
 
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -832,7 +832,7 @@ Last checked: 08.06.2021
 * Accepted manuscript
 * 12 months embargo for STEM, 18 months embargo for Humanities and Social Sciences
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
 
 #### Special requirements
@@ -855,7 +855,7 @@ Last checked: 17.06.2021
 * Preprint, Accepted manuscript
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
 
 #### Special requirements
@@ -879,7 +879,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -905,7 +905,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 * Generally permitted – except for some journals (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
 * Follow directions for [Prior Publication](https://us.sagepub.com/en-us/nam/prior-publication)
 
@@ -929,7 +929,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -952,7 +952,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -975,7 +975,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript, Published version
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
@@ -991,25 +991,26 @@ Permitted
 ### Springer
 
 <details>
-Last checked: 17.06.2021
+Last checked: 25.11.2021
 
 #### Re-use permitted for...
 * Article
-* Accepted manuscript, Published version
-* No embargo
+* Accepted manuscript: yes :warning: 12 months embargo
+* Published version :white_check_mark:
 * Applies to journal articles (permission for book chapters has to be obtained directly)
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 * In general: Inclusion of unpublished articles in thesis not permitted. → Recommendation: preprint on preprint server, link to preprint in thesis
 * Check your Copyright Transfer Statement (CTS) or Licence to Publish (LTP) with Springer (exceptions might exist)
 
 #### Special requirements
 * Wait for official publication by Springer (thesis may not be freely available before article is published online)    
-* Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards.
+*  Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards.
 Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’
+* Accepted version → Include fixed statement: "This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature’s [AM terms of use](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms), but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: http://dx.doi.org/[insert DOI]"
 
 #### Source
-* [Open Access Publication Policies](https://www.springer.com/gp/open-access/publication-policies)
+* [Open Access policies for journals → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/journal-policies)
 * [Permissions to reuse](https://www.springer.com/gp/rights-permissions/obtaining-permissions/882)
     
 </details>
@@ -1025,7 +1026,7 @@ Last checked: 08.06.2021
 * Preprint, Accepted manuscript
 * Embargo: journals have varying embargoes → check per journal, cf. [Open Access cost finder](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/)
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted for preprint
 
 #### Special requirements
@@ -1050,7 +1051,7 @@ Last checked: 16.06.2021
 * Accepted manuscript
 * No embargo
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Policy unknown
 
 #### Special requirements
@@ -1075,7 +1076,7 @@ Unless otherwise agreed, i.e. if no copyright transfer agreement or other writte
 * Accepted manuscript, Published version
 * Embargo: 12 months
  
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Policy unknown → please contact the managing editor
 
 #### Special requirements
@@ -1090,24 +1091,25 @@ n.a.
 ### Wiley
 
 <details>
-Last checked: 08.06.2021
+Last checked: 25.11.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published Version
-* No embargo 
+* Preprint :white_check_mark:  (include statement)
+* Accepted manuscript :white_check_mark:  (include statement)
+* Published Version :white_check_mark:
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Generally permitted, some journals have deviating rules → check policy for each journal
 
 #### Special requirements
-* Preprint: include fixed statement "This is the pre-peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
-* Accepted manuscript: include fixed statement "This is the peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
+* Preprint → include fixed statement "This is the pre-peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
+* Accepted manuscript → include fixed statement "This is the peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
 
 #### Source
+* [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) 
 * [CTA Example](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) (PDF)
 * [ELA-A Example](https://onlinelibrary.wiley.com/pb-assets/assets/18790844/eELA-A_sample-1509551432000.pdf) (PDF)
-* [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) 
 * [Self-Archiving Policy](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html) 
     
 </details>
@@ -1116,14 +1118,13 @@ Generally permitted, some journals have deviating rules → check policy for eac
 ### Wiley-VCH
 
 <details>
-Last checked: 08.06.2021
+Last checked: 25.11.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Published version
-* No embargo
+* Published version :white_check_mark:
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Policy ambiguous, recommended to contact managing editor
 
 #### Special requirements
@@ -1138,20 +1139,20 @@ n.a.
 ### World Scientific
 
 <details>
-Last checked: 08.06.2021
+Last checked: 25.11.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* Embargo: 12 months for Accepted manuscript
+* Preprint :white_check_mark:  (include statement)
+* Accepted manuscript: yes :warning:  12 months embargo, include statement
     
-#### Prior publication policy (prior to publisher's version)
+#### Re-use before official publication by publisher
 Permitted (include statement)
 
 #### Special requirements
-* Unpublished articles under review (Preprint used in thesis): include fixed statement "Preprint of an article submitted for consideration in [Journal] © [Year] [copyright World Scientific Publishing Company] [Journal URL]"
-* Published articles (Preprint used in thesis): include fixed statement "Preprint of an article published in [Journal, Volume, Issue, Year, Pages] [Article DOI] © [copyright World Scientific Publishing Company] [Journal URL]"
-* Published articles (Accepted manuscript used in thesis): include fixed statement "Electronic version of an article published as [Journal, Volume, Issue, Year, Pages] [Article DOI] © [copyright World Scientific Publishing Company] [Journal URL]"
+* Unpublished articles under review – Preprint used in thesis → include fixed statement "Preprint of an article submitted for consideration in [Journal] © [Year] [copyright World Scientific Publishing Company] [Journal URL]"
+* Published articles – Preprint used in thesis → include fixed statement "Preprint of an article published in [Journal, Volume, Issue, Year, Pages] [Article DOI] © [copyright World Scientific Publishing Company] [Journal URL]"
+* Published articles – Accepted manuscript used in thesis → include fixed statement "Electronic version of an article published as [Journal, Volume, Issue, Year, Pages] [Article DOI] © [copyright World Scientific Publishing Company] [Journal URL]"
 
 #### Source
 * [Author Rights](https://www.worldscientific.com/page/authors/author-rights)
