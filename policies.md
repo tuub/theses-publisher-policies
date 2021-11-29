@@ -99,8 +99,9 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * Article
-* Preprint,  Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -124,8 +125,8 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint: yes :warning: but re-use should be disclosed upon submission
+* Accepted manuscript: yes :warning: but re-use should be disclosed upon submission
     
 #### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
@@ -148,8 +149,8 @@ Last checked: 28.05.2021
 #### Re-use permitted for...
 * All or part of the article
 * Journal article, Book chapter
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -171,8 +172,9 @@ Last checked: 01.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: but check policy for re-use before official publication by publisher (http://pubs.acs.org/page/policy/prior/index.html)
+* Published version: yes :warning: but check policy for re-use before official publication by publisher (http://pubs.acs.org/page/policy/prior/index.html)
 
 #### Re-use before official publication by publisher
 * Journals have different policies on prior publication, cf. → [check policy](http://pubs.acs.org/page/policy/prior/index.html) for each journal
@@ -196,8 +198,8 @@ Last checked: 16.06.2021
 
 #### Re-use permitted for...
 * Article
-* Preprint, Published version
-* Embargo: 6 months for Published version
+* Preprint :white_check_mark:
+* Published version: yes :warning: but only after 6 months embargo
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
 #### Re-use before official publication by publisher
@@ -221,8 +223,9 @@ Last checked: 01.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -245,8 +248,8 @@ Last checked: 01.06.2021
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -269,8 +272,8 @@ Last checked: 01.06.2021
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: but only after official publication by publisher
 
 #### Re-use before official publication by publisher
 Permitted for preprint  
@@ -293,8 +296,8 @@ Last checked: 03.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
 
 #### Re-use before official publication by publisher
 Generally permitted; obtain permission to use any APS prepared version
@@ -315,8 +318,9 @@ Last checked: 16.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* Embargo: 12 months for Published version
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version: yes :warning: but only after 12 months embargo
 
 #### Re-use before official publication by publisher
 Permitted
@@ -359,8 +363,8 @@ Last checked: 03.06.2021
 
 #### Re-use permitted for...
 * Article, Book chapter
-* Preprint, Accepted 
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
 #### Re-use before official publication by publisher
@@ -383,8 +387,9 @@ Last checked: 16.06.2021
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book)
 * Policy for monographs or edited volumes (does not apply to textbooks, works of reference etc.)
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -408,8 +413,8 @@ Last checked: 03.06.2021
 #### Re-use permitted for...
 General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2) for journals with different, more permissive policy):
 * Article
-* Preprint, Accepted manuscript
-* Embargo: 6 months for STM journals, no embargo for SSH journals (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2))
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: but with 6 months embargo for STM journals, no embargo for SSH journals (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2))
 
 #### Re-use before official publication by publisher
 Permitted
@@ -433,8 +438,9 @@ Last checked: 03.06.2021
 #### Re-use permitted for...
 * Article
 * Journal article, Book chapter
-* Published version
-* 12 months embargo
+* Preprint: yes :warning: but for re-use before official publication author must obtain publisher‘s permission directly 
+* Accepted manuscript: yes :warning: but for re-use before official publication author must obtain publisher‘s permission directly 
+* Published version: yes :warning: but only after 12 months embargo
     
 #### Re-use before official publication by publisher
 Usually permitted, but author must obtain publisher‘s permission directly
@@ -455,8 +461,9 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * Article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -479,8 +486,7 @@ Last checked: 16.06.2021
 #### Re-use permitted for...
 * All or part of the article    
 * Book chapter (max. 2 chapters per book), journal article (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
-* Preprint (accepted or published version may not be used)
-* Embargo: 6 months    
+* Preprint: yes :warning: but only after embargo of 6 months    
     
 #### Re-use before official publication by publisher
 Permitted
@@ -501,8 +507,9 @@ Last checked: 04.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint: yes :warning: but for re-use before official publication check policy for the journal
+* Accepted manuscript: yes :warning: but for re-use before official publication check policy for the journal
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 * Generally permitted, some journals have deviating rules → check policy for each journal
@@ -526,8 +533,8 @@ Last checked: 04.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint: yes :warning: but managing editor should be informed in case of re-use before official publication
+* Accepted manuscript: yes :warning: but managing editor should be informed in case of re-use before official publication
     
 #### Re-use before official publication by publisher
 Generally permitted, managing editor should be informed
@@ -568,8 +575,9 @@ Last checked: 04.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -594,8 +602,8 @@ Last checked: 04.06.2021
 #### Re-use permitted for...
 * All or part of the article
 * Journal article, Book chapter
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint: yes :warning: but only after official publication by publisher
+* Accepted manuscript :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted for Accepted manuscript
@@ -637,8 +645,8 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* 12 months embargo
+* Preprint: yes :warning: but only after 12 months embargo
+* Accepted manuscript: yes :warning: but only after 12 months embargo
     
 #### Re-use before official publication by publisher
 Permitted
@@ -660,8 +668,8 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* Embargo: 12 months embargo for Accepted manuscript
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: but only after 12 months embargo
     
 #### Re-use before official publication by publisher
 Permitted
@@ -686,8 +694,8 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* Embargo: 12 months embargo for Accepted manuscript
+* Preprint: yes :warning: but in case of re-use before official publication publisher should be contacted in advance
+* Accepted manuscript: yes :warning: but only after 12 months embargo; in case of re-use before official publication publisher should be contacted in advance
     
 #### Re-use before official publication by publisher
 Generally permitted, publisher should be contacted in advance
@@ -710,8 +718,8 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* Embargo: Accepted manuscript 6 months
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: but only after 6 months embargo
     
 #### Re-use before official publication by publisher
 Permitted
