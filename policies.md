@@ -122,23 +122,23 @@ Include copyright notice on initial page of the article
 ### American Society of Civil Engineers (ASCE)
 
 <details>
-Last checked: 17.06.2021
+Last checked: 1.12.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :warning: but re-use should be disclosed upon submission
-* Accepted manuscript: yes :warning: but re-use should be disclosed upon submission
+* Accepted manuscript: :white_check_mark:  (include statement)
     
 #### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
 
 #### Special requirements
-n.a.
+Include fixed statement: "This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. This material may be found at [URL/link of abstract in the ASCE Library or Civil Engineering Database]."
 
 #### Source
-* [Reuse Author's Own Material](https://ascelibrary.org/page/informationforasceauthorsreusingyourownmaterial)
 * [Publishing in ASCE Journals](https://doi.org/10.1061/9780784479018) (PDF)
-    
+* [Reuse Author's Own Material](https://ascelibrary.org/page/informationforasceauthorsreusingyourownmaterial)
+
 </details>
 
 
@@ -169,25 +169,23 @@ Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's v
 ### American Chemical Society (ACS)
 
 <details>
-Last checked: 01.06.2021
+Last checked: 01.12.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: but [check policy](http://pubs.acs.org/page/policy/prior/index.html) for re-use before official publication by publisher 
-* Published version: yes :warning: but [check policy](http://pubs.acs.org/page/policy/prior/index.html) for re-use before official publication by publisher
+* Preprint: yes, depending on journal :warning: but [check policy](http://pubs.acs.org/page/policy/prior/index.html) for re-use before official publication by publisher (when in doubt contact ACS journal editor)
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
 
 #### Re-use before official publication by publisher
 * Journals have different policies on prior publication, cf. → [check policy](http://pubs.acs.org/page/policy/prior/index.html) for each journal
 
 #### Special requirements
-* Obtain permission by ACS journal editor (e-mail sufficient)
 * Unpublished articles: include fixed statement "Reproduced (or 'Reproduced in part') with permission from [JOURNAL NAME], in press (or 'submitted for publication'). Unpublished work copyright [CURRENT YEAR] American Chemical Society."
 * Published articles: include fixed statement "Reproduced (or 'Reproduced in part') with permission from [FULL REFERENCE CITATION.] Copyright [YEAR] American Chemical Society."
 
 #### Source
 * [American Chemical Society’s Policy on Theses and Dissertations](http://pubs.acs.org/userimages/ContentEditor/1218205107465/dissertation.pdf) (PDF)
-
 
 </details>
 
@@ -200,7 +198,7 @@ Last checked: 16.06.2021
 #### Re-use permitted for...
 * Article
 * Preprint :white_check_mark:
-* Published version: yes :warning: but only after 6 months embargo
+* Published version: yes :warning: 6 months embargo, include statement
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
 #### Re-use before official publication by publisher
@@ -249,7 +247,7 @@ Last checked: 01.06.2021
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint :white_check_mark:
+* Preprint :white_check_mark: 
 * Accepted manuscript :white_check_mark:
 
 #### Re-use before official publication by publisher
@@ -274,7 +272,7 @@ Last checked: 01.06.2021
 #### Re-use permitted for...
 * All or part of the article
 * Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: but only after official publication by publisher
+* Accepted manuscript: yes :warning: but only after official publication by publisher, include statement
 
 #### Re-use before official publication by publisher
 Permitted for preprint  
@@ -321,7 +319,7 @@ Last checked: 16.06.2021
 * All or part of the journal article
 * Preprint :white_check_mark:
 * Accepted manuscript :white_check_mark:
-* Published version: yes :warning: but only after 12 months embargo
+* Published version: yes :warning: 12 months embargo
 
 #### Re-use before official publication by publisher
 Permitted
@@ -441,7 +439,7 @@ Last checked: 03.06.2021
 * Journal article, Book chapter
 * Preprint: yes :warning: but for re-use before official publication author must obtain publisher‘s permission directly 
 * Accepted manuscript: yes :warning: but for re-use before official publication author must obtain publisher‘s permission directly 
-* Published version: yes :warning: but only after 12 months embargo
+* Published version: yes :warning: 12 months embargo
     
 #### Re-use before official publication by publisher
 Usually permitted, but author must obtain publisher‘s permission directly
@@ -482,21 +480,21 @@ Include fixed statement "The original publication is available at www…."
 ### Edward Elgar
 
 <details>
-Last checked: 16.06.2021
+Last checked: 1.12.2021
 
 #### Re-use permitted for...
 * All or part of the article    
 * Book chapter (max. 2 chapters per book), journal article (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
-* Preprint: yes :warning: but only after embargo of 6 months    
+* Preprint: yes :warning: but only after official publication by publisher
     
 #### Re-use before official publication by publisher
 Permitted
     
 #### Special requirements
-Published chapters: include fixed statement "This is a draft chapter / article. The final version is available in [insert book title] edited by [insert editor(s) or author(s)], published in 20xx by Edward Elgar Publishing Ltd. The material cannot be used for any other purpose without further permission of the publisher, and is for private use only."
+Include fixed statement "This is a draft chapter / article. The final version is available in [insert book title] edited by [insert editor(s) or author(s)], published in 20xx by Edward Elgar Publishing Ltd. The material cannot be used for any other purpose without further permission of the publisher, and is for private use only."
 
 #### Source
-* [Self-Archiving and Personal Use](https://www.e-elgar.com/author-hub/reuse-of-your-work/)
+* [Reuse of your work](https://www.e-elgar.com/author-hub/reuse-of-your-work/)
     
 </details>
 
@@ -1032,7 +1030,7 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:  (include statement)
+* Preprint :white_check_mark:
 * Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/), include statement)
     
 #### Re-use before official publication by publisher
@@ -1057,7 +1055,7 @@ Last checked: 16.06.2021
 
 #### Re-use permitted for...
 * Journal articles
-* Accepted manuscript :white_check_mark: (include statement)
+* Accepted manuscript :white_check_mark:
     
 #### Re-use before official publication by publisher
 Policy unknown
@@ -1102,8 +1100,8 @@ Last checked: 25.11.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:  (include statement)
-* Accepted manuscript :white_check_mark:  (include statement)
+* Preprint :white_check_mark: 
+* Accepted manuscript :white_check_mark: 
 * Published Version :white_check_mark:
     
 #### Re-use before official publication by publisher
@@ -1150,7 +1148,7 @@ Last checked: 25.11.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:  (include statement)
+* Preprint :white_check_mark: 
 * Accepted manuscript: yes :warning:  12 months embargo, include statement
     
 #### Re-use before official publication by publisher
