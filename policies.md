@@ -95,7 +95,7 @@ Include fixed statement: "This is the author’s version of the work. It is post
 ### American Society for Microbiology (ASM)
 
 <details>
-Last checked: 17.06.2021
+Last checked: 1.12.2021
 
 #### Re-use permitted for...
 * Article
@@ -110,10 +110,11 @@ Permitted
 Include copyright notice on initial page of the article
 
 #### Source
-* [Statement of Author Rights](https://journals.asm.org/content/statement-author-rights)
-* Standard ASM Copyright agreement - September 2016
+* [Author Self-Archiving & Permissions](https://journals.asm.org/author-self-archiving-permissions)
 * [Duplicate Publications](https://journals.asm.org/duplicate-publications)
 * [Preprint Policy](https://journals.asm.org/preprint-policy)
+* [ASM Copyright and Crown Copyright Agreements](https://journals.asm.org/asm-copyright-and-crown-copyright-agreements)
+
     
 </details>
 
@@ -173,8 +174,8 @@ Last checked: 01.06.2021
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: but check policy for re-use before official publication by publisher (http://pubs.acs.org/page/policy/prior/index.html)
-* Published version: yes :warning: but check policy for re-use before official publication by publisher (http://pubs.acs.org/page/policy/prior/index.html)
+* Accepted manuscript: yes :warning: but [check policy](http://pubs.acs.org/page/policy/prior/index.html) for re-use before official publication by publisher 
+* Published version: yes :warning: but [check policy](http://pubs.acs.org/page/policy/prior/index.html) for re-use before official publication by publisher
 
 #### Re-use before official publication by publisher
 * Journals have different policies on prior publication, cf. → [check policy](http://pubs.acs.org/page/policy/prior/index.html) for each journal
@@ -1031,8 +1032,8 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* Embargo: journals have varying embargoes → check per journal, cf. [Open Access cost finder](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/)
+* Preprint :white_check_mark:  (include statement)
+* Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/), include statement)
     
 #### Re-use before official publication by publisher
 Permitted for preprint
@@ -1056,8 +1057,7 @@ Last checked: 16.06.2021
 
 #### Re-use permitted for...
 * Journal articles
-* Accepted manuscript
-* No embargo
+* Accepted manuscript :white_check_mark: (include statement)
     
 #### Re-use before official publication by publisher
 Policy unknown
@@ -1078,11 +1078,10 @@ Include fixed statement "This is an Accepted Manuscript of an article published 
 Last checked: 16.06.2021
 
 #### Re-use permitted for...
-Unless otherwise agreed, i.e. if no copyright transfer agreement or other written agreement was used:
 
 * Article, Book chapter
-* Accepted manuscript, Published version
-* Embargo: 12 months
+* Accepted manuscript: yes, unless otherwise agreed, i.e. if no copyright transfer agreement or other written agreement was used :warning: 12 months embargo
+* Published version: yes, unless otherwise agreed, i.e. if no copyright transfer agreement or other written agreement was used :warning: 12 months embargo
  
 #### Re-use before official publication by publisher
 Policy unknown → please contact the managing editor
