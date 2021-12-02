@@ -694,7 +694,7 @@ Last checked: 17.06.2021
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :warning: but in case of re-use before official publication publisher should be contacted in advance
-* Accepted manuscript: yes :warning: but only after 12 months embargo; in case of re-use before official publication publisher should be contacted in advance
+* Accepted manuscript: yes :warning: 12 months embargo; in case of re-use before official publication publisher should be contacted in advance
     
 #### Re-use before official publication by publisher
 Generally permitted, publisher should be contacted in advance
@@ -718,7 +718,7 @@ Last checked: 08.06.2021
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: but only after 6 months embargo
+* Accepted manuscript: yes :warning: 6 months embargo
     
 #### Re-use before official publication by publisher
 Permitted
@@ -727,7 +727,7 @@ Permitted
 n.a.
 
 #### Source
-* [Self archiving and license to publish](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish), 
+* [Self archiving and license to publish](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish) 
 * [Nature journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism)
     
 </details>
@@ -741,8 +741,7 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * Article
-* Accepted manuscript
-* Embargo: 12 months
+* Accepted manuscript: yes :warning: 12 months embargo, include statement
     
 #### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
@@ -764,8 +763,8 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book/anthology)
-* Preprint, Accepted manuscript
-* Embargo: Accepted manuscript 12–24 months >> varies per discipline, cf. [Author Reuse](https://global.oup.com/academic/rights/permissions/autperm/?cc=de&lang=en&)
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: 12–24 months embargo (varies per discipline, cf. [Author Reuse](https://global.oup.com/academic/rights/permissions/autperm/?cc=de&lang=en&))
     
 #### Re-use before official publication by publisher
 Permitted
@@ -775,7 +774,7 @@ Permitted
 * Published books: include fixed statement "[Title] by/edited by [Author/editor], [year of publication], reproduced by permission of Oxford University Press [link to OUP catalogue if available, or OUP website]"
 
 #### Source
-[Author self-archiving policy](https://global.oup.com/academic/rights/permissions/autperm/?cc=de&lang=en&)
+[Author self-archiving policy](https://global.oup.com/academic/rights/permissions/autperm/)
     
 </details>
 
@@ -787,8 +786,8 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* Embargo: Accepted manuscript 12–24 months → check per journal, cf. [Embargo periods](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/embargo_periods)
+* Preprint :white_check_mark:
+* Accepted manuscript: yes :warning: 12–24 months embargo (check per journal, cf. [Embargo periods](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/embargo_periods))
     
 #### Re-use before official publication by publisher
 Generally permitted, managing editor should be informed
@@ -812,8 +811,9 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
 
     
 #### Re-use before official publication by publisher
@@ -836,8 +836,7 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book)
-* Accepted manuscript
-* 12 months embargo for STEM, 18 months embargo for Humanities and Social Sciences
+* Accepted manuscript: yes :warning: 12 months embargo for STEM, 18 months embargo for Humanities and Social Sciences
     
 #### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
@@ -848,6 +847,7 @@ Include fixed statement: "This is an Accepted Manuscript of a book chapter publi
 #### Source
 * [Policies for Open Access Book Chapters](https://s3-us-west-2.amazonaws.com/tandfbis/rt-files/docs/Routledge+T%26F+Policies+for+Open+Access+Book+Chapters+FINAL.pdf) (PDF) 
 * [Publishing Open Access Books: Chapters](https://www.routledge.com/our-products/open-access-books/publishing-oa-books/chapters)
+* [Routledge Permissions for Books \& Journals](https://www.routledge.com/contacts/rights-and-permissions/permissions)
     
 </details>
 
@@ -859,8 +859,8 @@ Last checked: 17.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
@@ -883,8 +883,9 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark: 
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -895,9 +896,9 @@ Include fixed statement – either standard or non-standard [acknowledgement](ht
 * Non-standard for some journals ([cf. Info RSC](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements))
 
 #### Source
-* [Open Access](https://www.rsc.org/journals-books-databases/open-access/#choose)  
 * [Licences, copyright \& permissions](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions)  
 * [Our processes \& policies](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/processes-policies)
+* [Open Access](https://www.rsc.org/journals-books-databases/open-access/#choose)  
     
 </details>
 
@@ -909,15 +910,17 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark: (:warning: (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
+* Accepted manuscript :white_check_mark: 
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 * Generally permitted – except for some journals (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
 * Follow directions for [Prior Publication](https://us.sagepub.com/en-us/nam/prior-publication)
 
 #### Special requirements
-DOI and fixed statement must be included: "Author(s), Article Title, Journal Title (Journal Volume Number and Issue Number) pp. xx-xx. Copyright © [year] (Copyright Holder). Reprinted by permission of SAGE Publications."
+* Accepted, unpublished articles: include a statement that your Contribution has been accepted for publication in the journal 
+* Published articles: DOI and fixed statement must be included: "Author(s), Article Title, Journal Title (Journal Volume Number and Issue Number) pp. xx-xx. Copyright © [year] (Copyright Holder). Reprinted by permission of SAGE Publications."
 
 #### Source
 * [Journal Author Archiving Policies and Re-Use](https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use) 
@@ -933,8 +936,9 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark: 
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -956,8 +960,9 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark: 
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -979,8 +984,9 @@ Last checked: 08.06.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint, Accepted manuscript, Published version
-* No embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark: 
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
