@@ -169,24 +169,25 @@ Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's v
 ### American Chemical Society (ACS)
 
 <details>
-Last checked: 01.12.2021
+Last checked: 03.12.2021
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: yes, depending on journal :warning: but [check policy](http://pubs.acs.org/page/policy/prior/index.html) for re-use before official publication by publisher (when in doubt contact ACS journal editor)
+* Preprint: :white_check_mark:
 * Accepted manuscript :white_check_mark:
 * Published version :white_check_mark:
 
 #### Re-use before official publication by publisher
-* Journals have different policies on prior publication, cf. → [check policy](http://pubs.acs.org/page/policy/prior/index.html) for each journal
+Permitted
 
 #### Special requirements
-* Unpublished articles: include fixed statement "Reproduced (or 'Reproduced in part') with permission from [JOURNAL NAME], in press (or 'submitted for publication'). Unpublished work copyright [CURRENT YEAR] American Chemical Society."
-* Published articles: include fixed statement "Reproduced (or 'Reproduced in part') with permission from [FULL REFERENCE CITATION.] Copyright [YEAR] American Chemical Society."
-
+* Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: * 'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
+    
+    
 #### Source
-* [American Chemical Society’s Policy on Theses and Dissertations](http://pubs.acs.org/userimages/ContentEditor/1218205107465/dissertation.pdf) (PDF)
-
+* [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation.pdf) (PDF)
+* [Use of Materials from ACS Journals (other than ACS AuthorChoice Open Access content)](https://pubs.acs.org/page/copyright/permissions_journals.html)
+    
 </details>
 
 
