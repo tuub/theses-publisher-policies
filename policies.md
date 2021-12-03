@@ -182,7 +182,7 @@ Permitted
 
 #### Special requirements
 * Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: * 'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
-    
+* For online thesis -- include the "ACS Articles on Request author-directed link" to the published version (cf. [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation.pdf) (PDF)
     
 #### Source
 * [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation.pdf) (PDF)
