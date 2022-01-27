@@ -732,6 +732,7 @@ n.a.
 * [Nature journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism)
     
 </details>
+
 ### Optica Publishing Group (Optical Society of America, OSA)
 
 <details>
