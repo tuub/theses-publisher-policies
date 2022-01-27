@@ -181,7 +181,7 @@ Last checked: 03.12.2021
 Permitted
 
 #### Special requirements
-* Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: * 'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
+* Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: *'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
 * For online thesis -- include the "ACS Articles on Request author-directed link" to the published version (cf. [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation.pdf) (PDF)
     
 #### Source
@@ -732,27 +732,31 @@ n.a.
 * [Nature journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism)
     
 </details>
-
-
-### Optical Society of America (OSA)
+### Optica Publishing Group (Optical Society of America, OSA)
 
 <details>
     
-Last checked: 17.06.2021
+Last checked: 27.01.2022
 
 #### Re-use permitted for...
 * Article
 * Accepted manuscript: yes :warning: 12 months embargo, include statement
+* For articles labeled as "Open Access": Published version may be used, include statement
     
 #### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
 
 #### Special requirements
-Include fixed statement "© XXXX [year] Optical Society of America. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
+Include fixed statement
+* Non-open-access articles, published under the [Copyright Transfer Agreement (PDF)](https://opg.optica.org/submit/forms/CopyrightTransferForm-2021-09-20.pdf): "© XXXX [year] Optica Publishing Group. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
+* For articles labeled as *Open Access*, published under the "[Open Access Publishing Agreement (PDF)](https://opg.optica.org/submit/review/pdf/CopyrightTransferOpenAccessAgreement-2021-09-20.pdf)": "© XXXX [year] Optica Publishing Group under the terms of the Open Access Publishing Agreement. Users may use, reuse, and build upon the article, or use the article for text or data mining, so long as such uses are for noncommercial purposes and appropriate attribution is maintained. All other rights are reserved."
+* For articles labeled as *Open Access*, published under the OSA Copyright Transfer Agreement (prior to September 2017): "© XXXX [year] Optical Society of America. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
+
 
 #### Source
 * [Copyright Transfer and Licensing Information](https://www.osapublishing.org/submit/review/copyright_permissions.cfm)
-* [OSA Copyright Transfer Agreement](https://www.osapublishing.org/submit/forms/copyxfer.pdf) (PDF)
+* [OSA Copyright Transfer Agreement](https://opg.optica.org/submit/forms/CopyrightTransferForm-2021-09-20.pdf) (PDF)
+* [OSA Copyright Transfer and Open Access Publishing Agreement](https://opg.optica.org/submit/review/pdf/CopyrightTransferOpenAccessAgreement-2021-09-20.pdf) (PDF)
     
 </details>
 
