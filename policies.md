@@ -714,7 +714,10 @@ Generally permitted, publisher should be contacted in advance
 ### Nature Publishing Group (NPG)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 23.05.2022 <br /> 
+   <br />
+    
+:warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Springer](#springer)).
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1010,7 +1013,10 @@ Permitted
 ### Springer
 
 <details>
-Last checked: 25.11.2021
+Last checked: 23.05.2022 <br /> 
+   <br />
+    
+:warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
 
 #### Re-use permitted for...
 * Article
@@ -1029,8 +1035,9 @@ Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as 
 * Accepted version → Include fixed statement: "This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature’s [AM terms of use](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms), but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: http://dx.doi.org/[insert DOI]"
 
 #### Source
-* [Open Access policies for journals → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/journal-policies)
 * [Permissions to reuse](https://www.springer.com/gp/rights-permissions/obtaining-permissions/882)
+* [Open Access policies for journals → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/journal-policies)
+
     
 </details>
 
