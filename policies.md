@@ -1045,7 +1045,7 @@ Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as 
 ### Taylor \& Francis
 
 <details>
-Last checked: 08.06.2021
+Last checked: 05.09.2022
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1056,8 +1056,9 @@ Last checked: 08.06.2021
 Permitted for preprint
 
 #### Special requirements
-* Unpublished articles: preprint may be used only, recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Taylor \& Francis in [JOURNAL TITLE]")
-* Published articles: include fixed statement "This is an Accepted Manuscript of an article published by Taylor \& Francis in [JOURNAL TITLE] on [date of publication], available online: http://[www.tandfonline.com](https://www.tandfonline.com)/[ArticleDOI]."
+* Unpublished articles: preprint may be used only → recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Taylor \& Francis in [JOURNAL TITLE]")
+* Published articles – Preprint used in thesis → include fixed statement "This is an original manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: http://www.tandfonline.com/[Article DOI]."
+* Published articles – Accepted manuscript used in thesis → include fixed statement "This is an Accepted Manuscript of an article published by Taylor \& Francis in [JOURNAL TITLE] on [date of publication], available online: http://[www.tandfonline.com](https://www.tandfonline.com)/[ArticleDOI]."
 * Accepted Manuscript should be published under a CC BY-NC or a CC BY-NC-ND license
 
 #### Source
@@ -1116,7 +1117,7 @@ n.a.
 ### Wiley
 
 <details>
-Last checked: 25.11.2021
+Last checked: 05.09.2022
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1128,8 +1129,10 @@ Last checked: 25.11.2021
 Generally permitted, some journals have deviating rules → check policy for each journal
 
 #### Special requirements
-* Preprint → include fixed statement "This is the pre-peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
-* Accepted manuscript → include fixed statement "This is the peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
+
+* Unpublished articles – Preprint used in thesis → recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Wiley in [JOURNAL TITLE]") 
+* Published articles – Preprint used in thesis → include fixed statement "This is the pre-peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions."
+* Published articles – Accepted manuscript used in thesis → include fixed statement "This is the peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions. This article may not be enhanced, enriched or otherwise transformed into a derivative work, without express permission from Wiley or by statutory rights under applicable legislation. Copyright notices must not be removed, obscured or modified. The article must be linked to Wiley’s version of record on Wiley Online Library and any embedding, framing or otherwise making available the article or pages thereof by third parties from platforms, services and websites other than Wiley Online Library must be prohibited."
 
 #### Source
 * [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) 
