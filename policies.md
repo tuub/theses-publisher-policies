@@ -714,7 +714,7 @@ Generally permitted, publisher should be contacted in advance
 ### Nature Publishing Group (NPG)
 
 <details>
-Last checked: 23.05.2022 <br /> 
+Last checked: 02.11.2022 <br /> 
    <br />
     
 :warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Springer](#springer)).
@@ -723,16 +723,18 @@ Last checked: 23.05.2022 <br />
 * All or part of the journal article
 * Preprint :white_check_mark:
 * Accepted manuscript: yes :warning: 6 months embargo
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
-n.a.
+Authors must properly cite the published article in their thesis according to current citation standards: *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]'*
 
 #### Source
 * [Self archiving and license to publish](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish) 
 * [Nature journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism)
+* [Permissions requests](https://www.nature.com/nature-portfolio/reprints-and-permissions/permissions-requests)
     
 </details>
 
@@ -1013,32 +1015,30 @@ Permitted
 ### Springer
 
 <details>
-Last checked: 23.05.2022 <br /> 
+Last checked: 02.11.2022 <br /> 
    <br />
     
 :warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
 
 #### Re-use permitted for...
-* Article
-* Accepted manuscript: yes :warning: 12 months embargo
+* Article, Book chapter (in contributed volumes or proceedings)
+* Accepted manuscript: yes :warning: 12 months embargo for journal articles and proceeding papers, 24 months for chapters in edited volumes
 * Published version :white_check_mark:
-* Applies to journal articles (permission for book chapters has to be obtained directly)
     
 #### Re-use before official publication by publisher
 * In general: Inclusion of unpublished articles in thesis not permitted. → Recommendation: preprint on preprint server, link to preprint in thesis
-* Check your Copyright Transfer Statement (CTS) or Licence to Publish (LTP) with Springer (exceptions might exist)
+* Check your Copyright Transfer Statement (CTS) or Licence to Publish (LTP) with Springer (exceptions might exist) and/or contact the publisher when in doubt (journals: journalpermissions@springernature.com, books: bookpermissions@springernature.com)
 
 #### Special requirements
 * Wait for official publication by Springer (thesis may not be freely available before article is published online)    
-*  Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards.
-Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’
+*  Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards. *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’*
 * Accepted version → Include fixed statement: "This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature’s [AM terms of use](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms), but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: http://dx.doi.org/[insert DOI]"
 
 #### Source
 * [Permissions to reuse](https://www.springer.com/gp/rights-permissions/obtaining-permissions/882)
 * [Open Access policies for journals → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/journal-policies)
-
-    
+* [Open Access policies for books and chapters → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/book-policies)
+       
 </details>
 
 
