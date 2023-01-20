@@ -529,15 +529,16 @@ n.a.
 ### Emerald
 
 <details>
-Last checked: 04.06.2021
+Last checked: 20.01.2023
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: yes :warning: but managing editor should be informed in case of re-use before official publication
-* Accepted manuscript: yes :warning: but managing editor should be informed in case of re-use before official publication
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :warning: The VoR may be included in the print version of your thesis/dissertation. If an electronic deposit is required, this must be the SMUR or AAM version
     
 #### Re-use before official publication by publisher
-Generally permitted, managing editor should be informed
+Permitted
 
 #### Special requirements
 n.a.
