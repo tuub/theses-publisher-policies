@@ -1095,7 +1095,7 @@ Include fixed statement "This is an Accepted Manuscript of an article published 
 ### Vandenhoeck \& Ruprecht (incl. Böhlau, V\&R unipress)
 
 <details>
-Last checked: 16.06.2021
+Last checked: 05.09.2023
 
 #### Re-use permitted for...
 
@@ -1110,7 +1110,7 @@ Policy unknown → please contact the managing editor
 n.a.
 
 #### Source
-* [Abdruckrechte (cf. "Hinweis für Autoren..." at the bottom)](https://www.vandenhoeck-ruprecht-verlage.com/service/rights/abdruckrechte/) (in German only)
+* [Abdruckrechte (cf. "Hinweis für Autoren..." at the bottom)](https://www.vandenhoeck-ruprecht-verlage.com/service/rechte-und-lizenzen/) (in German only)
 
 </details>
 
