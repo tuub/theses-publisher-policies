@@ -1058,8 +1058,8 @@ Permitted for preprint
 
 #### Special requirements
 * Unpublished articles: preprint may be used only → recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Taylor \& Francis in [JOURNAL TITLE]")
-* Published articles – Preprint used in thesis → include fixed statement "This is an original manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: http://www.tandfonline.com/[Article DOI]."
-* Published articles – Accepted manuscript used in thesis → include fixed statement "This is an Accepted Manuscript of an article published by Taylor \& Francis in [JOURNAL TITLE] on [date of publication], available online: http://[www.tandfonline.com](https://www.tandfonline.com)/[ArticleDOI]."
+* Published articles – Preprint used in thesis → include fixed statement "This is an original manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: `https://doi.org/[Article DOI]`."
+* Published articles – Accepted manuscript used in thesis → include fixed statement "This is an Accepted Manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: `https://doi.org/[Article DOI]`."
 * Accepted Manuscript should be published under a CC BY-NC or a CC BY-NC-ND license
 
 #### Source
