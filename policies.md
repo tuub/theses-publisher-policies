@@ -71,7 +71,7 @@
 ### American Association for the Advancement of Science (AAAS)
 
 <details>
-Last checked: 03.11.2021
+Last checked: 04.03.2024
 
 #### Re-use permitted for...
 * All or part of the article
@@ -86,8 +86,8 @@ Include fixed statement: "This is the author’s version of the work. It is post
 
 #### Source
 * [Science Journals: editorial policies](https://www.sciencemag.org/authors/science-journals-editorial-policies)
-* [AAAS License to Publish](https://www.science.org/pb-assets/migrated/sites/default/files/2021_L2P_All%20Journals_Standard%20or%20Gov't%20Contractor%20with%20Plan%20S%20Addendum-1628462438.pdf) (PDF)
-* [AAAS Author License to Publish Policy](https://www.science.org/pb-assets/migrated/sites/default/files/Lic_Info_2021_final-1628462649.pdf) (PDF)
+* [AAAS License to Publish](https://www.science.org/do/10.5555/science-journals-editorial-policies/full/l2p_2023-1699998826340.pdf) (PDF)
+* [AAAS Author License to Publish Policy](https://www.science.org/do/10.5555/science-journals-editorial-policies/full/lic_info_2023-1699998826340.pdf) (PDF)
     
 </details>
 
@@ -95,7 +95,7 @@ Include fixed statement: "This is the author’s version of the work. It is post
 ### American Society for Microbiology (ASM)
 
 <details>
-Last checked: 1.12.2021
+Last checked: 04.03.2024
 
 #### Re-use permitted for...
 * Article
@@ -107,7 +107,8 @@ Last checked: 1.12.2021
 Permitted
 
 #### Special requirements
-Include copyright notice on initial page of the article
+* Include copyright notice on initial page of the article
+* Accepted Manuscript *can* be published under a CC BY license
 
 #### Source
 * [Author Self-Archiving & Permissions](https://journals.asm.org/author-self-archiving-permissions)
@@ -122,7 +123,7 @@ Include copyright notice on initial page of the article
 ### American Society of Civil Engineers (ASCE)
 
 <details>
-Last checked: 1.12.2021
+Last checked: 05.12.2023
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1046,7 +1047,7 @@ Last checked: 02.11.2022 <br />
 ### Taylor \& Francis
 
 <details>
-Last checked: 05.09.2022
+Last checked: 04.03.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
