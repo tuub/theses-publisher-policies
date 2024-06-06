@@ -108,7 +108,7 @@ Permitted
 
 #### Special requirements
 * Include copyright notice on initial page of the article
-* Accepted Manuscript *can* be published under a CC BY license
+* Accepted Manuscript *may* be published under a CC BY license
 
 #### Source
 * [Author Self-Archiving & Permissions](https://journals.asm.org/author-self-archiving-permissions)
@@ -128,7 +128,7 @@ Last checked: 05.12.2023
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :warning: but re-use should be disclosed upon submission
-* Accepted manuscript: :white_check_mark:  (include statement)
+* Accepted manuscript :white_check_mark:  (include statement)
     
 #### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
@@ -174,7 +174,7 @@ Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: :white_check_mark:
+* Preprint :white_check_mark:
 * Accepted manuscript :white_check_mark:
 * Published version :white_check_mark:
 
@@ -221,7 +221,7 @@ Permitted
 ### American Institute of Physics (AIP)
 
 <details>
-Last checked: 01.06.2021
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -233,8 +233,7 @@ Last checked: 01.06.2021
 Permitted
 
 #### Special requirements
-* Submitted and accepted articles: include fixed statement "The following article has been submitted to/accepted by [Name of Journal]. After it is published, it will be found at (URL/link to the entry page of the journal)"
-* Published articles: include fixed statement "This article may be downloaded for personal use only. Any other use requires prior permission of the author and AIP Publishing. The following article appeared in (citation of published article) and may be found at (URL/link for published article abstract)."
+* Include fixed statement "Reproduced from [FULL CITATION], with the permission of AIP Publishing"
 
 #### Source
 * [Permission to Reuse Content](https://publishing.aip.org/resources/researchers/rights-and-permissions/permissions/) 
@@ -246,7 +245,7 @@ Permitted
 ### American Mathematical Society (AMS)
 
 <details>
-Last checked: 01.06.2021
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * All or part of the article
@@ -259,6 +258,7 @@ Permitted
 #### Special requirements
 * Include fixed statement "First published in [Publication] in [volume/issue number and year], published by the American Mathematical Society"
 * Include applicable copyright notice ("© 20XX American Mathematical Society." or "© 20XX by [author(s) name(s)]")
+* Accepted manuscript *may* be published under a CC BY license
 
 #### Source
 * [AMS Copyright Policy](http://www.ams.org/publications/authors/ctp),
@@ -270,7 +270,7 @@ Permitted
 ### American Psychological Association (APA)
 
 <details>
-Last checked: 01.06.2021
+Last checked: 08.12.2023
 
 #### Re-use permitted for...
 * All or part of the article
@@ -294,7 +294,7 @@ Permitted for preprint
 ### American Physical Society (APS)
 
 <details>
-Last checked: 03.06.2021
+Last checked: 08.12.2023
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -316,7 +316,7 @@ Include APS copyright credit line ("© [YEAR] American Physical Society")
 ### American Society for Biochemistry and Molecular Biology (ASBMB)
 
 <details>
-Last checked: 16.06.2021
+Last checked: 08.12.2023
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -339,7 +339,7 @@ Include fixed statement "This research was originally published in Journal Name.
 ### American Society of mechanical engineers (ASME)
 
 <details>
-Last checked: 16.06.2021
+Last checked: 08.12.2023
 
 #### Re-use permitted for...
 * Author must obtain publisher's permission
@@ -385,14 +385,14 @@ n.a.
 ### Cambridge (Books)
 
 <details>
-Last checked: 16.06.2021
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book)
 * Policy for monographs or edited volumes (does not apply to textbooks, works of reference etc.)
 * Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Accepted manuscript: yes :warning: 6 months embargo
+* Published version yes :warning: 6 months embargo
 
 #### Re-use before official publication by publisher
 Permitted
@@ -400,6 +400,7 @@ Permitted
 #### Special requirements
 * Submitted chapters (Preprint): include fixed statement "This material has been published in revised form in [Title] by/edited by [Author / Editor] [https://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
 * Accepted and published chapters: include fixed statement "This material has been published in [Title] by/edited by [Author / Editor] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
+* Submitted chapters (Preprint) *may* be published under a Creative Commons license (CC BY recommended)
 
 #### Source
 * [Green open access policy for books](https://www.cambridge.org/core/services/open-access-policies/open-access-books/green-open-access-policy-for-books)
@@ -411,7 +412,7 @@ Permitted
 ### Cambridge (Journals)
 
 <details>
-Last checked: 03.06.2021
+Last checked: 11.12.2023
 
 #### Re-use permitted for...
 General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2) for journals with different, more permissive policy):
@@ -425,6 +426,7 @@ Permitted
 #### Special requirements
 * Submitted articles (Preprint): include fixed statement "This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is published under a Creative Commons CC-BY-NC-ND. No commercial re-distribution or re-use allowed. Derivative works cannot be distributed. © copyright holder."
 * Accepted and published articles: include fixed statement: "This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution or re-use. © copyright holder."
+* Submitted chapters (Preprint) may be published under a Creative Commons license
 
 #### Source
 * [Green open access policy for journals](https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals)
@@ -433,29 +435,49 @@ Permitted
 </details>
 
 
-### De Gruyter
+### De Gruyter (Books)
 
 <details>
-Last checked: 03.06.2021
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
-* Article
-* Journal article, Book chapter
-* Preprint: yes :warning: but for re-use before official publication author must obtain publisher‘s permission directly 
-* Accepted manuscript: yes :warning: but for re-use before official publication author must obtain publisher‘s permission directly 
-* Published version: yes :warning: 12 months embargo
+* Book chapter (in scientific monographs; :warning: policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
     
 #### Re-use before official publication by publisher
-Usually permitted, but author must obtain publisher‘s permission directly
+Permitted
+
+#### Special requirements
+* up to two chapters, but no more than 10% of the Accepted (book) manuscript, may be made available
+* include fixed statement “The final publication is available at www.degruyter.com”
+* Submitted chapters (Preprint) may be published under a Creative Commons license
+
+#### Source
+[Repository Policy for Book Publications](https://www.degruyter.com/publishing/services/rechte-lizenzen/repositorypolicy?lang=en)
+    
+</details>
+
+### De Gruyter (Journals)
+
+<details>
+Last checked: 06.06.2024
+
+#### Re-use permitted for...
+* Journal article
+* Preprint :white_check_mark: 
+* Accepted manuscript: yes :warning: with embargo (Social Sciences and Humanities: 12 months; Science, Technology, Engineering and Mathematics: 12 months; Medicine: 6 months)
+
+#### Re-use before official publication by publisher
+Permitted
 
 #### Special requirements
 n.a.
 
 #### Source
-[Repository Policy](https://www.degruyter.com/cms/pages/repository-policy?lang=en)
+[Repository Policy for Journal Publications](https://www.degruyter.com/publishing/services/rights-and-permissions/repository-policy-for-journal-publications?lang=en)
     
 </details>
-
 
 ### EDP Sciences
 
