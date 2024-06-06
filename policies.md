@@ -571,6 +571,30 @@ n.a.
     
 </details>
 
+### Hogrefe
+
+<details>
+Last checked: 06.06.2024
+
+#### Re-use permitted for...
+* Article
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version:  :warning: may only be used with the express written permission of the publisher
+* Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
+
+    
+#### Re-use before official publication by publisher
+Permitted
+
+#### Special requirements
+* Submitted articles (Preprint included in thesis): include note on date and status of submission/review
+* Accepted or published articles (Accepted manuscript included in thesis): include fixed statement "This version of the article may not completely replicate the final authoritative version published in [journal title] at [DOI]. It is not the version of record and is therefore not suitable for citation."
+
+#### Source
+[Usage guidelines for journal articles](https://www.hogrefe.com/us/resources/publishing-with-hogrefe/for-journals/usage-guidelines-for-journal-articles)
+    
+</details>
 
 ### International Association for Energy Economics (IAEE)
 
