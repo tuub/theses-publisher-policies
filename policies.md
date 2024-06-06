@@ -360,13 +360,13 @@ Author must obtain publisher's permission
 ### Brill
 
 <details>
-Last checked: 03.06.2021
+Last checked: 31.05.2024
 
 #### Re-use permitted for...
 * Article, Book chapter
 * Preprint :white_check_mark:
 * Accepted manuscript :white_check_mark:
-* Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
+* Other possiblities for OA content and authors who are expected to comply with Plan S and the rights-retention strategy.
 
 #### Re-use before official publication by publisher
 Permitted
@@ -375,7 +375,7 @@ Permitted
 n.a.
 
 #### Source
-* [Self-Archiving Rights](https://brill.com/page/RightsPermissions/rights-and-permissions#selfarchiving) 
+* [Sharing your Work / Self-Archiving](https://brill.com/page/selfarchiving/sharing-your-work-selfarchiving)
 
 </details>
 
