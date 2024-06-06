@@ -146,7 +146,7 @@ Include fixed statement: "This material may be downloaded for personal use only.
 ### Association for Computing Machinery (ACM)
 
 <details>
-Last checked: 28.05.2021
+Last checked: 06.06.2024
   
 #### Re-use permitted for...
 * All or part of the article
@@ -161,7 +161,7 @@ Permitted
 Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in {Source Publication}, http://dx.doi.org/10.1145/{number}."
     
 #### Source
-* [ACM Copyright Policy (cf. § 2.5)](https://www.acm.org/publications/policies/copyright-policy) (PDF)
+* [Publication Rights & Licensing Policy (secion "Self-Archiving and Posting Rights")](https://www.acm.org/publications/policies/publication-rights-and-licensing-policy)
 
 
 </details>
@@ -170,7 +170,7 @@ Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's v
 ### American Chemical Society (ACS)
 
 <details>
-Last checked: 03.12.2021
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -183,10 +183,10 @@ Permitted
 
 #### Special requirements
 * Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: *'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
-* For online thesis -- include the "ACS Articles on Request author-directed link" to the published version (cf. [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation.pdf) (PDF)
+* For online thesis -- include the "ACS Articles on Request author-directed link" to the published version (cf. [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF)
     
 #### Source
-* [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation.pdf) (PDF)
+* [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF)
 * [Use of Materials from ACS Journals (other than ACS AuthorChoice Open Access content)](https://pubs.acs.org/page/copyright/permissions_journals.html)
     
 </details>
@@ -195,11 +195,12 @@ Permitted
 ### American Geophysical Union (AGU)
 
 <details>
-Last checked: 16.06.2021
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * Article
 * Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
 * Published version: yes :warning: 6 months embargo, include statement
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
@@ -208,11 +209,11 @@ Permitted
 
 #### Special requirements
 * Submitted articles (Preprint used in thesis): include fixed statements "Submitted for publication in (journal title)."
-* Accepted and published articles (Published version used in thesis): include fixed statements "Accepted for publication in (journal title). Copyright (year) American Geophysical Union. Further reproduction or electronic distribution is not permitted."
+* Accepted, unpublished articles (Accepted manuscript used in thesis): include fixed statements "Accepted for publication in (journal title). Published (year) American Geophysical Union. Further reproduction or electronic distribution is not permitted."
+* Published articles (Accepted manuscript or published version used in thesis): include fixed statements "An edited version of this paper was published by AGU. Published (year) American Geophysical Union." and recommended to provide full citation "Author(s), Year of publication (in parentheses), Title of article, Name of journal, Volume number, Citation number, Digital Object Identifier (DOI). To view the published open abstract, go to http://dx.doi.org and enter the DOI."
 
 #### Source
-* [Usage Permissions](http://publications.agu.org/author-resource-center/usage-permissions)
-* [Dual and Prior Publication Policy](https://www.agu.org/Publish-with-AGU/Publish/Author-Resources/Policies/Prior-Publication-Policy)  
+* [AGU Publications and Ethics Policies (sections "Dual and Prior Publication Policy" and "Preprints and Self-Archiving Policies")](https://www.agu.org/publications/authors/policies)  
     
 </details>
 
@@ -360,7 +361,7 @@ Author must obtain publisher's permission
 ### Brill
 
 <details>
-Last checked: 31.05.2024
+Last checked: 06.06.2024
 
 #### Re-use permitted for...
 * Article, Book chapter
@@ -376,7 +377,8 @@ n.a.
 
 #### Source
 * [Sharing your Work / Self-Archiving](https://brill.com/page/selfarchiving/sharing-your-work-selfarchiving)
-
+* [Permissions Free of Charge](https://brill.com/page/rightsfreeofcharge/permissions-free-of-charge)
+* [Frequently Asked Questions](https://brill.com/page/rightsfaq/frequently-asked-questions)
 </details>
 
 
