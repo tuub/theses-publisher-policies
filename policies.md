@@ -820,22 +820,20 @@ Include fixed statement
 ### Oxford University Press (Books)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 12.06.2024
 
 #### Re-use permitted for...
-* Book chapter (max. 1 chapter per book/anthology)
-* Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: 12–24 months embargo (varies per discipline, cf. [Author Reuse](https://global.oup.com/academic/rights/permissions/autperm/?cc=de&lang=en&))
+* Book chapter (in academic/research book in SSH or MINT; :warning: policy does not apply to reference content, Trade series; :warning: max. 1 chapter per book/anthology)
+* Accepted manuscript: yes :warning: 12 months embargo (exception: 24 months embargo for series "Oxford Intersections")
     
 #### Re-use before official publication by publisher
-Permitted
+Policy unknown → please contact the responsible editor
 
 #### Special requirements
-* Submitted, unpublished books: include fixed statement "This is a draft of a chapter/article that has been accepted for publication by Oxford University Press in the forthcoming book [title] by/edited by (Author/editor) due for publication in [year]."
-* Published books: include fixed statement "[Title] by/edited by [Author/editor], [year of publication], reproduced by permission of Oxford University Press [link to OUP catalogue if available, or OUP website]"
+* Include fixed statement for original print-only works: If the published work does not have an online version, full acknowledgement should be made to the original print publication stating the specific material re-used in the following form: "[Title] by/edited by [Author/editor], [year of publication], [page numbers reproduced]. Reproduced by permission of Oxford University Press [link to OUP online catalogue entry if available, or OUP website]. For permission to re-use this material, please visit https://global.oup.com/academic/rights."
 
 #### Source
-[Author self-archiving policy](https://global.oup.com/academic/rights/permissions/autperm/)
+[Author reuse and self-archiving](https://academic.oup.com/pages/authoring/books/author-reuse-and-self-archiving)
     
 </details>
 
@@ -843,25 +841,25 @@ Permitted
 ### Oxford University Press (Journals)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 12.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: 12–24 months embargo (check per journal, cf. [Embargo periods](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/embargo_periods))
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Generally permitted, managing editor should be informed
 
 #### Special requirements
-* Submitted, unpublished articles: include fixed statement "This article has been accepted for publication in [Journal Title] Published by Oxford University Press."
-* Published articles: include fixed statement "This is a pre-copyedited, author-produced version of an article accepted for publication in [insert journal title] following peer review. The version of record [insert complete citation information here] is available online at: xxxxxxx [insert URL and DOI of the article on the OUP website]"
-
+* right to include the article in full or in part in a thesis or dissertation, provided that this not published commercially
+  
 #### Source
-* [Publication Rights Policies](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/publication_rights)
-* [Author self-archiving policy](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/author_self_archiving_policy) 
-* [Embargo periods per journal](https://academic.oup.com/journals/pages/access_purchase/rights_and_permissions/embargo_periods)
-    
+
+* [Licences, copyright and re-use rights (section "What rights do I retain as an Oxford author?"](https://academic.oup.com/pages/authoring/journals/production_and_publication/online_licensing)
+* [Author self-archiving policy](https://academic.oup.com/pages/open-research/open-access/charges-licences-and-self-archiving/author-self-archiving-policy) 
+
 </details>
 
 
