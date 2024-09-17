@@ -482,7 +482,7 @@ n.a.
 ### EDP Sciences
 
 <details>
-Last checked: 17.06.2021
+Last checked: 13.06.2024
 
 #### Re-use permitted for...
 * Article
@@ -528,7 +528,7 @@ Include fixed statement "This is a draft chapter / article. The final version is
 ### Elsevier
 
 <details>
-Last checked: 04.06.2021
+Last checked: 13.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -554,7 +554,7 @@ n.a.
 ### Emerald
 
 <details>
-Last checked: 20.01.2023
+Last checked: 13.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -577,7 +577,7 @@ n.a.
 ### Hanser
 
 <details>
-Last checked: 04.06.2021
+Last checked: 13.06.2024
 
 #### Re-use permitted for...
 Author must obtain publisher's permission
@@ -671,16 +671,17 @@ Include fixed statement: "© [year of original publication] IEEE. Reprinted, wit
 ### IGI Global
 
 <details>
-Last checked: 17.06.2021
+Last checked: 17.09.2024
 
 #### Re-use permitted for...
-Author must obtain publisher's permission
+* Article or Chapter
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Author must obtain publisher's permission
 
 #### Special requirements
-Author must obtain publisher's permission
+n.a.
 
 #### Source
 * [IGI Global's Fair Use Policy](https://www.igi-global.com/about/rights-permissions/content-reuse/)
@@ -691,12 +692,13 @@ Author must obtain publisher's permission
 ### Inderscience
 
 <details>
-Last checked: 08.06.2021
+Last checked: 17.09.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: yes :warning: but only after 12 months embargo
+* Preprint :white_check_mark:
 * Accepted manuscript: yes :warning: but only after 12 months embargo
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -707,6 +709,7 @@ n.a.
 #### Source
 * [Copyright and author entitlement](https://www.inderscience.com/mobile/inauthors/index.php?pid=74)
 * [Copyright and Author Rights and Responsibilities](https://www.inderscience.com/www/dl.php?filename=authorcopyright.pdf) (PDF)
+* [Author Copyright Agreement](https://www.inderscience.com/www/dl.php?filename=authoragree.pdf) (PDF)
     
 </details>
 
@@ -714,7 +717,7 @@ n.a.
 ### IOP (Institute of Physics)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 13.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -740,7 +743,7 @@ Permitted
 ### IWA Publishing
 
 <details>
-Last checked: 17.06.2021
+Last checked: 13.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -764,7 +767,7 @@ Generally permitted, publisher should be contacted in advance
 ### Nature Publishing Group (NPG)
 
 <details>
-Last checked: 02.11.2022 <br /> 
+Last checked: 13.06.2024 <br /> 
    <br />
     
 :warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Springer](#springer)).
@@ -866,7 +869,7 @@ Generally permitted, managing editor should be informed
 ### Proceedings of the National Academy of Sciences of the USA (PNAS)
 
 <details>
-Last checked: 17.06.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the article
@@ -891,7 +894,7 @@ n.a.
 ### Routledge
 
 <details>
-Last checked: 08.06.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book)
@@ -914,7 +917,7 @@ Include fixed statement: "This is an Accepted Manuscript of a book chapter publi
 ### Royal Society
 
 <details>
-Last checked: 17.06.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -925,10 +928,10 @@ Last checked: 17.06.2021
 Permitted but should be disclosed upon submission
 
 #### Special requirements
-n.a.
+Accepted Manuscript *may* be published under a CC BY license
 
 #### Source
-* [Licence to Publish](https://royalsociety.org/-/media/journals/author/Licence-to-Publish-20062019-final.pdf)
+* [Licence to Publish](https://royalsociety.org/journals/authors/author-guidelines/licence-to-publish/) (or see [PDF](https://royalsociety.org/-/media/journals/authors/licence-to-publish-20062019-final.pdf))
 * [Preprints, accepted author manuscripts and embargoes](https://royalsociety.org/journals/ethics-policies/media-embargo/)
 * [Misconduct and redundant publication](https://royalsociety.org/journals/ethics-policies/misconduct/)
     
@@ -938,7 +941,7 @@ n.a.
 ### Royal Society of Chemistry (RSC)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -952,7 +955,7 @@ Permitted
 #### Special requirements
 Include fixed statement – either standard or non-standard [acknowledgement](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements):
 * Standard acknowledgement: "Reproduced from Ref. XX with permission from the Royal Society of Chemistry."
-* Non-standard for some journals ([cf. Info RSC](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements))
+* Non-standard acknowledgement for some journals: [cf. detailed instructions by RSC](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements)
 
 #### Source
 * [Licences, copyright \& permissions](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions)  
@@ -1015,7 +1018,7 @@ Permitted
 ### Society of Exploration Geophysicists (SEG)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1032,6 +1035,7 @@ n.a.
 #### Source
 * [SEG Policy on Open-access Publishing](https://library.seg.org/page/policies/open-access)
 * [Permissions](https://library.seg.org/page/policies/permissions)
+* [SEG Policies and Procedures Manual (25 August 2024)](https://seg.org/wp-content/uploads/2024/09/SEG-Policies-and-Procedures-Manual_2024.08.25.pdf)
     
 </details>
 
@@ -1039,7 +1043,7 @@ n.a.
 ### Society of Photo‑Optical Instrumentation Engineers (SPIE)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1142,7 +1146,7 @@ Include fixed statement "This is an Accepted Manuscript of an article published 
 ### Vandenhoeck \& Ruprecht (incl. Böhlau, V\&R unipress)
 
 <details>
-Last checked: 05.09.2023
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 
@@ -1215,7 +1219,7 @@ n.a.
 ### World Scientific
 
 <details>
-Last checked: 25.11.2021
+Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
