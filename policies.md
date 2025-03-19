@@ -412,7 +412,7 @@ Permitted
 ### Cambridge (Journals)
 
 <details>
-Last checked: 11.12.2023
+Last checked: 19.03.2025
 
 #### Re-use permitted for...
 General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2) for journals with different, more permissive policy):
@@ -424,9 +424,13 @@ General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-f
 Permitted
 
 #### Special requirements
-* Submitted articles (Preprint): include fixed statement "This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is published under a Creative Commons CC-BY-NC-ND. No commercial re-distribution or re-use allowed. Derivative works cannot be distributed. © copyright holder."
-* Accepted and published articles: include fixed statement: "This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution or re-use. © copyright holder."
-* Submitted chapters (Preprint) may be published under a Creative Commons license
+* For all published articles: include a link to the article.
+* For accepted, but not yet published articles: include a clear statement that the material has been accepted for publication in a revised form, with a link to the journal’s site
+* Authors may make Accepted Manuscripts available under a Creative Commons CC BY-NC-ND licence or equivalent, but not a more permissive licence.
+* A clear statement about the licence terms under which the author has shared this version of their article. Examples
+    * This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution or re-use. © copyright holder.
+    * This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is published under a Creative Commons CC BY-NC-ND licence. No commercial re-distribution or re-use allowed. Derivative works cannot be distributed. © copyright holder.
+* Preprints (articles before submission) may be published under a Creative Commons license.
 
 #### Source
 * [Green open access policy for journals](https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals)
