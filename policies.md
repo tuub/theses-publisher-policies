@@ -91,6 +91,30 @@ Include fixed statement: "This is the author’s version of the work. It is post
     
 </details>
 
+### American Medical Association | JAMA Network
+
+<details>
+
+Last checked: 03.06.2025
+
+#### Re-use permitted for...
+* Article
+* Preprint :white_check_mark:
+* Accepted manuscript: :white_check_mark:
+
+#### Re-use before official publication by publisher
+* Permitted but should be disclosed upon submission (include link and indicate possible revisions)
+* All related previously published articles should be cited as references and described in the submitted manuscript 
+    
+#### Special requirements
+Include link to the final published version on the journal website
+
+#### Source
+* See "Instructions for Authors" per journal, e.g. [JAMA 'Instructions for Authors'](https://jamanetwork.com/journals/jama/pages/instructions-for-authors)
+* [Public Access and Open Access Policy](https://jamanetwork.com/pages/access-at-jama-network)
+    
+</details>
+
 
 ### American Society for Microbiology (ASM)
 
