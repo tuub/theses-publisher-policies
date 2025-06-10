@@ -996,7 +996,7 @@ Include fixed statement – either standard or non-standard [acknowledgement](ht
 ### SAGE Publications
 
 <details>
-Last checked: 08.06.2021
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1010,11 +1010,10 @@ Last checked: 08.06.2021
 
 #### Special requirements
 * Accepted, unpublished articles: include a statement that your Contribution has been accepted for publication in the journal 
-* Published articles: DOI and fixed statement must be included: "Author(s), Article Title, Journal Title (Journal Volume Number and Issue Number) pp. xx-xx. Copyright © [year] (Copyright Holder). Reprinted by permission of SAGE Publications."
+* Published articles: DOI and fixed statement must be included: "Author(s), Contribution Title, Journal Title (Journal Volume Number and Issue Number) pp. xx-xx. Copyright © [year] (Copyright Holder). DOI: [DOI number]."
 
 #### Source
 * [Journal Author Archiving Policies and Re-Use](https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use) 
-* [Copyright and Permissions](https://us.sagepub.com/en-us/nam/copyright-and-permissions)    
 
 </details>
 
@@ -1022,7 +1021,7 @@ Last checked: 08.06.2021
 ### Society for Industrial and Applied Mathematics (SIAM)
 
 <details>
-Last checked: 08.06.2021
+Last checked: 17.09.2024
 
 #### Re-use permitted for...
 * All or part of the journal article
