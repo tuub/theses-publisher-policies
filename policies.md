@@ -318,21 +318,22 @@ Permitted for preprint
 ### American Physical Society (APS)
 
 <details>
-Last checked: 08.12.2023
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Accepted manuscript :white_check_mark: Include APS copyright credit line
 
 #### Re-use before official publication by publisher
 Generally permitted; obtain permission to use any APS prepared version
 
 #### Special requirements
-Include APS copyright credit line ("© [YEAR] American Physical Society")
+n.a.
 
 #### Source
 * [APS Copyright Policies and Frequently Asked Questions](https://journals.aps.org/copyrightFAQ.html)
+* [APS Transfer of Copyright Agreement, terms and conditions](https://journals.aps.org/authors/transfer-of-copyright-agreement)
 
 </details>
 
