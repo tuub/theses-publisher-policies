@@ -675,12 +675,11 @@ Include fixed statement: "This article first appeared in (journal name), Vol. XX
 ### Institute of Electrical and Electronics Engineers (IEEE)
 
 <details>
-Last checked: 04.06.2021
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
 * Journal article, Book chapter
-* Preprint: yes :warning: but only after official publication by publisher
 * Accepted manuscript :white_check_mark:
     
 #### Re-use before official publication by publisher
