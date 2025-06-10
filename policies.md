@@ -363,21 +363,23 @@ n.a.
 ### American Society of mechanical engineers (ASME)
 
 <details>
-Last checked: 08.12.2023
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
-* Author must obtain publisher's permission
-* Fee might be charged for online re-use
+* Article
+* For non-commercial purposes only
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark: 12 months embargo
 
 #### Re-use before official publication by publisher
 Author must obtain publisher's permission
 
 #### Special requirements
-Author must obtain publisher's permission
+n.a.
 
 #### Source
-* [ASME Copyright Terms and Conditions](https://www.asme.org/publications-submissions/publishing-information/legal-policies/copyright-terms-and-conditions)    
-* [Proceedings: ASME Copyright Guidelines](https://www.asme.org/publications-submissions/proceedings/submission-review-and-acceptance/asme-copyright-guidelines)
+* [Rights and Permissions](https://www.asme.org/publications-submissions/journals/information-for-authors/journal-guidelines/rights-and-permissions)    
+* [ASME Publishing Preprint and Self-Archiving Policy](https://www.asme.org/publications-submissions/journals/information-for-authors/open-access)
 
 </details>
 
