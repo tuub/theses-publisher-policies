@@ -1038,7 +1038,7 @@ Permitted
 * Include copyright notice as stated in article (e.g., "Copyright © by SIAM. Unauthorized reproduction of this article is prohibited.")
 
 #### Source
-* [Consent to Publish](https://www.siam.org/Portals/0/Publications/Journals/Open_Access/SIAM_Consent_to_Publish.pdf) (PDF)
+* Check "Consent to Publish" (form not available online, publisher provided form via email in September 2024 and confirm reuse options for dissertations)
     
 </details>
 
