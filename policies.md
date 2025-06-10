@@ -294,7 +294,7 @@ Permitted
 ### American Psychological Association (APA)
 
 <details>
-Last checked: 08.12.2023
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
@@ -305,8 +305,8 @@ Last checked: 08.12.2023
 Permitted for preprint  
 
 #### Special requirements
-* Unpublished articles: reference to publisher and journal, giving the date of submission is recommended (e.g. "Draft version 1.3, 1/5/16. This paper has not been peer reviewed. Please do not copy or cite without author's permission.")
-* Published articles: include fixed statement "© American Psychological Association, [Year]. This paper is not the copy of record and may not exactly replicate the authoritative document published in the APA journal. Please do not copy or cite without author's permission. The final article is available, upon publication, at: [ARTICLE DOI]"
+* Unpublished articles: reference to publisher and journal, stating the date of submission is recommended (e.g. "Draft version 1.3, 1/5/16. This paper has not been peer reviewed. Please do not copy or cite without author's permission.")
+* Published articles: include fixed statement "©American Psychological Association, [Year]. This paper is not the copy of record and may not exactly replicate the authoritative document published in the APA journal. The final article is available, upon publication, at: [ARTICLE DOI]"
 
 #### Source
 * [APA Journals® Internet Posting Guidelines](https://www.apa.org/pubs/journals/resources/internet-posting-guidelines) 
