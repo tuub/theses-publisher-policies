@@ -71,7 +71,7 @@
 ### American Association for the Advancement of Science (AAAS)
 
 <details>
-Last checked: 04.03.2024
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
@@ -128,7 +128,7 @@ Last checked: 04.03.2024
 * Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
-Permitted
+Permitted but should be disclosed upon submission
 
 #### Special requirements
 * Include copyright notice on initial page of the article
@@ -649,7 +649,7 @@ Permitted
 ### International Association for Energy Economics (IAEE)
 
 <details>
-Last checked: 04.06.2021
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -665,7 +665,7 @@ Include fixed statement: "This article first appeared in (journal name), Vol. XX
 
 #### Source
 * [Publishing Agreement](http://www.iaee.org/en/publications/openaccess/agreement.aspx) 
-* [Green Open Access](http://www.iaee.org/en/publications/openaccess/green.aspx) 
+* [Green Open Access](http://www.iaee.org/en/publications/openaccess/green.aspx) (notes that embargo does not apply to reuse in thesis)
 * [EEEP Publishing Agreement](http://www.iaee.org/documents/EEEP_IAEE_Publishing_Agreement.pdf) (PDF)
 * [EJ Publishing Agreement](https://www.iaee.org/documents/EJ_IAEE_Publishing_Agreement.pdf) (PDF)
     
