@@ -1095,14 +1095,14 @@ Permitted
 ### Springer
 
 <details>
-Last checked: 02.11.2022 <br /> 
+Last checked: 10.06.2025 <br /> 
    <br />
     
 :warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
 
 #### Re-use permitted for...
-* Article, Book chapter (in contributed volumes or proceedings)
-* Accepted manuscript: yes :warning: 12 months embargo for journal articles and proceeding papers, 24 months for chapters in edited volumes
+* Article, Book chapter (in Edited volumes or Proceedings)
+* Accepted manuscript: yes :warning: 12 months embargo
 * Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
