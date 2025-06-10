@@ -823,7 +823,7 @@ Authors must properly cite the published article in their thesis according to cu
 
 <details>
     
-Last checked: 27.01.2022
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * Article
@@ -835,15 +835,15 @@ Policy unknown → please contact the responsible editor
 
 #### Special requirements
 Include fixed statement
-* Non-open-access articles, published under the [Copyright Transfer Agreement (PDF)](https://opg.optica.org/submit/forms/CopyrightTransferForm-2021-09-20.pdf): "© XXXX [year] Optica Publishing Group. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
-* For articles labeled as *Open Access*, published under the "[Open Access Publishing Agreement (PDF)](https://opg.optica.org/submit/review/pdf/CopyrightTransferOpenAccessAgreement-2021-09-20.pdf)": "© XXXX [year] Optica Publishing Group under the terms of the Open Access Publishing Agreement. Users may use, reuse, and build upon the article, or use the article for text or data mining, so long as such uses are for noncommercial purposes and appropriate attribution is maintained. All other rights are reserved."
+* Non-open-access articles, published under the [Copyright Transfer Agreement (PDF)](https://opg.optica.org/resources/author/CopyrightTransferForm-2022-06-21.pdf): "© XXXX [year] Optica Publishing Group. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
+* For articles labeled as *Open Access*, published under the "[Open Access Publishing Agreement (PDF)](https://opg.optica.org/resources/author/CopyrightTransferOpenAccessAgreement-2022-06-27.pdf)": "© XXXX [year] Optica Publishing Group under the terms of the Open Access Publishing Agreement. Users may use, reuse, and build upon the article, or use the article for text or data mining, so long as such uses are for noncommercial purposes and appropriate attribution is maintained. All other rights are reserved."
 * For articles labeled as *Open Access*, published under the OSA Copyright Transfer Agreement (prior to September 2017): "© XXXX [year] Optical Society of America. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
 
 
 #### Source
 * [Copyright Transfer and Licensing Information](https://www.osapublishing.org/submit/review/copyright_permissions.cfm)
-* [OSA Copyright Transfer Agreement](https://opg.optica.org/submit/forms/CopyrightTransferForm-2021-09-20.pdf) (PDF)
-* [OSA Copyright Transfer and Open Access Publishing Agreement](https://opg.optica.org/submit/review/pdf/CopyrightTransferOpenAccessAgreement-2021-09-20.pdf) (PDF)
+* [OSA Copyright Transfer Agreement](https://opg.optica.org/resources/author/CopyrightTransferForm-2022-06-21.pdf) (PDF)
+* [OSA Copyright Transfer and Open Access Publishing Agreement](https://opg.optica.org/resources/author/CopyrightTransferOpenAccessAgreement-2022-06-27.pdf) (PDF)
     
 </details>
 
