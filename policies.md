@@ -1,3 +1,4 @@
+
 # Publishers theses policies
 
 [General terms for re-use](#General-terms-for-re-use) | [Glossary](#Glossary) | [Publisher polices](#Publisher-policies)
@@ -147,22 +148,21 @@ Permitted but should be disclosed upon submission
 ### American Society of Civil Engineers (ASCE)
 
 <details>
-Last checked: 05.12.2023
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :warning: but re-use should be disclosed upon submission
-* Accepted manuscript :white_check_mark:  (include statement)
+* Accepted manuscript :white_check_mark:
     
 #### Re-use before official publication by publisher
-Permitted but should be disclosed upon submission
+Permitted but must be disclosed upon submission
 
 #### Special requirements
-Include fixed statement: "This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. This material may be found at [URL/link of abstract in the ASCE Library or Civil Engineering Database]."
+n.a.
 
 #### Source
-* [Publishing in ASCE Journals](https://doi.org/10.1061/9780784479018) (PDF)
-* [Reuse Author's Own Material](https://ascelibrary.org/page/informationforasceauthorsreusingyourownmaterial)
+* [ASCE Publication Policies](https://ascelibrary.org/author-center/journal#asce-publishing-policies)
 
 </details>
 
