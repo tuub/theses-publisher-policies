@@ -1151,21 +1151,22 @@ Permitted for preprint
 ### Thieme
 
 <details>
-Last checked: 10.08.2022
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * Journal articles
-* Accepted manuscript: yes :warning: 12 months embargo
+* Accepted manuscript: :white_check_mark:
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
 Policy unknown
 
 #### Special requirements
-Include fixed statement "This is an Accepted Manuscript of an article published by Thieme in Journal Title on Publication Date, available online at https://www.thieme-connect.de/products/ejournals/abstract/10.1055/article-DOI"
+n.a.
 
 #### Source
-* [Article Sharing](https://www.thieme.de/de/autorenlounge/artikel-teilen-107797.htm)
-* [Permission to Puslish and Copyright Transfer Agreement (CTA)](https://www.thieme.de/statics/dokumente/thieme/final/de/dokumente/sw_%20autorenlounge/Thieme_CTA_Copyright_Transfer_english.pdf) (PDF)
+* [Journal Policies > Permissions for a Thesis or Dissertation](https://www.thieme.com/en-us/journal-policies)
+
 
     
 </details>
