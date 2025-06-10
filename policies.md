@@ -341,19 +341,18 @@ n.a.
 ### American Society for Biochemistry and Molecular Biology (ASBMB)
 
 <details>
-Last checked: 08.12.2023
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint :white_check_mark:
 * Accepted manuscript :white_check_mark:
-* Published version: yes :warning: 12 months embargo
 
 #### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
-Include fixed statement "This research was originally published in Journal Name. Author(s). Title. Journal Name. Year; Vol:pp-pp. © the American Society for Biochemistry and Molecular Biology."
+n.a.
 
 #### Source
 * cf. "Copyright and license to publish" in [ASBMB Editorial Policies](https://www.asbmb.org/journals-news/editorial-policies#copyright)
