@@ -534,18 +534,20 @@ Include fixed statement "The original publication is available at www…."
 ### Edward Elgar
 
 <details>
-Last checked: 1.12.2021
+Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the article    
-* Book chapter (max. 2 chapters per book), journal article (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
-* Preprint: yes :warning: but only after official publication by publisher
+* Book chapter (max. 1 chapter per book) or journal article (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
+* Accepted manuscript: yes :warning: but only after 12 months embargo (according to [Green Open Access policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/#accordion-28))
+* Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
-Permitted
+Policy unknown (not mentioned in general policy) → please contact the responsible editor
     
 #### Special requirements
-Include fixed statement "This is a draft chapter / article. The final version is available in [insert book title] edited by [insert editor(s) or author(s)], published in 20xx by Edward Elgar Publishing Ltd. The material cannot be used for any other purpose without further permission of the publisher, and is for private use only."
+* Accepted or published articles (Accepted manuscript included in thesis): include fixed statement "This is a draft chapter/article. The final version is available in [insert book title] edited by [insert editor(s) or author(s)], published in 20xx, Edward Elgar Publishing Ltd http://dx.doi.org/10.4337/978XXXXXXXXXX.000XX"
+* Accepted Manuscript *may* be published under a CC BY-NC-ND license
 
 #### Source
 * [Reuse of your work](https://www.e-elgar.com/author-hub/reuse-of-your-work/)
