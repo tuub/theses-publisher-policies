@@ -1200,7 +1200,7 @@ n.a.
 ### Wiley
 
 <details>
-Last checked: 05.09.2022
+Last checked: 12.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1209,7 +1209,7 @@ Last checked: 05.09.2022
 * Published Version :white_check_mark:
     
 #### Re-use before official publication by publisher
-Generally permitted, some journals have deviating rules → check policy for each journal
+Generally permitted, some journals have deviating rules → check policy for each journal (cf. [Author Compliance Tool](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/author-compliance-tool.html)
 
 #### Special requirements
 
@@ -1218,31 +1218,9 @@ Generally permitted, some journals have deviating rules → check policy for eac
 * Published articles – Accepted manuscript used in thesis → include fixed statement "This is the peer reviewed version of the following article: [FULL CITE], which has been published in final form at [Link to final article using the DOI]. This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions. This article may not be enhanced, enriched or otherwise transformed into a derivative work, without express permission from Wiley or by statutory rights under applicable legislation. Copyright notices must not be removed, obscured or modified. The article must be linked to Wiley’s version of record on Wiley Online Library and any embedding, framing or otherwise making available the article or pages thereof by third parties from platforms, services and websites other than Wiley Online Library must be prohibited."
 
 #### Source
-* [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html) 
-* [CTA Example](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) (PDF)
-* [ELA-A Example](https://onlinelibrary.wiley.com/pb-assets/assets/18790844/eELA-A_sample-1509551432000.pdf) (PDF)
-* [Self-Archiving Policy](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html) 
-    
-</details>
-
-
-### Wiley-VCH
-
-<details>
-Last checked: 25.11.2021
-
-#### Re-use permitted for...
-* All or part of the journal article
-* Published version :white_check_mark:
-    
-#### Re-use before official publication by publisher
-Policy ambiguous, recommended to contact managing editor
-
-#### Special requirements
-n.a.
-
-#### Source
-* [Copyright Transfer Agreement](https://media.wiley.com/assets/1541/01/ctavchus.pdf) (PDF)
+* [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html)
+* [Ethics Guidelines](https://authorservices.wiley.com/ethics-guidelines/index.html)
+* [Self-Archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)
     
 </details>
 
