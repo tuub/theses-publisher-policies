@@ -387,7 +387,7 @@ n.a.
 ### Brill
 
 <details>
-Last checked: 06.06.2024
+Last checked: 12.06.2025
 
 #### Re-use permitted for...
 * Article, Book chapter
@@ -411,7 +411,7 @@ n.a.
 ### Cambridge (Books)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 12.06.2025
 
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book)
@@ -424,13 +424,14 @@ Last checked: 06.06.2024
 Permitted
     
 #### Special requirements
-* Submitted chapters (Preprint): include fixed statement "This material has been published in revised form in [Title] by/edited by [Author / Editor] [https://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
-* Accepted and published chapters: include fixed statement "This material has been published in [Title] by/edited by [Author / Editor] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
+ 
+* Unpublished chapters – Preprint used in thesis → include fixed statement "This material has been published in revised form in [Title] by/edited by [Author / Editor] [https://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
+* Published chapters – Accepted manuscript or Published version used in thesis → include fixed statement "This material has been published in [Title] by/edited by [Author / Editor] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
 * Submitted chapters (Preprint) *may* be published under a Creative Commons license (CC BY recommended)
 
 #### Source
-* [Green open access policy for books](https://www.cambridge.org/core/services/open-access-policies/open-access-books/green-open-access-policy-for-books)
-* [Preprint policy at Cambridge University Press](https://www.cambridge.org/core/services/open-access-policies/open-access-journals/preprint-policy) 
+* [Green open access policy for books](https://www.cambridge.org/core/services/open-research/green-open-access-policy-for-books)
+* [Preprint policy at Cambridge University Press](https://www.cambridge.org/core/services/open-research/preprint-policy) 
 
 </details>
 
@@ -1177,7 +1178,7 @@ n.a.
 ### Vandenhoeck \& Ruprecht (incl. Böhlau, V\&R unipress)
 
 <details>
-Last checked: 14.06.2024
+Last checked: 12.06.2025
 
 #### Re-use permitted for...
 
@@ -1228,7 +1229,7 @@ Generally permitted, some journals have deviating rules → check policy for eac
 ### World Scientific
 
 <details>
-Last checked: 14.06.2024
+Last checked: 12.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
