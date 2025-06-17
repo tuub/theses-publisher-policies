@@ -83,7 +83,7 @@ Last checked: 10.06.2025
 Permitted for preprint    
     
 #### Special requirements
-Include fixed statement: "This is the author’s version of the work. It is posted here by permission of the AAAS for personal use, not for redistribution. The definitive version was published in [Science Journal Title] on [Volume number and date], DOI: [insert DOI number]."
+* Include fixed statement: "This is the author’s version of the work. It is posted here by permission of the AAAS for personal use, not for redistribution. The definitive version was published in [Science Journal Title] on [Volume number and date], DOI: [insert DOI number]."
 
 #### Source
 * [Science Journals: editorial policies](https://www.sciencemag.org/authors/science-journals-editorial-policies)
@@ -108,7 +108,7 @@ Last checked: 03.06.2025
 * All related previously published articles should be cited as references and described in the submitted manuscript 
     
 #### Special requirements
-Include link to the final published version on the journal website
+* Include link to the final published version on the journal website
 
 #### Source
 * See "Instructions for Authors" per journal, e.g. [JAMA 'Instructions for Authors'](https://jamanetwork.com/journals/jama/pages/instructions-for-authors)
@@ -120,7 +120,7 @@ Include link to the final published version on the journal website
 ### American Society for Microbiology (ASM)
 
 <details>
-Last checked: 04.03.2024
+Last checked: 16.06.2025
 
 #### Re-use permitted for...
 * Article
@@ -170,7 +170,7 @@ n.a.
 ### Association for Computing Machinery (ACM)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 16.06.2025
   
 #### Re-use permitted for...
 * All or part of the article
@@ -182,7 +182,7 @@ Last checked: 06.06.2024
 Permitted
 
 #### Special requirements
-Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in {Source Publication}, http://dx.doi.org/10.1145/{number}."
+* Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in {Source Publication}, http://dx.doi.org/10.1145/{number}."
     
 #### Source
 * [Publication Rights & Licensing Policy (secion "Self-Archiving and Posting Rights")](https://www.acm.org/publications/policies/publication-rights-and-licensing-policy)
@@ -207,7 +207,7 @@ Permitted
 
 #### Special requirements
 * Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: *'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
-* For online thesis -- include the "ACS Articles on Request author-directed link" to the published version (cf. [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF)
+* For online thesis – include the "ACS Articles on Request author-directed link" to the published version (cf. [Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF))
     
 #### Source
 * [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF)
@@ -219,7 +219,7 @@ Permitted
 ### American Geophysical Union (AGU)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 16.06.2025
 
 #### Re-use permitted for...
 * Article
@@ -232,12 +232,12 @@ Last checked: 06.06.2024
 Permitted
 
 #### Special requirements
-* Submitted articles (Preprint used in thesis): include fixed statements "Submitted for publication in (journal title)."
+* Submitted articles – Preprint used in thesis → include fixed statements "Submitted for publication in (journal title)."
 * Accepted, unpublished articles (Accepted manuscript used in thesis): include fixed statements "Accepted for publication in (journal title). Published (year) American Geophysical Union. Further reproduction or electronic distribution is not permitted."
-* Published articles (Accepted manuscript or published version used in thesis): include fixed statements "An edited version of this paper was published by AGU. Published (year) American Geophysical Union." and recommended to provide full citation "Author(s), Year of publication (in parentheses), Title of article, Name of journal, Volume number, Citation number, Digital Object Identifier (DOI). To view the published open abstract, go to http://dx.doi.org and enter the DOI."
+* Published articles – Accepted manuscript or published version used in thesis → include fixed statements "An edited version of this paper was published by AGU. Published (year) American Geophysical Union." and recommended to provide full citation "Author(s), Year of publication (in parentheses), Title of article, Name of journal, Volume number, Citation number, Digital Object Identifier (DOI). To view the published open abstract, go to http://dx.doi.org and enter the DOI."
 
 #### Source
-* [AGU Publications and Ethics Policies (sections "Dual and Prior Publication Policy" and "Preprints and Self-Archiving Policies")](https://www.agu.org/publications/authors/policies)  
+* [AGU Publications and Ethics Policies](https://www.agu.org/publications/authors/policies) (sections "Dual and Prior Publication Policy" and "Preprints and Self-Archiving Policies")
     
 </details>
 
@@ -245,7 +245,7 @@ Permitted
 ### American Institute of Physics (AIP)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 17.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -480,8 +480,8 @@ Last checked: 06.06.2024
 Permitted
 
 #### Special requirements
-* up to two chapters, but no more than 10% of the Accepted (book) manuscript, may be made available
-* include fixed statement “The final publication is available at www.degruyter.com”
+* Up to two chapters, but no more than 10% of the Accepted (book) manuscript, may be made available
+* Include fixed statement “The final publication is available at www.degruyter.com”
 * Submitted chapters (Preprint) may be published under a Creative Commons license
 
 #### Source
@@ -525,7 +525,7 @@ Last checked: 13.06.2024
 Permitted
 
 #### Special requirements
-Include fixed statement "The original publication is available at www…."
+* Include fixed statement "The original publication is available at www…."
 
 #### Source
 * [EDP Publishing Policies \& Ethics](https://www.edpsciences.org/en/publishing-policies-ethics) (cf. especially [Repository Policy](https://www.edpsciences.org/en/publishing-policies-ethics#anchor_Repository-Policy))
@@ -666,7 +666,7 @@ Last checked: 10.06.2025
 Permitted
 
 #### Special requirements
-Include fixed statement: "This article first appeared in (journal name), Vol. XX, No. X, pages XXX-XXX, year, DOI: http://dx.doi.org/10.5547/(insert remainder of DOI here) - Reproduced by permission of the International Association for Energy Economics (IAEE)."
+* Include fixed statement: "This article first appeared in (journal name), Vol. XX, No. X, pages XXX-XXX, year, DOI: http://dx.doi.org/10.5547/(insert remainder of DOI here) - Reproduced by permission of the International Association for Energy Economics (IAEE)."
 
 #### Source
 * [Publishing Agreement](http://www.iaee.org/en/publications/openaccess/agreement.aspx) 
@@ -691,7 +691,7 @@ Last checked: 10.06.2025
 Permitted for Accepted manuscript
 
 #### Special requirements
-Include fixed statement: "© [year of original publication] IEEE. Reprinted, with permission, from [author names, paper title, IEEE publication title, and month/year of publication]"
+* Include fixed statement: "© [year of original publication] IEEE. Reprinted, with permission, from [author names, paper title, IEEE publication title, and month/year of publication]"
 
 #### Source
 * [Frequently Asked Questions Regarding IEEE Permissions](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/permissions_faq.pdf) (PDF) 
@@ -760,8 +760,8 @@ Last checked: 13.06.2024
 Permitted
 
 #### Special requirements
-* Unpublished article: include fixed statement "This is the version of the article before peer review or editing, as submitted by an author to [INSERT NAME OF JOURNAL].  IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it.  The Version of Record is available online at [INSERT DOI]"
-* Published article: include fixed statement "This is the Accepted Manuscript version of an article accepted for publication in [NAME OF JOURNAL]. IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it. The Version of Record is available online at [insert DOI].""
+* Unpublished article – Preprint included in thesis → include fixed statement "This is the version of the article before peer review or editing, as submitted by an author to [INSERT NAME OF JOURNAL].  IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it.  The Version of Record is available online at [INSERT DOI]"
+* Published article – Accepted manuscript included in thesis → include fixed statement "This is the Accepted Manuscript version of an article accepted for publication in [NAME OF JOURNAL]. IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it. The Version of Record is available online at [insert DOI].""
 
 #### Source
 * [Author Rights Policy (subscription articles)](https://publishingsupport.iopscience.iop.org/current-policy-author-rights-policy-for-subscription-articles-for-which-the-copyright-form-was-submitted-on-or-after-26-april-2016/)
@@ -814,7 +814,7 @@ Last checked: 13.06.2024 <br />
 Permitted
 
 #### Special requirements
-Authors must properly cite the published article in their thesis according to current citation standards: *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]'*
+* Authors must properly cite the published article in their thesis according to current citation standards: *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]'*
 
 #### Source
 * [Self archiving and license to publish](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish) 
@@ -888,7 +888,7 @@ Last checked: 12.06.2024
 Generally permitted, managing editor should be informed
 
 #### Special requirements
-* right to include the article in full or in part in a thesis or dissertation, provided that this not published commercially
+* "right to include the article in full or in part in a thesis or dissertation, provided that this not published commercially"
   
 #### Source
 
@@ -936,7 +936,7 @@ Last checked: 14.06.2024
 Policy unknown → please contact the responsible editor
 
 #### Special requirements
-Include fixed statement: "This is an Accepted Manuscript of a book chapter published by Routledge/CRC Press in [BOOK TITLE] on [date of publication], available online: http://www.routledge.com/[BOOK ISBN URL] or "http://www.crcpress.com/[BOOK ISBN URL]”
+* Include fixed statement: "This is an Accepted Manuscript of a book chapter published by Routledge/CRC Press in [BOOK TITLE] on [date of publication], available online: http://www.routledge.com/[BOOK ISBN URL] or "http://www.crcpress.com/[BOOK ISBN URL]”
 
 #### Source
 * [Policies for Open Access Book Chapters](https://s3-us-west-2.amazonaws.com/tandfbis/rt-files/docs/Routledge+T%26F+Policies+for+Open+Access+Book+Chapters+FINAL.pdf) (PDF) 
@@ -960,7 +960,7 @@ Last checked: 14.06.2024
 Permitted but should be disclosed upon submission
 
 #### Special requirements
-Accepted Manuscript *may* be published under a CC BY license
+* Accepted Manuscript *may* be published under a CC BY license
 
 #### Source
 * [Licence to Publish](https://royalsociety.org/journals/authors/author-guidelines/licence-to-publish/) (or see [PDF](https://royalsociety.org/-/media/journals/authors/licence-to-publish-20062019-final.pdf))
@@ -1114,7 +1114,7 @@ Last checked: 10.06.2025 <br />
 
 #### Special requirements
 * Wait for official publication by Springer (thesis may not be freely available before article is published online)    
-*  Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards. *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’*
+* Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards. *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’*
 * Accepted version → Include fixed statement: "This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature’s [AM terms of use](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms), but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: http://dx.doi.org/[insert DOI]"
 
 #### Source
