@@ -269,12 +269,13 @@ Permitted
 ### American Mathematical Society (AMS)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 17.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
 * Preprint :white_check_mark: 
 * Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -285,8 +286,8 @@ Permitted
 * Accepted manuscript *may* be published under a CC BY license
 
 #### Source
-* [AMS Copyright Policy](http://www.ams.org/publications/authors/ctp),
-* [Consent to Publish and Copyright Agreement Form](http://www.ams.org/publications/ctp.pdf) (PDF)
+* [AMS Copyright Policy](https://www.ams.org/publications/authors/ctp)
+* [Consent to Publish and Copyright Agreement Form](https://www.ams.org/publications/ctp.pdf) (PDF)
 
 </details>
 
