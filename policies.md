@@ -470,7 +470,7 @@ Permitted
 ### De Gruyter (Books)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 23.06.2025
 
 #### Re-use permitted for...
 * Book chapter (in scientific monographs; :warning: policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
@@ -493,7 +493,7 @@ Permitted
 ### De Gruyter (Journals)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 23.06.2025
 
 #### Re-use permitted for...
 * Journal article
@@ -1223,6 +1223,7 @@ Generally permitted, some journals have deviating rules → check policy for eac
 * [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html)
 * [Ethics Guidelines](https://authorservices.wiley.com/ethics-guidelines/index.html)
 * [Self-Archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)
+* Cf. section 3.b in [ Copyright Transfer Agreement (CTA) ](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) resp. [Exclusive License Agreement (ELA](https://authorservices.wiley.com/asset/Exclusive-License-Agreement-Sample.pdf) ( :warning: sample agreements! clauses in your actual signed agreement may differ!)
     
 </details>
 
