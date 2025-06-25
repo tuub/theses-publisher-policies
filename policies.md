@@ -514,7 +514,7 @@ n.a.
 ### EDP Sciences
 
 <details>
-Last checked: 13.06.2024
+Last checked: 25.06.2025
 
 #### Re-use permitted for...
 * Article
@@ -529,8 +529,7 @@ Permitted
 * Include fixed statement "The original publication is available at www…."
 
 #### Source
-* [EDP Publishing Policies \& Ethics](https://www.edpsciences.org/en/publishing-policies-ethics) (cf. especially [Repository Policy](https://www.edpsciences.org/en/publishing-policies-ethics#anchor_Repository-Policy))
-* [EDP Sciences Self-Archiving Policy](https://www.edpsciences.org/en/authors/copyright-and-licensing#anchor_EDP-Sciences-Self-Archiving-Policy)
+* [Copyright and licensing -- section "EDP Sciences Self-Archiving Policy"](https://www.edpsciences.org/en/authors/copyright-and-licensing)
     
 </details>
 
