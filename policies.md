@@ -609,10 +609,10 @@ n.a.
 ### Hanser
 
 <details>
-Last checked: 13.06.2024
+Last checked: 25.06.2025
 
 #### Re-use permitted for...
-Author must obtain publisher's permission
+Author must obtain publisher's permission (contact info@hanser.de)
     
 #### Re-use before official publication by publisher
 Author must obtain publisher's permission
@@ -628,7 +628,7 @@ n.a.
 ### Hogrefe
 
 <details>
-Last checked: 06.06.2024
+Last checked: 25.06.2025
 
 #### Re-use permitted for...
 * Article
@@ -642,8 +642,8 @@ Last checked: 06.06.2024
 Permitted
 
 #### Special requirements
-* Submitted articles (Preprint included in thesis): include note on date and status of submission/review
-* Accepted or published articles (Accepted manuscript included in thesis): include fixed statement "This version of the article may not completely replicate the final authoritative version published in [journal title] at [DOI]. It is not the version of record and is therefore not suitable for citation."
+* Submitted, unpublished articles -- preprint included in thesis → include note on date and status of submission/review
+* Accepted or published articles -- accepted manuscript included in thesis → include fixed statement "This version of the article may not completely replicate the final authoritative version published in [journal title] at [DOI]. It is not the version of record and is therefore not suitable for citation."
 
 #### Source
 [Usage guidelines for journal articles](https://www.hogrefe.com/us/resources/publishing-with-hogrefe/for-journals/usage-guidelines-for-journal-articles)
