@@ -561,7 +561,7 @@ Policy unknown (not mentioned in general policy) → please contact the responsi
 ### Elsevier
 
 <details>
-Last checked: 13.06.2024
+Last checked: 25.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -570,16 +570,15 @@ Last checked: 13.06.2024
 * Published version :white_check_mark:
     
 #### Re-use before official publication by publisher
-* Generally permitted, some journals have deviating rules → check policy for each journal
-* e.g. [Cell Press](https://www.cell.com/cell/authors) and [Lancet](https://www.thelancet.com/lancet/about): prior publication prohibited
+* Generally permitted, some journals have deviating rules → check policy for your respective journal(s)
 
 #### Special requirements
 n.a.
 
 #### Source
-* [Article Sharing](https://www.elsevier.com/about/policies/sharing)
+* [Article Sharing](https://www.elsevier.com/about/policies-and-standards/sharing)
 * [Permissions](https://www.elsevier.com/about/policies/copyright/permissions) 
-* [Copyright – Author rights](https://www.elsevier.com/about/policies/copyright#Author-rights) 
+* [Copyright – Author rights](https://www.elsevier.com/about/policies-and-standards/copyright#Author-rights) 
     
 </details>
 
