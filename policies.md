@@ -586,13 +586,13 @@ n.a.
 ### Emerald
 
 <details>
-Last checked: 13.06.2024
+Last checked: 25.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
-* Published version: yes :warning: The VoR may be included in the print version of your thesis/dissertation. If an electronic deposit is required, this must be the SMUR or AAM version
+* Published version :warning: may only be included in print version of your thesis/dissertation, must not be used for online thesis
     
 #### Re-use before official publication by publisher
 Permitted
@@ -601,7 +601,7 @@ Permitted
 n.a.
 
 #### Source
-* [Emerald author rights](https://www.emeraldgrouppublishing.com/our-services/authors/author-policies/author-rights)
+* [Emerald author rights](https://www.emeraldgrouppublishing.com/publish-with-us/author-policies/author-rights)
     
 </details>
 
