@@ -702,7 +702,7 @@ Permitted for Accepted manuscript
 ### IGI Global
 
 <details>
-Last checked: 17.09.2024
+Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * Article or Chapter
@@ -723,7 +723,7 @@ n.a.
 ### Inderscience
 
 <details>
-Last checked: 17.09.2024
+Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -739,7 +739,6 @@ n.a.
 
 #### Source
 * [Copyright and author entitlement](https://www.inderscience.com/mobile/inauthors/index.php?pid=74)
-* [Copyright and Author Rights and Responsibilities](https://www.inderscience.com/www/dl.php?filename=authorcopyright.pdf) (PDF)
 * [Author Copyright Agreement](https://www.inderscience.com/www/dl.php?filename=authoragree.pdf) (PDF)
     
 </details>
@@ -748,7 +747,7 @@ n.a.
 ### IOP (Institute of Physics)
 
 <details>
-Last checked: 13.06.2024
+Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -765,7 +764,6 @@ Permitted
 #### Source
 * [Author Rights Policy (subscription articles)](https://publishingsupport.iopscience.iop.org/current-policy-author-rights-policy-for-subscription-articles-for-which-the-copyright-form-was-submitted-on-or-after-26-april-2016/)
 * [Preprint policy](https://publishingsupport.iopscience.iop.org/preprint-pre-publication-policy/)
-* [Author Rights FAQs](https://publishingsupport.iopscience.iop.org/author-rights-faqs/)
 * [Permissions FAQs](https://publishingsupport.iopscience.iop.org/permissions-faqs/)
     
 </details>
@@ -774,7 +772,7 @@ Permitted
 ### IWA Publishing
 
 <details>
-Last checked: 13.06.2024
+Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -798,10 +796,10 @@ Generally permitted, publisher should be contacted in advance
 ### Nature Publishing Group (NPG)
 
 <details>
-Last checked: 13.06.2024 <br /> 
+Last checked: 26.06.2025 <br /> 
    <br />
     
-:warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Springer](#springer)).
+:information_source: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Springer](#springer)).
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -816,9 +814,10 @@ Permitted
 * Authors must properly cite the published article in their thesis according to current citation standards: *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]'*
 
 #### Source
+* [Permissions requests](https://www.nature.com/nature-portfolio/reprints-and-permissions/permissions-requests)
 * [Self archiving and license to publish](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish) 
 * [Nature journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism)
-* [Permissions requests](https://www.nature.com/nature-portfolio/reprints-and-permissions/permissions-requests)
+
     
 </details>
 
@@ -917,7 +916,7 @@ n.a.
 
 #### Source
 * [PNAS Author Center – Fees and Licenses](https://www.pnas.org/authors/fees-and-licenses), cf. sections [License to Publish](https://www.pnas.org/authors/fees-and-licenses#license-to-publish) and [PNAS Author Rights and Permissions](https://www.pnas.org/authors/fees-and-licenses#author-rights-and-permissions/)
-* [PNAS Information for Authors](https://blog.pnas.org/iforc.pdf) (PDF)
+* [Rights and Permissions](https://www.pnas.org/about/rights-permissions)
     
 </details>
 
@@ -1100,7 +1099,7 @@ Permitted
 Last checked: 10.06.2025 <br /> 
    <br />
     
-:warning: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
+:information_source: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
 
 #### Re-use permitted for...
 * Article, Book chapter (in Edited volumes or Proceedings)
