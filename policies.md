@@ -924,11 +924,12 @@ n.a.
 ### Routledge
 
 <details>
-Last checked: 14.06.2024
+Last checked: 28.06.2025
 
 #### Re-use permitted for...
-* Book chapter (max. 1 chapter per book)
+* Book chapter (max. 1 chapter per book/author)
 * Accepted manuscript: yes :warning: 12 months embargo for STEM, 18 months embargo for Humanities and Social Sciences
+* Seek [permission](https://www.routledge.com/contacts/rights-and-permissions/permissions) for other kind of uses (authors' own use usually free of charge)
     
 #### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
@@ -937,9 +938,8 @@ Policy unknown → please contact the responsible editor
 * Include fixed statement: "This is an Accepted Manuscript of a book chapter published by Routledge/CRC Press in [BOOK TITLE] on [date of publication], available online: http://www.routledge.com/[BOOK ISBN URL] or "http://www.crcpress.com/[BOOK ISBN URL]”
 
 #### Source
-* [Policies for Open Access Book Chapters](https://s3-us-west-2.amazonaws.com/tandfbis/rt-files/docs/Routledge+T%26F+Policies+for+Open+Access+Book+Chapters+FINAL.pdf) (PDF) 
 * [Publishing Open Access Books: Chapters](https://www.routledge.com/our-products/open-access-books/publishing-oa-books/chapters)
-* [Routledge Permissions for Books \& Journals](https://www.routledge.com/contacts/rights-and-permissions/permissions)
+* [Request Books Permissions](https://www.routledge.com/contacts/rights-and-permissions/permissions)
     
 </details>
 
