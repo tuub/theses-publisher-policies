@@ -947,7 +947,7 @@ Policy unknown → please contact the responsible editor
 ### Royal Society
 
 <details>
-Last checked: 14.06.2024
+Last checked: 28.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -961,7 +961,7 @@ Permitted but should be disclosed upon submission
 * Accepted Manuscript *may* be published under a CC BY license
 
 #### Source
-* [Licence to Publish](https://royalsociety.org/journals/authors/author-guidelines/licence-to-publish/) (or see [PDF](https://royalsociety.org/-/media/journals/authors/licence-to-publish-20062019-final.pdf))
+* [Licence to Publish](https://royalsociety.org/journals/authors/author-guidelines/licence-to-publish/) (or see ['Standard licence to publish'](https://royalsociety.org/-/media/journals/authors/licence-to-publish-20062019-final.pdf) (PDF))
 * [Preprints, accepted author manuscripts and embargoes](https://royalsociety.org/journals/ethics-policies/media-embargo/)
 * [Misconduct and redundant publication](https://royalsociety.org/journals/ethics-policies/misconduct/)
     
@@ -971,7 +971,7 @@ Permitted but should be disclosed upon submission
 ### Royal Society of Chemistry (RSC)
 
 <details>
-Last checked: 14.06.2024
+Last checked: 28.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -988,10 +988,8 @@ Include fixed statement – either standard or non-standard [acknowledgement](ht
 * Non-standard acknowledgement for some journals: [cf. detailed instructions by RSC](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements)
 
 #### Source
-* [Licences, copyright \& permissions](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions)  
-* [Our processes \& policies](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/processes-policies)
-* [Open Access](https://www.rsc.org/journals-books-databases/open-access/#choose)  
-    
+* [Licences, copyright \& permissions](https://www.rsc.org/publishing/journals/processes-and-policies/licences-copyright-and-permissions)  
+
 </details>
 
 
