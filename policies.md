@@ -853,11 +853,11 @@ Include fixed statement
 ### Oxford University Press (Books)
 
 <details>
-Last checked: 12.06.2024
+Last checked: 28.06.2025
 
 #### Re-use permitted for...
-* Book chapter (in academic/research book in SSH or MINT; :warning: policy does not apply to reference content, Trade series; :warning: max. 1 chapter per book/anthology)
-* Accepted manuscript: yes :warning: 12 months embargo (exception: 24 months embargo for series "Oxford Intersections")
+* Book chapter (in academic/research book in SSH or MINT; :warning: max. 1 chapter per book/anthology; :warning: policy does not apply to reference content, Trade series)
+* Accepted manuscript: yes :warning: 12 months embargo
     
 #### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
@@ -866,7 +866,7 @@ Policy unknown → please contact the responsible editor
 * Include fixed statement for original print-only works: If the published work does not have an online version, full acknowledgement should be made to the original print publication stating the specific material re-used in the following form: "[Title] by/edited by [Author/editor], [year of publication], [page numbers reproduced]. Reproduced by permission of Oxford University Press [link to OUP online catalogue entry if available, or OUP website]. For permission to re-use this material, please visit https://global.oup.com/academic/rights."
 
 #### Source
-[Author reuse and self-archiving](https://academic.oup.com/pages/authoring/books/author-reuse-and-self-archiving)
+[Author reuse and self-archiving](https://academic.oup.com/pages/for-authors/books/the-book-publishing-process/publication-and-beyond/author-reuse-and-self-archiving)
     
 </details>
 
@@ -874,7 +874,7 @@ Policy unknown → please contact the responsible editor
 ### Oxford University Press (Journals)
 
 <details>
-Last checked: 12.06.2024
+Last checked: 28.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -890,7 +890,7 @@ Generally permitted, managing editor should be informed
   
 #### Source
 
-* [Licences, copyright and re-use rights (section "What rights do I retain as an Oxford author?"](https://academic.oup.com/pages/authoring/journals/production_and_publication/online_licensing)
+* [Licences, copyright and re-use rights (section "What rights do I retain as an Oxford author?"](https://academic.oup.com/pages/for-authors/journals/final-steps-to-publication/licenses-copyright-and-reuse-rights)
 * [Author self-archiving policy](https://academic.oup.com/pages/open-research/open-access/charges-licences-and-self-archiving/author-self-archiving-policy) 
 
 </details>
