@@ -1069,7 +1069,7 @@ n.a.
 ### Society of Photo‑Optical Instrumentation Engineers (SPIE)
 
 <details>
-Last checked: 14.06.2024
+Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1123,12 +1123,12 @@ Last checked: 10.06.2025 <br />
 ### Taylor \& Francis
 
 <details>
-Last checked: 04.03.2024
+Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/), include statement)
+* Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder (Entry "Embargo period (repository or network)"](https://authorservices.taylorandfrancis.com/choose-open/publishing-open-access/open-access-cost-finder/), include statement)
     
 #### Re-use before official publication by publisher
 Permitted for preprint
@@ -1137,11 +1137,11 @@ Permitted for preprint
 * Unpublished articles: preprint may be used only → recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Taylor \& Francis in [JOURNAL TITLE]")
 * Published articles – Preprint used in thesis → include fixed statement "This is an original manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: `https://doi.org/[Article DOI]`."
 * Published articles – Accepted manuscript used in thesis → include fixed statement "This is an Accepted Manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: `https://doi.org/[Article DOI]`."
-* Accepted Manuscript should be published under a CC BY-NC or a CC BY-NC-ND license
+* Accepted Manuscript: recommended be published under a CC BY-NC or a CC BY-NC-ND license (include CC license statement)
 
 #### Source
 * [Sharing your work](https://authorservices.taylorandfrancis.com/research-impact/sharing-versions-of-journal-articles/)
-* [Article publishing charge, embargo, and license information](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/) 
+* [Article publishing charge, embargo, and license information](https://authorservices.taylorandfrancis.com/choose-open/publishing-open-access/open-access-cost-finder/) 
 
 </details>
 
