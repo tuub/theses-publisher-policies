@@ -1021,7 +1021,7 @@ Last checked: 10.06.2025
 ### Society for Industrial and Applied Mathematics (SIAM)
 
 <details>
-Last checked: 17.09.2024
+Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1045,7 +1045,7 @@ Permitted
 ### Society of Exploration Geophysicists (SEG)
 
 <details>
-Last checked: 14.06.2024
+Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1061,8 +1061,7 @@ n.a.
 
 #### Source
 * [SEG Policy on Open-access Publishing](https://library.seg.org/page/policies/open-access)
-* [Permissions](https://library.seg.org/page/policies/permissions)
-* [SEG Policies and Procedures Manual (25 August 2024)](https://seg.org/wp-content/uploads/2024/09/SEG-Policies-and-Procedures-Manual_2024.08.25.pdf)
+* [SEG Policies and Procedures Manual (01 May 2025)](https://seg.org/wp-content/uploads/2025/05/SEG-Policies-and-Procedures-Manual_2024.05.01.pdf)
     
 </details>
 
