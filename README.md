@@ -1,3 +1,6 @@
+> [!TIP]
+> Quick access to [list by publisher](/policies.md#publisher-policies) 
+
 # Publisher theses policies
 
 <details>
