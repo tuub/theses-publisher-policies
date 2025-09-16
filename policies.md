@@ -796,14 +796,14 @@ Generally permitted, publisher should be contacted in advance
 ### John Benjamins
 
 <details>
-Last checked: 10.09.2025 <br /> 
+Last checked: 16.09.2025 <br /> 
    <br />
     
 #### Re-use permitted for...
 * Article in a journal or in a edited book volume
 * Preprint :white_check_mark:
-* Accepted manuscript: yes :warning: probably 12 months embargo for articles in books
-* Published version❓
+* Accepted manuscript: journal articles :white_check_mark: | yes :warning: 12 months embargo for articles in books
+
 
 #### Re-use before official publication by publisher
 Policy unknown
@@ -814,7 +814,7 @@ Policy unknown
 * "A notice is added that John Benjamins Publishing Company should be contacted for permission to re-use or reprint the material in any form."
 
 #### Source
-* [Copyright Policy](https://benjamins.com/content/authors/rightspolicy) (especially last point in the first part, but unclear whether restrictions on the versions below also apply to that)
+* [Copyright Policy](https://benjamins.com/content/authors/rightspolicy)
    
 </details>
 
