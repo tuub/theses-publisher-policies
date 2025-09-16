@@ -670,8 +670,8 @@ Permitted
 #### Source
 * [Publishing Agreement](http://www.iaee.org/en/publications/openaccess/agreement.aspx) 
 * [Green Open Access](http://www.iaee.org/en/publications/openaccess/green.aspx) (notes that embargo does not apply to reuse in thesis)
-* [EEEP Publishing Agreement](http://www.iaee.org/documents/EEEP_IAEE_Publishing_Agreement.pdf) (PDF)
-* [EJ Publishing Agreement](https://www.iaee.org/documents/EJ_IAEE_Publishing_Agreement.pdf) (PDF)
+* [EEEP Publishing Agreement](http://www.iaee.org/documents/EEEP_IAEE_Publishing_Agreement.pdf) (PDF) (:warning: sample agreement! terms may differ – check the agreement that you actually signed)
+* [EJ Publishing Agreement](https://www.iaee.org/documents/EJ_IAEE_Publishing_Agreement.pdf) (PDF) (:warning: sample agreement! terms may differ – check the agreement that you actually signed)
     
 </details>
 
@@ -987,7 +987,7 @@ Permitted but should be disclosed upon submission
 * Accepted Manuscript *may* be published under a CC BY license
 
 #### Source
-* [Licence to Publish](https://royalsociety.org/journals/authors/author-guidelines/licence-to-publish/) (or see ['Standard licence to publish'](https://royalsociety.org/-/media/journals/authors/licence-to-publish-20062019-final.pdf) (PDF))
+* [Licence to Publish](https://royalsociety.org/journals/authors/author-guidelines/licence-to-publish/) (or see ['Standard licence to publish'](https://royalsociety.org/-/media/journals/authors/licence-to-publish-20062019-final.pdf) (PDF) :warning: sample agreement! terms may differ – check the agreement that you actually signed)
 * [Preprints, accepted author manuscripts and embargoes](https://royalsociety.org/journals/ethics-policies/media-embargo/)
 * [Misconduct and redundant publication](https://royalsociety.org/journals/ethics-policies/misconduct/)
     
@@ -1243,7 +1243,7 @@ Generally permitted, some journals have deviating rules → check policy for eac
 * [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html)
 * [Ethics Guidelines](https://authorservices.wiley.com/ethics-guidelines/index.html)
 * [Self-Archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)
-* Cf. section 3.b in [ Copyright Transfer Agreement (CTA) ](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) resp. [Exclusive License Agreement (ELA](https://authorservices.wiley.com/asset/Exclusive-License-Agreement-Sample.pdf) ( :warning: sample agreements! clauses in your actual signed agreement may differ!)
+* Cf. section 3.b in [ Copyright Transfer Agreement (CTA) ](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) resp. [Exclusive License Agreement (ELA](https://authorservices.wiley.com/asset/Exclusive-License-Agreement-Sample.pdf) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
     
 </details>
 
