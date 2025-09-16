@@ -793,6 +793,32 @@ Generally permitted, publisher should be contacted in advance
 </details>
 
 
+### John Benjamins
+
+<details>
+Last checked: 16.09.2025 <br /> 
+   <br />
+    
+#### Re-use permitted for...
+* Article in a journal or in a edited book volume
+* Preprint :white_check_mark:
+* Accepted manuscript: journal articles :white_check_mark: | yes :warning: 12 months embargo for articles in books
+
+
+#### Re-use before official publication by publisher
+Policy unknown
+
+#### Special requirements
+* The publisher John Benjamins must be notified of the re-use.
+* "A citation to the prior, published article is included."
+* "A notice is added that John Benjamins Publishing Company should be contacted for permission to re-use or reprint the material in any form."
+
+#### Source
+* [Copyright Policy](https://benjamins.com/content/authors/rightspolicy)
+   
+</details>
+
+
 ### Nature Publishing Group (NPG)
 
 <details>
