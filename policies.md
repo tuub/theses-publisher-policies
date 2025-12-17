@@ -116,6 +116,31 @@ Last checked: 03.06.2025
     
 </details>
 
+### American Physiological Society (APS) 
+
+<details>
+Last checked: 17.12.2025
+
+#### Re-use permitted for...
+* Article
+* Preprint :warning:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
+    
+#### Re-use before official publication by publisher
+* Before submission: permitted but should be disclosed upon submission
+* "Once a work has been submitted to an APS journal, no version of it may be posted to preprint servers while it is under consideration by the journal, including during revision, resubmission, (...)"
+
+#### Special requirements
+n.a.
+
+
+#### Source
+* [Permissions](https://journals.physiology.org/permissions)
+* [Preprint Policy](https://journals.physiology.org/editorial-policies#preprints)
+
+    
+</details>
 
 ### American Society for Microbiology (ASM)
 
