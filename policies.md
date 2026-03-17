@@ -219,7 +219,7 @@ Permitted
 ### American Chemical Society (ACS)
 
 <details>
-Last checked: 06.06.2024
+Last checked: 17.05.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -231,11 +231,12 @@ Last checked: 06.06.2024
 Permitted
 
 #### Special requirements
-* Include fixed statement "Reprinted with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] American Chemical Society." (cf. further explanation ACS: *'Insert the appropriate wording in place of the capitalized words. Citation information may be found after the “Cite this:” heading below the title of the online version and at the bottom of the first page of the pdf or print version of your ACS journal article.'*)
-* For online thesis – include the "ACS Articles on Request author-directed link" to the published version (cf. [Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF))
+* Include fixed statement "Reprinted (Adapted or Reprinted in part) with permission from [COMPLETE REFERENCE CITATION]. Copyright [YEAR] [NAME OF PUBLISHER/COPYRIGHT OWNER]." (cf. [General Copyright & Permissions](https://pubs.acs.org/page/authors/copyright.htm#credit-lines))
+* For online thesis – include the "ACS Articles on Request author-directed link" to the published version (cf. [Policies on Public Posting (...) > Reuse in Theses or Dissertations](https://pubs.acs.org/page/authors/sharing.htm#reuse-theses))
     
 #### Source
-* [American Chemical Society’s Policy on Theses and Dissertations](https://pubs.acs.org/pb-assets/acspubs/Migrated/dissertation-1632927826810.pdf) (PDF)
+* [Policies on Public Posting (...) > Reuse in Theses or Dissertations](https://pubs.acs.org/page/authors/sharing.htm#reuse-theses)
+* [ACS Publishing Agreements](https://pubs.acs.org/page/authors/JPA.htm)
 * [Use of Materials from ACS Journals (other than ACS AuthorChoice Open Access content)](https://pubs.acs.org/page/copyright/permissions_journals.html)
     
 </details>
