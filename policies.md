@@ -655,6 +655,30 @@ n.a.
 </details>
 
 
+### Geological Society of America (GSA)
+
+<details>
+Last checked: 19.03.2026
+
+#### Re-use permitted for...
+* All or part of the journal article or book chapter
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+
+#### Re-use before official publication by publisher
+Permitted
+
+#### Special requirements
+* "Must link to publisher version; Publisher source must be acknowledged with citation"
+* Accepted manuscript *may* be published under a Creative Commons license (CC BY recommended)
+
+#### Source
+* [Copyright information](https://www.geosociety.org/gsa/pubs/guide/copyright.aspx)
+* [GSA's Policies on Open Access](https://www.geosociety.org/GSA/Publications/Info_Services/Author_Info/GSA/Pubs/openAccess.aspx)
+    
+</details>
+
+
 ### Hanser
 
 <details>
