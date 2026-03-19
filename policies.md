@@ -584,6 +584,29 @@ Policy unknown (not mentioned in general policy) → please contact the responsi
 </details>
 
 
+### Electrochemical Society (ECS)
+
+<details>
+Last checked: 19.03.2026
+
+#### Re-use permitted for...
+* All or part of the journal article
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
+* Published version :white_check_mark:
+    
+#### Re-use before official publication by publisher
+Permitted
+
+#### Special requirements
+"Any posting made or updated after the acceptance of the article for publication should include a link to the online abstract in the ECS publication of origin or to the entry page of that publication."
+
+#### Source
+* [IOP / The Electrochemical Society (ECS)](https://publishingsupport.iopscience.iop.org/questions/electrochemical-society-ecs/)
+* [ECS Supports Green Open Access](https://www.electrochem.org/ecsnews/ecs-supports-green-open-access)
+    
+</details>
+
 ### Elsevier
 
 <details>
