@@ -76,7 +76,7 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: but only after official publication by publisher
 
 #### Re-use before official publication by publisher
@@ -100,8 +100,8 @@ Last checked: 03.06.2025
 
 #### Re-use permitted for...
 * Article
-* Preprint :white_check_mark:
-* Accepted manuscript: :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 * Permitted but should be disclosed upon submission (include link and indicate possible revisions)
@@ -124,8 +124,8 @@ Last checked: 17.12.2025
 #### Re-use permitted for...
 * Article
 * Preprint :warning:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 * Before submission: permitted but should be disclosed upon submission
@@ -149,9 +149,9 @@ Last checked: 16.06.2025
 
 #### Re-use permitted for...
 * Article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
@@ -178,7 +178,7 @@ Last checked: 10.06.2025
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :warning: but re-use should be disclosed upon submission
-* Accepted manuscript :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted but must be disclosed upon submission
@@ -200,8 +200,8 @@ Last checked: 16.06.2025
 #### Re-use permitted for...
 * All or part of the article
 * Journal article, Book chapter
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -223,9 +223,9 @@ Last checked: 17.05.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -249,8 +249,8 @@ Last checked: 16.06.2025
 
 #### Re-use permitted for...
 * Article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
 * Published version: yes :warning: 6 months embargo, include statement
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
@@ -275,9 +275,9 @@ Last checked: 17.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -299,9 +299,9 @@ Last checked: 17.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint :white_check_mark: 
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark: 
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -325,7 +325,7 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: but only after official publication by publisher, include statement
 
 #### Re-use before official publication by publisher
@@ -349,8 +349,8 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark: Include APS copyright credit line
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: Include APS copyright credit line
 
 #### Re-use before official publication by publisher
 Generally permitted; obtain permission to use any APS prepared version
@@ -372,8 +372,8 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -395,8 +395,8 @@ Last checked: 10.06.2025
 #### Re-use permitted for...
 * Article
 * For non-commercial purposes only
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark: 12 months embargo
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: 12 months embargo
 
 #### Re-use before official publication by publisher
 Author must obtain publisher's permission
@@ -418,8 +418,8 @@ Last checked: 12.06.2025
 
 #### Re-use permitted for...
 * Article, Book chapter
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
 * Other possiblities for OA content and authors who are expected to comply with Plan S and the rights-retention strategy.
 
 #### Re-use before official publication by publisher
@@ -443,7 +443,7 @@ Last checked: 12.06.2025
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book)
 * Policy for monographs or edited volumes (does not apply to textbooks, works of reference etc.)
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: 6 months embargo
 * Published version yes :warning: 6 months embargo
 
@@ -471,7 +471,7 @@ Last checked: 19.03.2025
 #### Re-use permitted for...
 General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2) for journals with different, more permissive policy):
 * Article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: but with 6 months embargo for STM journals, no embargo for SSH journals (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2))
 
 #### Re-use before official publication by publisher
@@ -480,11 +480,11 @@ Permitted
 #### Special requirements
 * For all published articles: include a link to the article.
 * For accepted, but not yet published articles: include a clear statement that the material has been accepted for publication in a revised form, with a link to the journal’s site
-* Authors may make Accepted Manuscripts available under a Creative Commons CC BY-NC-ND licence or equivalent, but not a more permissive licence.
+* Authors *may* make Accepted Manuscripts available under a Creative Commons CC BY-NC-ND licence or equivalent, but not a more permissive licence.
 * A clear statement about the licence terms under which the author has shared this version of their article. Examples
     * This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution or re-use. © copyright holder.
     * This article has been published in a revised form in [Journal] [http://doi.org/XXX]. This version is published under a Creative Commons CC BY-NC-ND licence. No commercial re-distribution or re-use allowed. Derivative works cannot be distributed. © copyright holder.
-* Preprints (articles before submission) may be published under a Creative Commons license.
+* Preprints (articles before submission) *may* be published under a Creative Commons license.
 
 #### Source
 * [Green open access policy for journals](https://www.cambridge.org/core/services/open-access-policies/open-access-journals/green-open-access-policy-for-journals)
@@ -500,8 +500,8 @@ Last checked: 23.06.2025
 
 #### Re-use permitted for...
 * Book chapter (in scientific monographs; :warning: policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -509,7 +509,7 @@ Permitted
 #### Special requirements
 * Up to two chapters, but no more than 10% of the Accepted (book) manuscript, may be made available
 * Include fixed statement “The final publication is available at www.degruyter.com”
-* Submitted chapters (Preprint) may be published under a Creative Commons license
+* Submitted chapters (Preprint) *may* be published under a Creative Commons license
 
 #### Source
 [Repository Policy for Book Publications](https://www.degruyter.com/publishing/services/rechte-lizenzen/repositorypolicy?lang=en)
@@ -523,7 +523,7 @@ Last checked: 23.06.2025
 
 #### Re-use permitted for...
 * Journal article
-* Preprint :white_check_mark: 
+* Preprint: yes :white_check_mark: 
 * Accepted manuscript: yes :warning: with embargo (Social Sciences and Humanities: 12 months; Science, Technology, Engineering and Mathematics: 12 months; Medicine: 6 months)
 
 #### Re-use before official publication by publisher
@@ -544,9 +544,9 @@ Last checked: 25.06.2025
 
 #### Re-use permitted for...
 * Article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -569,7 +569,7 @@ Last checked: 10.06.2025
 * All or part of the article    
 * Book chapter (max. 1 chapter per book) or journal article (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
 * Accepted manuscript: yes :warning: but only after 12 months embargo (according to [Green Open Access policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/#accordion-28))
-* Published version :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Policy unknown (not mentioned in general policy) → please contact the responsible editor
@@ -591,9 +591,9 @@ Last checked: 19.03.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -616,7 +616,7 @@ Last checked: 25.06.2025
 * All or part of the journal article
 * Preprint: yes :warning: but for re-use before official publication check policy for the journal
 * Accepted manuscript: yes :warning: but for re-use before official publication check policy for the journal
-* Published version :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 * Generally permitted, some journals have deviating rules → check policy for your respective journal(s)
@@ -681,8 +681,8 @@ Last checked: 25.06.2025
 
 #### Re-use permitted for...
 * Article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
 * Published version:  :warning: may only be used with the express written permission of the publisher
 * Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
@@ -706,9 +706,9 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -733,7 +733,7 @@ Last checked: 10.06.2025
 #### Re-use permitted for...
 * All or part of the article
 * Journal article, Book chapter
-* Accepted manuscript :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted for Accepted manuscript
@@ -755,7 +755,7 @@ Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * Article or Chapter
-* Published version :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Author must obtain publisher's permission
@@ -776,9 +776,9 @@ Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: but only after 12 months embargo
-* Published version :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -800,7 +800,7 @@ Last checked: 26.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: but only after 12 months embargo
     
 #### Re-use before official publication by publisher
@@ -850,8 +850,8 @@ Last checked: 16.09.2025 <br />
     
 #### Re-use permitted for...
 * Article in a journal or in a edited book volume
-* Preprint :white_check_mark:
-* Accepted manuscript: journal articles :white_check_mark: | yes :warning: 12 months embargo for articles in books
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: | book chapters :warning: 12 months embargo for articles in books
 
 
 #### Re-use before official publication by publisher
@@ -878,9 +878,9 @@ Last checked: 26.06.2025 <br />
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: 6 months embargo
-* Published version :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -953,9 +953,9 @@ Last checked: 28.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Generally permitted, managing editor should be informed
@@ -978,9 +978,9 @@ Last checked: 14.06.2024
 
 #### Re-use permitted for...
 * All or part of the article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
 
     
 #### Re-use before official publication by publisher
@@ -1026,8 +1026,8 @@ Last checked: 28.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted but should be disclosed upon submission
@@ -1050,9 +1050,9 @@ Last checked: 28.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark: 
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: 
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -1075,9 +1075,9 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark: (:warning: (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
-* Accepted manuscript :white_check_mark: 
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark: (:warning: (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
+* Accepted manuscript: yes :white_check_mark: 
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 * Generally permitted – except for some journals (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
@@ -1100,9 +1100,9 @@ Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark: 
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: 
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -1124,9 +1124,9 @@ Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark: 
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: 
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -1148,9 +1148,9 @@ Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark: 
-* Published version :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: 
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Permitted
@@ -1176,7 +1176,7 @@ Last checked: 10.06.2025 <br />
 #### Re-use permitted for...
 * Article, Book chapter (in Edited volumes or Proceedings)
 * Accepted manuscript: yes :warning: 12 months embargo
-* Published version :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 * In general: Inclusion of unpublished articles in thesis not permitted. → Recommendation: preprint on preprint server, link to preprint in thesis
@@ -1202,7 +1202,7 @@ Last checked: 01.07.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark:
+* Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder (Entry "Embargo period (repository or network)"](https://authorservices.taylorandfrancis.com/choose-open/publishing-open-access/open-access-cost-finder/), include statement)
     
 #### Re-use before official publication by publisher
@@ -1228,8 +1228,8 @@ Last checked: 10.06.2025
 
 #### Re-use permitted for...
 * Journal articles
-* Accepted manuscript: :white_check_mark:
-* Published version :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
 Policy unknown
@@ -1253,8 +1253,8 @@ Last checked: 19.03.2026
 #### Re-use permitted for...
 
 * Article, Book chapter
-* Preprint :white_check_mark:
-* Accepted manuscript :white_check_mark:
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
  
 #### Re-use before official publication by publisher
 Policy unknown → please contact the managing editor
@@ -1272,13 +1272,14 @@ n.a.
 ### Wiley
 
 <details>
-Last checked: 12.06.2025
+Last checked: 19.03.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark: 
-* Accepted manuscript :white_check_mark: 
-* Published Version :white_check_mark:
+* Preprint: yes :white_check_mark: 
+* Accepted manuscript: yes :white_check_mark: 
+* Published Version: yes :white_check_mark:
+* :information_source: Wiley and Wiley-VCH use different Copyright transfer agreements
     
 #### Re-use before official publication by publisher
 Generally permitted, some journals have deviating rules → check policy for each journal (cf. [Author Compliance Tool](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/author-compliance-tool.html)
@@ -1293,7 +1294,8 @@ Generally permitted, some journals have deviating rules → check policy for eac
 * [FAQ licensing and copyright](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/licensing-info-faqs.html)
 * [Ethics Guidelines](https://authorservices.wiley.com/ethics-guidelines/index.html)
 * [Self-Archiving](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/self-archiving.html)
-* Cf. section 3.b in [ Copyright Transfer Agreement (CTA) ](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) resp. [Exclusive License Agreement (ELA](https://authorservices.wiley.com/asset/Exclusive-License-Agreement-Sample.pdf) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
+* Wiley: Cf. section 3.b in [Copyright Transfer Agreement (CTA) ](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) resp. [Exclusive License Agreement (ELA](https://authorservices.wiley.com/asset/Exclusive-License-Agreement-Sample.pdf) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
+* Wiley-VCH: [Copyright Transfer Agreement](https://authorservices.wiley.com/asset/Copyright-Transfer-Agreement-Sample.pdf) 
     
 </details>
 
@@ -1305,7 +1307,7 @@ Last checked: 12.06.2025
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint :white_check_mark: 
+* Preprint: yes :white_check_mark: 
 * Accepted manuscript: yes :warning:  12 months embargo, include statement
     
 #### Re-use before official publication by publisher
