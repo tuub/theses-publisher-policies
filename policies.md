@@ -1225,13 +1225,13 @@ n.a.
 ### Vandenhoeck \& Ruprecht (incl. Böhlau, V\&R unipress)
 
 <details>
-Last checked: 12.06.2025
+Last checked: 19.03.2026
 
 #### Re-use permitted for...
 
 * Article, Book chapter
-* Accepted manuscript: yes, unless otherwise agreed, i.e. if no copyright transfer agreement or other written agreement was used :warning: 12 months embargo
-* Published version: yes, unless otherwise agreed, i.e. if no copyright transfer agreement or other written agreement was used :warning: 12 months embargo
+* Preprint :white_check_mark:
+* Accepted manuscript :white_check_mark:
  
 #### Re-use before official publication by publisher
 Policy unknown → please contact the managing editor
@@ -1240,7 +1240,8 @@ Policy unknown → please contact the managing editor
 n.a.
 
 #### Source
-* [Abdruckrechte (cf. "Hinweis für Autoren..." at the bottom)](https://www.vandenhoeck-ruprecht-verlage.com/service/rechte-und-lizenzen/) (in German only)
+* [Rechte und Lizenzen (cf. "Hinweis für Autor*innen..." at the bottom)](https://www.vandenhoeck-ruprecht-verlage.com/service/rechte-und-lizenzen/) (in German only) → links to Brill [Sharing your Work / Self-Archiving](https://brill.com/page/resources_selfarchiving/sharing-your-work-selfarchiving)
+* [v&r Self Archiving Policy](https://www.vr-elibrary.de/self-archiving)
 
 </details>
 
