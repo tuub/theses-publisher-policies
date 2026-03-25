@@ -41,13 +41,15 @@ No rights reserved, this work is distributed under [Creative Commons Public Doma
 See [License](/LICENSE) for more information. 
 
 ## Acknowledgement
-[SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) was of great help: [SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) provides general information on publisher (and journal) policies regarding self-archiving.
+The [Open policy finder](https://openpolicyfinder.jisc.ac.uk/) (formerly SHERPA/RoMEO) was of great help: [Open policy finder](https://openpolicyfinder.jisc.ac.uk/) provides general information on publisher (and journal) policies regarding open access self-archiving.
 
-Details on re-use of book chapters were partly assembled from [this list](https://docs.google.com/spreadsheets/d/1i44kKzsFS412ugDTt0maanAUqy8LV5Rjj820dVkK9vs/edit#gid=1003624866) ([linked from here](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
+Details on re-use of book chapters were partly assembled from a list (now offline) by colleagues from UK ([initially linked here](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/), and incorporated after review.
 
-Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) was consulted and highly appreciated.
+Previous work by [CalTech](http://libguides.caltech.edu/publisherpolicies) (now offline) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) was consulted and highly appreciated.
 
-Cornelia Lang ([University Library of Regensburg](http://www.uni-regensburg.de/library)) and [Philipp Zumstein](https://github.com/zuphilip) ([UB Mannheim](https://www.bib.uni-mannheim.de/)) contributed to this list. Further policies were added after cross-checking the list provided by ETH Zurich ([in German](https://documentation.library.ethz.ch/display/RC/Kumulative+Dissertationen) or [in English](https://documentation.library.ethz.ch/display/RC/Cumulative+doctoral+theses)).
+Cornelia Lang ([University Library of Regensburg](http://www.uni-regensburg.de/library)) and [Philipp Zumstein](https://github.com/zuphilip) ([UB Mannheim](https://www.bib.uni-mannheim.de/)) contributed to this list. 
+
+Further policies were added after cross-checking a similiar list provided by ETH Zurich. From 2026, ETH Zurich and TU Berlin will maintain entries on a split-task basis.
 </details>
 
 <details open>
@@ -72,7 +74,7 @@ Informationen zu den Verlagspolicies werden in [Englisch](/policies.md) bereitge
 ## Mitmachen
 Sie wollen zu diesem Projekt beitragen? Super! Sie können 
 * über GitHub direkt Änderungen einreichen (pull request) oder sog. [Issue](/issues) anlegen,
-* uns per E-Mail kontaktieren (openaccess at ub.tu-berlin.de), um Aktualisierungen oder einen neuen Verlag vorzuschlagen und Fehler zu melden.
+* uns per E-Mail kontaktieren (openaccess at ub.tu-berlin.de), um Aktualisierungen oder einen neuen Verlag vorzuschlagen oder Fehler zu melden.
 
 Bitte beachten Sie, dass dieses Projekt zu den Bedingungen von [CC0](http://creativecommons.org/publicdomain/zero/1.0/) verbreitet wird. Indem Sie mitmachen, stimmen Sie [CC0](http://creativecommons.org/publicdomain/zero/1.0/) auch für eigene Beiträge zu.
 
@@ -91,11 +93,13 @@ Sie dürfen das Werk kopieren, verändern, verbreiten und aufführen, sogar zu k
 Für mehr Informationen siehe [License](/LICENSE).
 
 ## Danksagung
-[SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) war eine wichtige Ressource: [SHERPA/RoMEO](https://v2.sherpa.ac.uk/romeo/) stellt allgemeine Informationen zu Policies von Verlagen (und Zeitschriften) bzgl. Zweitveröffentlichungen zur Verfügung.
+Der [Open policy finder](https://openpolicyfinder.jisc.ac.uk/) (ehemals SHERPA/RoMEO) war eine wichtige Ressource: [Open policy finder](https://openpolicyfinder.jisc.ac.uk/) stellt allgemeine Informationen zu Policies von Verlagen (und Zeitschriften) bzgl. Open-Access-Zweitveröffentlichungen zur Verfügung.
 
-Hinweise für die Nachnutzung von Buchkapiteln wurden z.T. [dieser Übersicht](https://docs.google.com/spreadsheets/d/1i44kKzsFS412ugDTt0maanAUqy8LV5Rjj820dVkK9vs/edit#gid=1003624866) ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)) entnommen.
+Hinweise für die Nachnutzung von Buchkapiteln wurden einer Übersicht (inzwischen nicht mehr online) von Kolleg*innen aus UK entnommen und nach erneuter Prüfung ergänzt ([hier verlinkt](http://ukcorr.org/2015/05/01/list-of-publishers-likely-to-permit-self-archiving-of-book-chapters-in-institutional-repositories/)).
 
-Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) wurden in Vorbereitung konsultiert.
+Wertvolle Zusammenstellungen zum Thema von [CalTech](http://libguides.caltech.edu/publisherpolicies) (nicht mehr online) and [MIT](https://libraries.mit.edu/scholarly/publishing/theses-copyright/theses-and-article-publishing/) wurden in Vorbereitung konsultiert.
 
-Cornelia Lang ([Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/)) und [Philipp Zumstein](https://github.com/zuphilip) ([UB Mannheim](https://www.bib.uni-mannheim.de/)) haben zu dieser Liste beigetragen. Weitere Verlagspolicies wurden nach Ableich der Liste der ETH Zürich ([auf Deutsch](https://documentation.library.ethz.ch/display/RC/Kumulative+Dissertationen) bzw. [auf Englisch](https://documentation.library.ethz.ch/display/RC/Cumulative+doctoral+theses)) ergänzt
+Cornelia Lang ([Universitätsbibliothek Regensburg](http://www.uni-regensburg.de/bibliothek/)) und [Philipp Zumstein](https://github.com/zuphilip) ([UB Mannheim](https://www.bib.uni-mannheim.de/)) haben zu dieser Liste beigetragen. 
+
+Weitere Verlagspolicies wurden nach Ableich einer ähnlichen Liste der ETH Zürich ergänzt. Ab 2026 pflegen die ETH Zürich und TU Berlin die Einträge arbeitsteilig.
 </details>
