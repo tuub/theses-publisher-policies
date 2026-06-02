@@ -1095,24 +1095,24 @@ Include fixed statement – either standard or non-standard [acknowledgement](ht
 ### SAGE Publications
 
 <details>
-Last checked: 10.06.2025
+Last checked: 02.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: yes :white_check_mark: (:warning: (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
+* Preprint: yes :white_check_mark: (:warning: (cf. [journal exceptions](https://www.sagepub.com/journals/permissions/sages-author-archiving-and-re-use-guidelines))
 * Accepted manuscript: yes :white_check_mark: 
 * Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
-* Generally permitted – except for some journals (cf. [journal exceptions](https://uk.sagepub.com/en-gb/eur/journal-author-archiving-policies-and-re-use))
-* Follow directions for [Prior Publication](https://us.sagepub.com/en-us/nam/prior-publication)
+* Generally permitted – except for some journals (cf. [journal exceptions](https://www.sagepub.com/journals/permissions/sages-author-archiving-and-re-use-guidelines))
+* Follow directions for [Prior Publication](https://www.sagepub.com/journals/publication-ethics-policies/prior-publication)
 
 #### Special requirements
-* Accepted, unpublished articles: include a statement that your Contribution has been accepted for publication in the journal 
-* Published articles: DOI and fixed statement must be included: "Author(s), Contribution Title, Journal Title (Journal Volume Number and Issue Number) pp. xx-xx. Copyright © [year] (Copyright Holder). DOI: [DOI number]."
+* Accepted, unpublished articles: include a statement that your contribution has been accepted for publication in the journal 
+* Published articles: DOI and full citation must be included -- in a format similar to the following: "Author(s), Contribution Title, Journal Title (Journal Volume Number and Issue Number) pp. xx-xx. Copyright © [year] (Copyright Holder). DOI: [DOI number]."
 
 #### Source
-* [Journal Author Archiving Policies and Re-Use](https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use) 
+* [Journal Author Archiving Policies and Re-Use](https://www.sagepub.com/journals/permissions/sages-author-archiving-and-re-use-guidelines) 
 
 </details>
 
@@ -1120,7 +1120,7 @@ Last checked: 10.06.2025
 ### Society for Industrial and Applied Mathematics (SIAM)
 
 <details>
-Last checked: 01.07.2025
+Last checked: 02.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1134,9 +1134,12 @@ Permitted
 #### Special requirements
 * Include fixed statement "First Published in [Publication] in [volume and number, or year], published by the Society for Industrial and Applied Mathematics (SIAM)"
 * Include copyright notice as stated in article (e.g., "Copyright © by SIAM. Unauthorized reproduction of this article is prohibited.")
+* Accepted manuscript *may* be published under a Creative Commons license (CC BY)
 
 #### Source
-* Check "Consent to Publish" (form not available online, publisher provided form via email in September 2024 and confirm reuse options for dissertations)
+* [Consent to Publish](https://epubs.siam.org/pb-assets/files/Consent_to_Publish_Journals.pdf)
+* [Information for Journal Authors](https://epubs.siam.org/journal-authors#openaccess)
+* Publisher confirmed reuse options for dissertations in September 2024
     
 </details>
 
@@ -1144,7 +1147,7 @@ Permitted
 ### Society of Exploration Geophysicists (SEG)
 
 <details>
-Last checked: 01.07.2025
+Last checked: 02.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1160,7 +1163,7 @@ n.a.
 
 #### Source
 * [SEG Policy on Open-access Publishing](https://library.seg.org/page/policies/open-access)
-* [SEG Policies and Procedures Manual (01 May 2025)](https://seg.org/wp-content/uploads/2025/05/SEG-Policies-and-Procedures-Manual_2024.05.01.pdf)
+* [SEG Policies and Procedures Manual (20 November 2025)](https://seg.org/wp-content/uploads/2025/11/SEG-Policies-and-Procedures-Manual_2025.11.20.pdf)
     
 </details>
 
@@ -1181,7 +1184,7 @@ Permitted
 
 #### Special requirements
 * Include fixed statement: "Copyright XXXX (year) Society of Photo‑Optical Instrumentation Engineers (SPIE). One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this publication for a fee or for commercial purposes, and modification of the contents of the publication are prohibited." 
-* Follow citation guideline, cf. "Attribution Format" in [Sharing Policy](https://www.spiedigitallibrary.org/article-sharing-policies?SSO=1)
+* Follow citation guideline, cf. "Attribution Format" in [Sharing Policy](https://www.spiedigitallibrary.org/article-sharing-policies#Attribution-Format)
 
 #### Source
 * [SPIE Article Sharing Policies](https://www.spiedigitallibrary.org/article-sharing-policies)
@@ -1192,29 +1195,28 @@ Permitted
 ### Springer
 
 <details>
-Last checked: 10.06.2025 <br /> 
+Last checked: 02.06.2026 <br /> 
    <br />
     
-:information_source: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
+:information_source: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints: e.g. BioMed Central, Palgrave Macmillan). Journal policies are not  fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Nature](#nature-publishing-group-npg)).
 
 #### Re-use permitted for...
 * Article, Book chapter (in Edited volumes or Proceedings)
 * Accepted manuscript: yes :warning: 12 months embargo
-* Published version: yes :white_check_mark:
+* Published version: yes :white_check_mark: include statement
     
 #### Re-use before official publication by publisher
-* In general: Inclusion of unpublished articles in thesis not permitted. → Recommendation: preprint on preprint server, link to preprint in thesis
+* In general: inclusion of unpublished articles in thesis not permitted. → Recommendation: preprint on preprint server, link to preprint in thesis
 * Check your Copyright Transfer Statement (CTS) or Licence to Publish (LTP) with Springer (exceptions might exist) and/or contact the publisher when in doubt (journals: journalpermissions@springernature.com, books: bookpermissions@springernature.com)
 
 #### Special requirements
 * Wait for official publication by Springer (thesis may not be freely available before article is published online)    
-* Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards. *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]’*
+* Published version → Include fixed statement: Authors must properly cite the published article in their thesis according to current citation standards and include the following acknowledgement: 'Reproduced with permission from Springer Nature'.
 * Accepted version → Include fixed statement: "This version of the article has been accepted for publication, after peer review (when applicable) and is subject to Springer Nature’s [AM terms of use](https://www.springernature.com/gp/open-research/policies/accepted-manuscript-terms), but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections. The Version of Record is available online at: http://dx.doi.org/[insert DOI]"
 
 #### Source
-* [Permissions to reuse](https://www.springer.com/gp/rights-permissions/obtaining-permissions/882)
-* [Open Access policies for journals → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/journal-policies)
-* [Open Access policies for books and chapters → Self-archiving ...](https://www.springernature.com/gp/open-research/policies/book-policies)
+* [Author FAQs](https://www.springernature.com/gp/partners/rights-permissions-third-party-distribution/author-faqs/27836660)
+* Authors might use Copyright Clearance Center’s RightsLink for [permission requests](https://www.springernature.com/gp/partners/rights-permissions-third-party-distribution)
        
 </details>
 
@@ -1222,21 +1224,21 @@ Last checked: 10.06.2025 <br />
 ### Taylor \& Francis
 
 <details>
-Last checked: 01.07.2025
+Last checked: 02.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder (Entry "Embargo period (repository or network)"](https://authorservices.taylorandfrancis.com/choose-open/publishing-open-access/open-access-cost-finder/), include statement)
+* Preprint: yes :white_check_mark: include statement
+* Accepted manuscript: yes :warning: but only after official publication by publisher, embargo applies (journals have varying embargoes → check per journal, cf. [Open Access cost finder](https://authorservices.taylorandfrancis.com/choose-open/publishing-open-access/open-access-cost-finder/) ((Entry "Embargo period (repository or network)"), include statement)
     
 #### Re-use before official publication by publisher
 Permitted for preprint
 
 #### Special requirements
-* Unpublished articles: preprint may be used only → recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Taylor \& Francis in [JOURNAL TITLE]")
+* Unpublished articles: only preprint may be used → recommended to include note on journal and submission date (e.g. "This is the original manuscript of an article submitted to Taylor \& Francis in [JOURNAL TITLE]")
 * Published articles – Preprint used in thesis → include fixed statement "This is an original manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: `https://doi.org/[Article DOI]`."
 * Published articles – Accepted manuscript used in thesis → include fixed statement "This is an Accepted Manuscript of an article published by Taylor & Francis in [JOURNAL TITLE] on [date of publication], available at: `https://doi.org/[Article DOI]`."
-* Accepted Manuscript: recommended be published under a CC BY-NC or a CC BY-NC-ND license (include CC license statement)
+* Accepted Manuscript: recommended to be published under a CC BY-NC or a CC BY-NC-ND license (include CC license statement)
 
 #### Source
 * [Sharing your work](https://authorservices.taylorandfrancis.com/research-impact/sharing-versions-of-journal-articles/)
@@ -1248,7 +1250,7 @@ Permitted for preprint
 ### Thieme
 
 <details>
-Last checked: 10.06.2025
+Last checked: 02.06.2026
 
 #### Re-use permitted for...
 * Journal articles
@@ -1327,11 +1329,11 @@ Generally permitted, some journals have deviating rules → check policy for eac
 ### World Scientific
 
 <details>
-Last checked: 12.06.2025
+Last checked: 02.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
-* Preprint: yes :white_check_mark: 
+* Preprint: yes :white_check_mark: include statement
 * Accepted manuscript: yes :warning:  12 months embargo, include statement
     
 #### Re-use before official publication by publisher
