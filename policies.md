@@ -973,7 +973,7 @@ Policy unknown → please contact the responsible editor
 ### Oxford University Press (Journals)
 
 <details>
-Last checked: 28.06.2025
+Last checked: 03.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -989,8 +989,7 @@ Generally permitted, managing editor should be informed
   
 #### Source
 
-* [Licences, copyright and re-use rights (section "What rights do I retain as an Oxford author?"](https://academic.oup.com/pages/for-authors/journals/final-steps-to-publication/licenses-copyright-and-reuse-rights)
-* [Author self-archiving policy](https://academic.oup.com/pages/open-research/open-access/charges-licences-and-self-archiving/author-self-archiving-policy) 
+* [Licences, copyright and re-use rights](https://academic.oup.com/pages/for-authors/journals/final-steps-to-publication/licenses-copyright-and-reuse-rights) (> section "What rights do I retain as an Oxford author?")
 
 </details>
 
@@ -998,7 +997,7 @@ Generally permitted, managing editor should be informed
 ### Proceedings of the National Academy of Sciences of the USA (PNAS)
 
 <details>
-Last checked: 14.06.2024
+Last checked: 03.06.2026
 
 #### Re-use permitted for...
 * All or part of the article
@@ -1014,8 +1013,9 @@ Permitted
 n.a.
 
 #### Source
-* [PNAS Author Center – Fees and Licenses](https://www.pnas.org/authors/fees-and-licenses), cf. sections [License to Publish](https://www.pnas.org/authors/fees-and-licenses#license-to-publish) and [PNAS Author Rights and Permissions](https://www.pnas.org/authors/fees-and-licenses#author-rights-and-permissions/)
 * [Rights and Permissions](https://www.pnas.org/about/rights-permissions)
+* [PNAS Author Center – Fees and Licenses](https://www.pnas.org/authors/fees-and-licenses), cf. sections [Open Access Policy](https://www.pnas.org/author-center/publication-charges#licenses-pnas-articles) and [Author Rights and Permissions](https://www.pnas.org/author-center/publication-charges#author-rights-and-permissions)
+
     
 </details>
 
@@ -1023,21 +1023,22 @@ n.a.
 ### Routledge
 
 <details>
-Last checked: 28.06.2025
+Last checked: 03.06.2026
 
 #### Re-use permitted for...
 * Book chapter (max. 1 chapter per book/author)
+* Seek [permission](https://www.routledge.com/contacts/rights-and-permissions/permissions) (authors' own use usually free of charge)
 * Accepted manuscript: yes :warning: 12 months embargo for STEM, 18 months embargo for Humanities and Social Sciences
-* Seek [permission](https://www.routledge.com/contacts/rights-and-permissions/permissions) for other kind of uses (authors' own use usually free of charge)
     
 #### Re-use before official publication by publisher
 Policy unknown → please contact the responsible editor
 
 #### Special requirements
+* Seek [permission](https://www.routledge.com/contacts/rights-and-permissions/permissions) (authors' own use usually free of charge)
 * Include fixed statement: "This is an Accepted Manuscript of a book chapter published by Routledge/CRC Press in [BOOK TITLE] on [date of publication], available online: http://www.routledge.com/[BOOK ISBN URL] or "http://www.crcpress.com/[BOOK ISBN URL]”
 
 #### Source
-* [Publishing Open Access Books: Chapters](https://www.routledge.com/our-products/open-access-books/publishing-oa-books/chapters)
+* [Publishing Open Access Books: Chapters](https://authorservices.taylorandfrancis.com/frequently-asked-questions/open-access-books-faq/) (> "2. Archiving a chapter on a website or in a repository (the ‘Green’ OA model)")
 * [Request Books Permissions](https://www.routledge.com/contacts/rights-and-permissions/permissions)
     
 </details>
@@ -1046,7 +1047,7 @@ Policy unknown → please contact the responsible editor
 ### Royal Society
 
 <details>
-Last checked: 28.06.2025
+Last checked: 03.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1070,7 +1071,7 @@ Permitted but should be disclosed upon submission
 ### Royal Society of Chemistry (RSC)
 
 <details>
-Last checked: 28.06.2025
+Last checked: 03.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1082,9 +1083,9 @@ Last checked: 28.06.2025
 Permitted
 
 #### Special requirements
-Include fixed statement – either standard or non-standard [acknowledgement](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements):
+Include fixed statement – either standard or non-standard acknowledgement:
 * Standard acknowledgement: "Reproduced from Ref. XX with permission from the Royal Society of Chemistry."
-* Non-standard acknowledgement for some journals: [cf. detailed instructions by RSC](https://www.rsc.org/journals-books-databases/journal-authors-reviewers/licences-copyright-permissions/#acknowledgements)
+* Non-standard acknowledgement for some journals: [cf. detailed instructions](https://www.rsc.org/publishing/journals/processes-and-policies/licences-copyright-and-permissions#acknowledgements)
 
 #### Source
 * [Licences, copyright \& permissions](https://www.rsc.org/publishing/journals/processes-and-policies/licences-copyright-and-permissions)  
@@ -1308,7 +1309,7 @@ Last checked: 19.03.2026
 * :information_source: Wiley and Wiley-VCH use different Copyright transfer agreements
     
 #### Re-use before official publication by publisher
-Generally permitted, some journals have deviating rules → check policy for each journal (cf. [Author Compliance Tool](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/author-compliance-tool.html)
+Generally permitted, some journals have deviating rules → check policy for each journal (cf. [Author Compliance Tool](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/author-compliance-tool.html))
 
 #### Special requirements
 
