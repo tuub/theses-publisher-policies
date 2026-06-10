@@ -845,7 +845,7 @@ Permitted
 ### IWA Publishing
 
 <details>
-Last checked: 26.06.2025
+Last checked: 10.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -856,8 +856,7 @@ Last checked: 26.06.2025
 Generally permitted, publisher should be contacted in advance
 
 #### Special requirements
-* Unpublished articles: note on publisher and journal has to be included, recommended to include date of submission
-* Published articles: reference published material, preferably with fixed statement "©IWA Publishing [year of publication]. The definitive peer-reviewed and edited version of this article is published in [name of journal] [volume] [issue] [pages] [year] [DOI] and is available at [www.iwapublishing.com](https://www.iwapublishing.com)."
+* Include fixed statement: "©IWA Publishing [year of publication]. The definitive peer-reviewed and edited version of this article is published in [name of journal] [volume] [issue] [pages] [year] [DOI] and is available at https://www.iwapublishing.com."
 
 #### Source
 * [Rights and Permissions](https://iwaponline.com/pages/Rights_and_Permissions)
@@ -869,7 +868,7 @@ Generally permitted, publisher should be contacted in advance
 ### John Benjamins
 
 <details>
-Last checked: 16.09.2025 <br /> 
+Last checked: 10.06.2026 <br /> 
    <br />
     
 #### Re-use permitted for...
@@ -895,7 +894,7 @@ Policy unknown
 ### Nature Publishing Group (NPG)
 
 <details>
-Last checked: 26.06.2025 <br /> 
+Last checked: 10.06.2026 <br /> 
    <br />
     
 :information_source: Please note: Since the merger in 2015, Springer and Nature are part of the **Springer Nature Group** (further imprints e.g. BioMed Central, Palgrave Macmillan). Journal policies are not yet fully aligned, which results in different restrictions/requirements for authors' re-use rights. Please check whether your article was published in a Springer OR Nature branded journal (see [entry for Springer](#springer)).
@@ -913,7 +912,7 @@ Permitted
 * Authors must properly cite the published article in their thesis according to current citation standards: *Material from: 'AUTHOR, TITLE, JOURNAL TITLE, published [YEAR], [publisher - as it appears on our copyright page]'*
 
 #### Source
-* [Permissions requests](https://www.nature.com/nature-portfolio/reprints-and-permissions/permissions-requests)
+* [Permissions requests](https://www.nature.com/nature-portfolio/reprints-and-permissions/permissions-requests) (cf. section "Author reuse")
 * [Self archiving and license to publish](https://www.nature.com/nature-portfolio/editorial-policies/self-archiving-and-license-to-publish) 
 * [Nature journals' policy on duplicate publication](https://www.nature.com/nature-portfolio/editorial-policies/plagiarism)
 
@@ -924,7 +923,7 @@ Permitted
 
 <details>
     
-Last checked: 10.06.2025
+Last checked: 10.06.2026
 
 #### Re-use permitted for...
 * Article
@@ -932,17 +931,17 @@ Last checked: 10.06.2025
 * For articles labeled as "Open Access": Published version may be used, include statement
     
 #### Re-use before official publication by publisher
-Policy unknown → please contact the responsible editor
+Permitted but should be disclosed upon submission (include link and indicate possible revisions)
 
 #### Special requirements
 Include fixed statement
 * Non-open-access articles, published under the [Copyright Transfer Agreement (PDF)](https://opg.optica.org/resources/author/CopyrightTransferForm-2022-06-21.pdf): "© XXXX [year] Optica Publishing Group. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
-* For articles labeled as *Open Access*, published under the "[Open Access Publishing Agreement (PDF)](https://opg.optica.org/resources/author/CopyrightTransferOpenAccessAgreement-2022-06-27.pdf)": "© XXXX [year] Optica Publishing Group under the terms of the Open Access Publishing Agreement. Users may use, reuse, and build upon the article, or use the article for text or data mining, so long as such uses are for noncommercial purposes and appropriate attribution is maintained. All other rights are reserved."
+* For articles labeled as *Open Access*, published under the "[Open Access Publishing Agreement (PDF)](https://opg.optica.org/resources/author/CopyrightTransferOpenAccessAgreement-2022-06-27.pdf)": "© XXXX [year] Optica Publishing Group. Users may use, reuse, and build upon the article, or use the article for text or data mining, so long as such uses are for non-commercial purposes and appropriate attribution is maintained. All other rights are reserved."
 * For articles labeled as *Open Access*, published under the OSA Copyright Transfer Agreement (prior to September 2017): "© XXXX [year] Optical Society of America. One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this paper for a fee or for commercial purposes, or modifications of the content of this paper are prohibited."
 
 
 #### Source
-* [Copyright Transfer and Licensing Information](https://www.osapublishing.org/submit/review/copyright_permissions.cfm)
+* [Copyright Transfer and Licensing Information](https://opg.optica.org/content/author/portal/item/review-copyright-permissions/)
 * [OSA Copyright Transfer Agreement](https://opg.optica.org/resources/author/CopyrightTransferForm-2022-06-21.pdf) (PDF)
 * [OSA Copyright Transfer and Open Access Publishing Agreement](https://opg.optica.org/resources/author/CopyrightTransferOpenAccessAgreement-2022-06-27.pdf) (PDF)
     
@@ -952,10 +951,10 @@ Include fixed statement
 ### Oxford University Press (Books)
 
 <details>
-Last checked: 28.06.2025
+Last checked: 10.06.2026
 
 #### Re-use permitted for...
-* Book chapter (in academic/research book in SSH or MINT; :warning: max. 1 chapter per book/anthology; :warning: policy does not apply to reference content, Trade series)
+* Book chapter (in academic/research book in SSH or MINT; :warning: max. 1 chapter per book/anthology; :warning: policy does not apply to Reference content and Trade series)
 * Accepted manuscript: yes :warning: 12 months embargo
     
 #### Re-use before official publication by publisher
@@ -1172,7 +1171,7 @@ n.a.
 ### Society of Photo‑Optical Instrumentation Engineers (SPIE)
 
 <details>
-Last checked: 01.07.2025
+Last checked: 08.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -1184,7 +1183,7 @@ Last checked: 01.07.2025
 Permitted
 
 #### Special requirements
-* Include fixed statement: "Copyright XXXX (year) Society of Photo‑Optical Instrumentation Engineers (SPIE). One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this publication for a fee or for commercial purposes, and modification of the contents of the publication are prohibited." 
+* Include fixed statement: "Copyright XXXX (year) Society of Photo-Optical Instrumentation Engineers (SPIE). One print or electronic copy may be made for personal use only. Systematic reproduction and distribution, duplication of any material in this publication for a fee or for commercial purposes, and modification of the contents of the publication are prohibited." 
 * Follow citation guideline, cf. "Attribution Format" in [Sharing Policy](https://www.spiedigitallibrary.org/article-sharing-policies#Attribution-Format)
 
 #### Source
