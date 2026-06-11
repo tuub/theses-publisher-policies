@@ -743,8 +743,8 @@ Permitted
 #### Source
 * [Publishing Agreement](http://www.iaee.org/en/publications/openaccess/agreement.aspx) 
 * [Green Open Access](http://www.iaee.org/en/publications/openaccess/green.aspx) (notes that embargo does not apply to reuse in thesis)
-* [EEEP Publishing Agreement](http://www.iaee.org/documents/EEEP_IAEE_Publishing_Agreement.pdf) (PDF) (:warning: sample agreement! terms may differ – check the agreement that you actually signed)
-* [EJ Publishing Agreement](https://www.iaee.org/documents/EJ_IAEE_Publishing_Agreement.pdf) (PDF) (:warning: sample agreement! terms may differ – check the agreement that you actually signed)
+* [EEEP Publishing Agreement](http://www.iaee.org/documents/EEEP_IAEE_Publishing_Agreement.pdf) (PDF) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
+* [EJ Publishing Agreement](https://d3mlcsf379pjap.cloudfront.net//mp/IAEE-License.pdf) (PDF) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
     
 </details>
 
@@ -752,7 +752,7 @@ Permitted
 ### Institute of Electrical and Electronics Engineers (IEEE)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 11.06.2026
 
 #### Re-use permitted for...
 * All or part of the article
@@ -763,10 +763,10 @@ Last checked: 10.06.2025
 Permitted for Accepted manuscript
 
 #### Special requirements
-* Include fixed statement: "© [year of original publication] IEEE. Reprinted, with permission, from [author names, paper title, IEEE publication title, and month/year of publication]"
+* Include fixed statement: "© 20xx IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works."
 
 #### Source
-* [Frequently Asked Questions Regarding IEEE Permissions](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/permissions_faq.pdf) (PDF) 
+* [Author Posting of IEEE Copyrighted Papers Online](https://www.ieee.org/publications/rights/author-posting-policy)
 * [PSPB Operations Manual: 8.1.9 Electronic Information Dissemination](https://www.ieee.org/publications/rights/rights-policies.html)
     
 </details>
@@ -775,7 +775,7 @@ Permitted for Accepted manuscript
 ### IGI Global
 
 <details>
-Last checked: 26.06.2025
+Last checked: 11.06.2026
 
 #### Re-use permitted for...
 * Article or Chapter
@@ -796,12 +796,12 @@ n.a.
 ### Inderscience
 
 <details>
-Last checked: 26.06.2025
+Last checked: 11.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: but only after 12 months embargo
+* Accepted manuscript: yes :warning: 12 months embargo
 * Published version: yes :white_check_mark:
     
 #### Re-use before official publication by publisher
@@ -820,19 +820,20 @@ n.a.
 ### IOP (Institute of Physics)
 
 <details>
-Last checked: 26.06.2025
+Last checked: 11.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: but only after 12 months embargo
+* Accepted manuscript: yes :warning: 12 months embargo
     
 #### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
-* Unpublished article – Preprint included in thesis → include fixed statement "This is the version of the article before peer review or editing, as submitted by an author to [INSERT NAME OF JOURNAL].  IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it.  The Version of Record is available online at [INSERT DOI]"
-* Published article – Accepted manuscript included in thesis → include fixed statement "This is the Accepted Manuscript version of an article accepted for publication in [NAME OF JOURNAL]. IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it. The Version of Record is available online at [insert DOI].""
+Include fixed statement
+* Unpublished article – Preprint included in thesis → "This is the version of the article before peer review or editing, as submitted by an author to [INSERT NAME OF JOURNAL].  IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it.  The Version of Record is available online at [INSERT DOI]"
+* Published article – Accepted manuscript included in thesis → "This is the Accepted Manuscript version of an article accepted for publication in [NAME OF JOURNAL].  IOP Publishing Ltd is not responsible for any errors or omissions in this version of the manuscript or any version derived from it.  The Version of Record is available online at [insert DOI]."
 
 #### Source
 * [Author Rights Policy (subscription articles)](https://publishingsupport.iopscience.iop.org/current-policy-author-rights-policy-for-subscription-articles-for-which-the-copyright-form-was-submitted-on-or-after-26-april-2016/)
