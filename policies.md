@@ -726,7 +726,7 @@ Permitted
 ### International Association for Energy Economics (IAEE)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 18.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -738,13 +738,12 @@ Last checked: 10.06.2025
 Permitted
 
 #### Special requirements
-* Include fixed statement: "This article first appeared in (journal name), Vol. XX, No. X, pages XXX-XXX, year, DOI: http://dx.doi.org/10.5547/(insert remainder of DOI here) - Reproduced by permission of the International Association for Energy Economics (IAEE)."
+* Include fixed statement: "This article first appeared in [The Energy Journal or Economics of Energy & Environmental Policy], Vol. XX, No. X, pages XXX-XXX, year, DOI: http://dx.doi.org/10.5547/(insert remainder of DOI here) - Reproduced by permission of the International Association for Energy Economics (IAEE)"
 
 #### Source
-* [Publishing Agreement](http://www.iaee.org/en/publications/openaccess/agreement.aspx) 
-* [Green Open Access](http://www.iaee.org/en/publications/openaccess/green.aspx) (notes that embargo does not apply to reuse in thesis)
-* [EEEP Publishing Agreement](http://www.iaee.org/documents/EEEP_IAEE_Publishing_Agreement.pdf) (PDF) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
-* [EJ Publishing Agreement](https://d3mlcsf379pjap.cloudfront.net//mp/IAEE-License.pdf) (PDF) ( :warning: sample agreement! terms may differ – check the agreement that you actually signed)
+* [Green Open Access](https://iaee.org/publications/eeep/eeep-green-open-access) (notes that embargo does not apply to reuse in thesis)
+* [EEEP - Rights Retained by IAEE Authors](https://iaee.org/publications/eeep/eeep-rights-retained-iaee-authors) (Acknowledgement statement)
+* [Publishing Agreement](https://iaee.org/publications/eeep/eeep-permission-agreement)
     
 </details>
 
