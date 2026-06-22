@@ -194,12 +194,12 @@ Permitted
 
 <details>
 
-Last checked: 03.06.2025
+Last checked: 22.06.2026
 
 #### Re-use permitted for...
 * Article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark:
+* Accepted manuscript: yes ⚠️ but may not be made publicly available before official publication (date version of record)
 
 #### Re-use before official publication by publisher
 * Permitted but should be disclosed upon submission (include link and indicate possible revisions)
@@ -239,7 +239,7 @@ n.a.
 ### American Physiological Society (APS) 
 
 <details>
-Last checked: 17.12.2025
+Last checked: 22.06.2026
 
 #### Re-use permitted for...
 * Article
@@ -252,12 +252,13 @@ Last checked: 17.12.2025
 * "Once a work has been submitted to an APS journal, no version of it may be posted to preprint servers while it is under consideration by the journal, including during revision, resubmission, (...)"
 
 #### Special requirements
-n.a.
+Include fixed statement for accepted manuscripts of articles published with APS copyright: “This is the author's version of their accepted manuscript. It is posted here with permission of the American Physiological Society and is not for redistribution. The version of record (VoR) was published in [APS Journal Title] on [date]; doi: [doi of VoR as a URL]”
 
 
 #### Source
 * [Permissions](https://journals.physiology.org/permissions)
 * [Preprint Policy](https://journals.physiology.org/editorial-policies#preprints)
+* [Open Access](https://journals.physiology.org/open-access)
 
 </details>
 
@@ -308,7 +309,7 @@ n.a.
 ### American Society for Microbiology (ASM)
 
 <details>
-Last checked: 16.06.2025
+Last checked: 22.06.2026
 
 #### Re-use permitted for...
 * Article
@@ -670,7 +671,7 @@ Permitted
 ### Hanser
 
 <details>
-Last checked: 25.06.2025
+Last checked: 22.06.2026
 
 #### Re-use permitted for...
 Author must obtain publisher's permission (contact info@hanser.de)
@@ -689,25 +690,26 @@ n.a.
 ### Hogrefe
 
 <details>
-Last checked: 25.06.2025
+Last checked: 22.06.2026
 
 #### Re-use permitted for...
 * Article
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
-* Published version:  :warning: may only be used with the express written permission of the publisher
-* Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
+* Published version: :warning: may only be used with the express written permission of the publisher
+* Parts of the article  may only be used under copyright exemption rules (right of quotation) or with the express written permission of the publisher
 
     
 #### Re-use before official publication by publisher
 Permitted
 
 #### Special requirements
-* Submitted, unpublished articles -- preprint included in thesis → include note on date and status of submission/review
-* Accepted or published articles -- accepted manuscript included in thesis → include fixed statement "This version of the article may not completely replicate the final authoritative version published in [journal title] at [DOI]. It is not the version of record and is therefore not suitable for citation."
+* Submitted, unpublished articles – preprint included in thesis → include note on date and status of submission/review
+* Accepted or published articles – accepted manuscript included in thesis → include fixed statement "This version of the article may not completely replicate the final authoritative version published in [journal title] at [DOI]. It is not the version of record and is therefore not suitable for citation."
 
 #### Source
-[Usage guidelines for journal articles](https://www.hogrefe.com/us/resources/publishing-with-hogrefe/for-journals/usage-guidelines-for-journal-articles)
+* [Usage guidelines for journal articles (in English](https://www.hogrefe.com/us/resources/publishing-with-hogrefe/for-journals/usage-guidelines-for-journal-articles)
+* [Nutzungsrichtlinien für Zeitschriftenartikel (in German)](https://www.hogrefe.com/de/service/fuer-autoren/zeitschriftenautoren/nutzungsrichtlinien)
     
 </details>
 
