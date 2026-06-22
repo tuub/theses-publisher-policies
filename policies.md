@@ -92,130 +92,6 @@ Permitted for preprint
     
 </details>
 
-### American Medical Association | JAMA Network
-
-<details>
-
-Last checked: 03.06.2025
-
-#### Re-use permitted for...
-* Article
-* Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark:
-
-#### Re-use before official publication by publisher
-* Permitted but should be disclosed upon submission (include link and indicate possible revisions)
-* All related previously published articles should be cited as references and described in the submitted manuscript 
-    
-#### Special requirements
-* Include link to the final published version on the journal website
-
-#### Source
-* See "Instructions for Authors" per journal, e.g. [JAMA 'Instructions for Authors'](https://jamanetwork.com/journals/jama/pages/instructions-for-authors)
-* [Public Access and Open Access Policy](https://jamanetwork.com/pages/access-at-jama-network)
-    
-</details>
-
-### American Physiological Society (APS) 
-
-<details>
-Last checked: 17.12.2025
-
-#### Re-use permitted for...
-* Article
-* Preprint :warning:
-* Accepted manuscript: yes :white_check_mark:
-* Published version: yes :white_check_mark:
-    
-#### Re-use before official publication by publisher
-* Before submission: permitted but should be disclosed upon submission
-* "Once a work has been submitted to an APS journal, no version of it may be posted to preprint servers while it is under consideration by the journal, including during revision, resubmission, (...)"
-
-#### Special requirements
-n.a.
-
-
-#### Source
-* [Permissions](https://journals.physiology.org/permissions)
-* [Preprint Policy](https://journals.physiology.org/editorial-policies#preprints)
-
-    
-</details>
-
-### American Society for Microbiology (ASM)
-
-<details>
-Last checked: 16.06.2025
-
-#### Re-use permitted for...
-* Article
-* Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark:
-* Published version: yes :white_check_mark:
-    
-#### Re-use before official publication by publisher
-Permitted but should be disclosed upon submission
-
-#### Special requirements
-* Include copyright notice on initial page of the article
-* Accepted Manuscript *may* be published under a CC BY license
-
-#### Source
-* [Author Self-Archiving & Permissions](https://journals.asm.org/author-self-archiving-permissions)
-* [Duplicate Publications](https://journals.asm.org/duplicate-publications)
-* [Preprint Policy](https://journals.asm.org/preprint-policy)
-* [ASM Copyright and Crown Copyright Agreements](https://journals.asm.org/asm-copyright-and-crown-copyright-agreements)
-
-    
-</details>
-
-
-### American Society of Civil Engineers (ASCE)
-
-<details>
-Last checked: 10.06.2025
-
-#### Re-use permitted for...
-* All or part of the journal article
-* Preprint: yes :warning: but re-use should be disclosed upon submission
-* Accepted manuscript: yes :white_check_mark:
-    
-#### Re-use before official publication by publisher
-Permitted but must be disclosed upon submission
-
-#### Special requirements
-n.a.
-
-#### Source
-* [ASCE Publication Policies](https://ascelibrary.org/author-center/journal#asce-publishing-policies)
-
-</details>
-
-
-### Association for Computing Machinery (ACM)
-
-<details>
-Last checked: 16.06.2025
-  
-#### Re-use permitted for...
-* All or part of the article
-* Journal article, Book chapter
-* Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark:
-
-#### Re-use before official publication by publisher
-Permitted
-
-#### Special requirements
-* Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in {Source Publication}, http://dx.doi.org/10.1145/{number}."
-    
-#### Source
-* [Publication Rights & Licensing Policy (secion "Self-Archiving and Posting Rights")](https://www.acm.org/publications/policies/publication-rights-and-licensing-policy)
-
-
-</details>
-
-
 ### American Chemical Society (ACS)
 
 <details>
@@ -240,7 +116,6 @@ Permitted
 * [Use of Materials from ACS Journals (other than ACS AuthorChoice Open Access content)](https://pubs.acs.org/page/copyright/permissions_journals.html)
     
 </details>
-
 
 ### American Geophysical Union (AGU)
 
@@ -267,7 +142,6 @@ Permitted
     
 </details>
 
-
 ### American Institute of Physics (AIP)
 
 <details>
@@ -290,7 +164,6 @@ Permitted
 * [Sharing Content Online (Web Posting Guidelines)](https://publishing.aip.org/resources/researchers/rights-and-permissions/sharing-content-online/)
     
 </details>
-
 
 ### American Mathematical Society (AMS)
 
@@ -317,6 +190,76 @@ Permitted
 
 </details>
 
+### American Medical Association | JAMA Network
+
+<details>
+
+Last checked: 03.06.2025
+
+#### Re-use permitted for...
+* Article
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+
+#### Re-use before official publication by publisher
+* Permitted but should be disclosed upon submission (include link and indicate possible revisions)
+* All related previously published articles should be cited as references and described in the submitted manuscript 
+    
+#### Special requirements
+* Include link to the final published version on the journal website
+
+#### Source
+* See "Instructions for Authors" per journal, e.g. [JAMA 'Instructions for Authors'](https://jamanetwork.com/journals/jama/pages/instructions-for-authors)
+* [Public Access and Open Access Policy](https://jamanetwork.com/pages/access-at-jama-network)
+    
+</details>
+
+### American Physical Society (APS)
+
+<details>
+Last checked: 10.06.2025
+
+#### Re-use permitted for...
+* All or part of the journal article
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark: Include APS copyright credit line
+
+#### Re-use before official publication by publisher
+Generally permitted; obtain permission to use any APS prepared version
+
+#### Special requirements
+n.a.
+
+#### Source
+* [APS Copyright Policies and Frequently Asked Questions](https://journals.aps.org/copyrightFAQ.html)
+* [APS Transfer of Copyright Agreement, terms and conditions](https://journals.aps.org/authors/transfer-of-copyright-agreement)
+
+</details>
+
+### American Physiological Society (APS) 
+
+<details>
+Last checked: 17.12.2025
+
+#### Re-use permitted for...
+* Article
+* Preprint :warning:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
+    
+#### Re-use before official publication by publisher
+* Before submission: permitted but should be disclosed upon submission
+* "Once a work has been submitted to an APS journal, no version of it may be posted to preprint servers while it is under consideration by the journal, including during revision, resubmission, (...)"
+
+#### Special requirements
+n.a.
+
+
+#### Source
+* [Permissions](https://journals.physiology.org/permissions)
+* [Preprint Policy](https://journals.physiology.org/editorial-policies#preprints)
+
+</details>
 
 ### American Psychological Association (APA)
 
@@ -341,30 +284,6 @@ Permitted for preprint
 
 </details>
 
-
-### American Physical Society (APS)
-
-<details>
-Last checked: 10.06.2025
-
-#### Re-use permitted for...
-* All or part of the journal article
-* Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark: Include APS copyright credit line
-
-#### Re-use before official publication by publisher
-Generally permitted; obtain permission to use any APS prepared version
-
-#### Special requirements
-n.a.
-
-#### Source
-* [APS Copyright Policies and Frequently Asked Questions](https://journals.aps.org/copyrightFAQ.html)
-* [APS Transfer of Copyright Agreement, terms and conditions](https://journals.aps.org/authors/transfer-of-copyright-agreement)
-
-</details>
-
-
 ### American Society for Biochemistry and Molecular Biology (ASBMB)
 
 <details>
@@ -386,6 +305,52 @@ n.a.
 
 </details>
 
+### American Society for Microbiology (ASM)
+
+<details>
+Last checked: 16.06.2025
+
+#### Re-use permitted for...
+* Article
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
+    
+#### Re-use before official publication by publisher
+Permitted but should be disclosed upon submission
+
+#### Special requirements
+* Include copyright notice on initial page of the article
+* Accepted Manuscript *may* be published under a CC BY license
+
+#### Source
+* [Author Self-Archiving & Permissions](https://journals.asm.org/author-self-archiving-permissions)
+* [Duplicate Publications](https://journals.asm.org/duplicate-publications)
+* [Preprint Policy](https://journals.asm.org/preprint-policy)
+* [ASM Copyright and Crown Copyright Agreements](https://journals.asm.org/asm-copyright-and-crown-copyright-agreements)
+    
+</details>
+
+### American Society of Civil Engineers (ASCE)
+
+<details>
+Last checked: 10.06.2025
+
+#### Re-use permitted for...
+* All or part of the journal article
+* Preprint: yes :warning: but re-use should be disclosed upon submission
+* Accepted manuscript: yes :white_check_mark:
+    
+#### Re-use before official publication by publisher
+Permitted but must be disclosed upon submission
+
+#### Special requirements
+n.a.
+
+#### Source
+* [ASCE Publication Policies](https://ascelibrary.org/author-center/journal#asce-publishing-policies)
+
+</details>
 
 ### American Society of mechanical engineers (ASME)
 
@@ -407,6 +372,29 @@ n.a.
 #### Source
 * [Rights and Permissions](https://www.asme.org/publications-submissions/journals/information-for-authors/journal-guidelines/rights-and-permissions)    
 * [ASME Publishing Preprint and Self-Archiving Policy](https://www.asme.org/publications-submissions/journals/information-for-authors/open-access)
+
+</details>
+
+### Association for Computing Machinery (ACM)
+
+<details>
+Last checked: 16.06.2025
+  
+#### Re-use permitted for...
+* All or part of the article
+* Journal article, Book chapter
+* Preprint: yes :white_check_mark:
+* Accepted manuscript: yes :white_check_mark:
+
+#### Re-use before official publication by publisher
+Permitted
+
+#### Special requirements
+* Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in {Source Publication}, http://dx.doi.org/10.1145/{number}."
+    
+#### Source
+* [Publication Rights & Licensing Policy (secion "Self-Archiving and Posting Rights")](https://www.acm.org/publications/policies/publication-rights-and-licensing-policy)
+
 
 </details>
 
