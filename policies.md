@@ -72,7 +72,7 @@
 ### American Association for the Advancement of Science (AAAS)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 22.06.2026
 
 #### Re-use permitted for...
 * All or part of the article
@@ -80,15 +80,15 @@ Last checked: 10.06.2025
 * Accepted manuscript: yes :warning: but only after official publication by publisher
 
 #### Re-use before official publication by publisher
-Permitted for preprint    
-    
+Permitted for preprints; AAAS does not "regard dissertations/theses as prior publications".
+
 #### Special requirements
 * Include fixed statement: "This is the author’s version of the work. It is posted here by permission of the AAAS for personal use, not for redistribution. The definitive version was published in [Science Journal Title] on [Volume number and date], DOI: [insert DOI number]."
 
 #### Source
 * [Science Journals: editorial policies](https://www.sciencemag.org/authors/science-journals-editorial-policies)
-* [AAAS License to Publish](https://www.science.org/do/10.5555/science-journals-editorial-policies/full/l2p_2023-1699998826340.pdf) (PDF)
-* [AAAS Author License to Publish Policy](https://www.science.org/do/10.5555/science-journals-editorial-policies/full/lic_info_2023-1699998826340.pdf) (PDF)
+* [AAAS License to Publish](https://www.science.org/pb-assets/migrated/sites/default/files/sciadv_license-to-publish-1631826552.pdf) (PDF)
+* [AAAS Author License to Publish Policy](https://www.science.org/do/10.5555/science-journals-editorial-policies/full/lic_info_2023.pdf) (PDF)
     
 </details>
 
