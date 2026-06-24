@@ -455,13 +455,13 @@ Permitted
 ### Cambridge (Journals)
 
 <details>
-Last checked: 19.03.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
-General journal policy (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2) for journals with different, more permissive policy):
+General journal policy (cf. [list (XLSX)](https://assets.ctfassets.net/ulsp6w1o06p0/53l0RrAR8hhRsUkbApN5qG/540fe8a3dd7080018f5b6bc31fbf903e/CUPA-Green-OA-Policies-2026-04.xlsx) for journals with different, more permissive policy):
 * Article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: but with 6 months embargo for STM journals, no embargo for SSH journals (cf. [list](https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2))
+* Accepted manuscript: yes :warning: but with 6 months embargo for STM journals, no embargo for SSH journals (cf. [list (XLSX)](https://assets.ctfassets.net/ulsp6w1o06p0/53l0RrAR8hhRsUkbApN5qG/540fe8a3dd7080018f5b6bc31fbf903e/CUPA-Green-OA-Policies-2026-04.xlsx))
 
 #### Re-use before official publication by publisher
 Permitted
@@ -485,10 +485,11 @@ Permitted
 ### De Gruyter (Books)
 
 <details>
-Last checked: 23.06.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
-* Book chapter (in scientific monographs; :warning: policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
+* Book chapter (in collected volumes; ⚠️ policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
+* Policy applies only to the publisher De Gruyter, its imprints, as well as to Birkhäuser. It does not apply to publications by Sciendo or De Gruyter's publishing partners.
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
     
@@ -496,24 +497,25 @@ Last checked: 23.06.2025
 Permitted
 
 #### Special requirements
-* Up to two chapters, but no more than 10% of the Accepted (book) manuscript, may be made available
-* Include fixed statement “The final publication is available at www.degruyter.com”
+* For scientific monographs, up to two chapters, but no more than 10% of the accepted manuscript, may be made available
+* The original source of the published text must be identified and a link to the publisher's homepage or a linked DOI of the chapter is required.
 * Submitted chapters (Preprint) *may* be published under a Creative Commons license
 
 #### Source
-[Repository Policy for Book Publications](https://www.degruyter.com/publishing/services/rechte-lizenzen/repositorypolicy?lang=en)
+[Repository Policy for Book Publications](https://www.degruyterbrill.com/de/publishing/services/rechte-lizenzen/repositorypolicy)
     
 </details>
 
 ### De Gruyter (Journals)
 
 <details>
-Last checked: 23.06.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
 * Journal article
 * Preprint: yes :white_check_mark: 
-* Accepted manuscript: yes :warning: with embargo (Social Sciences and Humanities: 12 months; Science, Technology, Engineering and Mathematics: 12 months; Medicine: 6 months)
+* Accepted manuscript: yes ✅
+* Published version: yes ⚠️ may only be included in print version of your thesis/dissertation, must not be used for online thesis
 
 #### Re-use before official publication by publisher
 Permitted
@@ -522,14 +524,14 @@ Permitted
 n.a.
 
 #### Source
-[Repository Policy for Journal Publications](https://www.degruyter.com/publishing/services/rights-and-permissions/repository-policy-for-journal-publications?lang=en)
+[Sharing your work](https://www.degruyterbrill.com/de/publishing/fuer-autoren/fuer-journal-autoren/sharing-your-work)
     
 </details>
 
 ### EDP Sciences
 
 <details>
-Last checked: 25.06.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
 * Article
@@ -552,23 +554,25 @@ Permitted
 ### Edward Elgar
 
 <details>
-Last checked: 10.06.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
-* All or part of the article    
-* Book chapter (max. 1 chapter per book) or journal article (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
-* Accepted manuscript: yes :warning: but only after 12 months embargo (according to [Green Open Access policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/#accordion-28))
-* Published version: yes :white_check_mark:
+* All or part of the article / book chapter
+* Preprint: yes :warning: but only for journal articles
+* Accepted manuscript: yes :warning: but for journal articles only after 6 months embargo; for book chapters only after 12 months embargo (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
+* Published version: yes :warning: but no more than 1 or 2 chapters/articles
     
 #### Re-use before official publication by publisher
-Policy unknown (not mentioned in general policy) → please contact the responsible editor
+Preprint Policy for book chapters unknown (not mentioned in general policy) → please contact the responsible editor
     
 #### Special requirements
 * Accepted or published articles (Accepted manuscript included in thesis): include fixed statement "This is a draft chapter/article. The final version is available in [insert book title] edited by [insert editor(s) or author(s)], published in 20xx, Edward Elgar Publishing Ltd http://dx.doi.org/10.4337/978XXXXXXXXXX.000XX"
 * Accepted Manuscript *may* be published under a CC BY-NC-ND license
+* Permission does not cover any part of the material that is attributed to another source from which authors would have to obtain separate permission.
 
 #### Source
 * [Reuse of your work](https://www.e-elgar.com/author-hub/reuse-of-your-work/)
+* [Journals - Author Self Archiving and Reuse Policies (PDF)](https://www.elgaronline.com/fileasset/Self_archiving_Elgar.pdf)
     
 </details>
 
@@ -599,19 +603,19 @@ Permitted
 ### Elsevier
 
 <details>
-Last checked: 25.06.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :warning: but for re-use before official publication check policy for the journal
 * Accepted manuscript: yes :warning: but for re-use before official publication check policy for the journal
-* Published version: yes :white_check_mark:
+* Published version: yes ⚠️ but only for non-commercial purposes
     
 #### Re-use before official publication by publisher
 * Generally permitted, some journals have deviating rules → check policy for your respective journal(s)
 
 #### Special requirements
-n.a.
+Full attribution and acknowledgement of the original article must be provided, including DOI links directing readers to the official publication on ScienceDirect.
 
 #### Source
 * [Article Sharing](https://www.elsevier.com/about/policies-and-standards/sharing)
@@ -624,7 +628,7 @@ n.a.
 ### Emerald
 
 <details>
-Last checked: 25.06.2025
+Last checked: 23.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
