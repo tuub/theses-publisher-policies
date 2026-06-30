@@ -120,14 +120,13 @@ Permitted
 ### American Geophysical Union (AGU)
 
 <details>
-Last checked: 16.06.2025
+Last checked: 29.06.2026
 
 #### Re-use permitted for...
 * Article
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
 * Published version: yes :warning: 6 months embargo, include statement
-* Without obtaining further permission parts of the article may only be used under copyright exemption rules (right of quotation)
 
 #### Re-use before official publication by publisher
 Permitted
@@ -139,13 +138,14 @@ Permitted
 
 #### Source
 * [AGU Publications and Ethics Policies](https://www.agu.org/publications/authors/policies) (sections "Dual and Prior Publication Policy" and "Preprints and Self-Archiving Policies")
+* [Publishing with AGU Journals](https://www.agu.org/publications/authors/journals)
     
 </details>
 
 ### American Institute of Physics (AIP)
 
 <details>
-Last checked: 17.06.2025
+Last checked: 29.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -160,6 +160,7 @@ Permitted
 * Include fixed statement "Reproduced from [FULL CITATION], with the permission of AIP Publishing"
 
 #### Source
+* [Dual/Duplicate Publication Special Cases and Exceptions](https://publishing.aip.org/resources/researchers/policies-and-ethics/research-integrity-and-publication-ethics/#duplicatepublications)
 * [Permission to Reuse Content](https://publishing.aip.org/resources/researchers/rights-and-permissions/permissions/) 
 * [Sharing Content Online (Web Posting Guidelines)](https://publishing.aip.org/resources/researchers/rights-and-permissions/sharing-content-online/)
     
@@ -168,7 +169,7 @@ Permitted
 ### American Mathematical Society (AMS)
 
 <details>
-Last checked: 17.06.2025
+Last checked: 29.06.2026
 
 #### Re-use permitted for...
 * All or part of the article
@@ -217,7 +218,7 @@ Last checked: 22.06.2026
 ### American Physical Society (APS)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 29.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -233,6 +234,7 @@ n.a.
 #### Source
 * [APS Copyright Policies and Frequently Asked Questions](https://journals.aps.org/copyrightFAQ.html)
 * [APS Transfer of Copyright Agreement, terms and conditions](https://journals.aps.org/authors/transfer-of-copyright-agreement)
+* [Editorial Policies and Practices](https://journals.aps.org/authors/editorial-policies#pub-rights)
 
 </details>
 
@@ -403,7 +405,7 @@ Permitted
 ### Brill
 
 <details>
-Last checked: 12.06.2025
+Last checked: 30.06.2026
 
 #### Re-use permitted for...
 * Article, Book chapter
@@ -418,31 +420,29 @@ Permitted
 n.a.
 
 #### Source
-* [Sharing your Work / Self-Archiving](https://brill.com/page/selfarchiving/sharing-your-work-selfarchiving)
-* [Permissions Free of Charge](https://brill.com/page/rightsfreeofcharge/permissions-free-of-charge)
-* [Frequently Asked Questions](https://brill.com/page/rightsfaq/frequently-asked-questions)
+* [Sharing your Work / Self-Archiving](https://brill.com/page/resources_selfarchiving)
+* [Frequently Asked Questions](https://brill.com/page/resources_rightsfaq)
 </details>
 
 
 ### Cambridge (Books)
 
 <details>
-Last checked: 12.06.2025
+Last checked: 30.06.2026
 
 #### Re-use permitted for...
-* Book chapter (max. 1 chapter per book)
+* Book chapter
 * Policy for monographs or edited volumes (does not apply to textbooks, works of reference etc.)
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: 6 months embargo
-* Published version yes :warning: 6 months embargo
+* Accepted manuscript: yes :warning: 6 months embargo, max. 1 chapter per book
+* Published version yes :warning: 6 months embargo, max. 1 chapter per book
 
 #### Re-use before official publication by publisher
 Permitted
     
 #### Special requirements
- 
-* Unpublished chapters – Preprint used in thesis → include fixed statement "This material has been published in revised form in [Title] by/edited by [Author / Editor] [https://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
-* Published chapters – Accepted manuscript or Published version used in thesis → include fixed statement "This material has been published in [Title] by/edited by [Author / Editor] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution  or re-use. © insert copyright holder."
+* Accepted chapters → include fixed statement "This material has been accepted for publication by Cambridge University Press, and a revised form will be published in [Title] by/edited by [Author / Editor] [http://doi.org/XXX, if available]. This version is free to view and download for private research and study only. Not for re-distribution or re-use. © copyright holder."
+* Published chapters → include fixed statement "This material has been published in [Title] by/edited by [Author / Editor] [http://doi.org/XXX]. This version is free to view and download for private research and study only. Not for re-distribution or re-use. © insert copyright holder."
 * Submitted chapters (Preprint) *may* be published under a Creative Commons license (CC BY recommended)
 
 #### Source
