@@ -267,35 +267,38 @@ Include fixed statement for accepted manuscripts of articles published with APS 
 ### American Psychological Association (APA)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 30.06.2026
 
 #### Re-use permitted for...
 * All or part of the article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: but only after official publication by publisher, include statement
+* Accepted manuscript: yes :white_check_mark: only after official publication by publisher, include statement
 
 #### Re-use before official publication by publisher
-Permitted for preprint  
+Permitted
 
 #### Special requirements
 * Unpublished articles: reference to publisher and journal, stating the date of submission is recommended (e.g. "Draft version 1.3, 1/5/16. This paper has not been peer reviewed. Please do not copy or cite without author's permission.")
 * Published articles: include fixed statement "©American Psychological Association, [Year]. This paper is not the copy of record and may not exactly replicate the authoritative document published in the APA journal. The final article is available, upon publication, at: [ARTICLE DOI]"
+* Before accepted manuscripts can be published, the publication agreement must first be signed
 
 #### Source
 * [APA Journals® Internet Posting Guidelines](https://www.apa.org/pubs/journals/resources/internet-posting-guidelines) 
 * [APA Publications Rights Form](http://www.apa.org/pubs/authors/publication-rights-form.pdf) (PDF)
+* [Open Access for APA Journals authors](https://www.apa.org/pubs/journals/resources/open-access)
 
 </details>
 
 ### American Society for Biochemistry and Molecular Biology (ASBMB)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 30.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark:
 
 #### Re-use before official publication by publisher
 Permitted
@@ -337,7 +340,7 @@ Permitted but should be disclosed upon submission
 ### American Society of Civil Engineers (ASCE)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 30.06.2026
 
 #### Re-use permitted for...
 * All or part of the journal article
@@ -355,19 +358,19 @@ n.a.
 
 </details>
 
-### American Society of mechanical engineers (ASME)
+### American Society of Mechanical Engineers (ASME)
 
 <details>
-Last checked: 10.06.2025
+Last checked: 30.06.2026
 
 #### Re-use permitted for...
 * Article
 * For non-commercial purposes only
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark: 12 months embargo
+* Accepted manuscript: yes :white_check_mark: only upon publication of the final paper
 
 #### Re-use before official publication by publisher
-Author must obtain publisher's permission
+Permitted for Preprints
 
 #### Special requirements
 n.a.
@@ -381,13 +384,14 @@ n.a.
 ### Association for Computing Machinery (ACM)
 
 <details>
-Last checked: 16.06.2025
+Last checked: 30.06.2026
   
 #### Re-use permitted for...
 * All or part of the article
-* Journal article, Book chapter
+* Journal article
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
+* Published version: yes :white_check_mark: (only if rights process has been completed on 1st January 2026 or later)
 
 #### Re-use before official publication by publisher
 Permitted
@@ -396,7 +400,7 @@ Permitted
 * Include fixed statement: "© {Owner/Author | ACM} {Year}. This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in {Source Publication}, http://dx.doi.org/10.1145/{number}."
     
 #### Source
-* [Publication Rights & Licensing Policy (secion "Self-Archiving and Posting Rights")](https://www.acm.org/publications/policies/publication-rights-and-licensing-policy)
+* [Publication Rights & Licensing Policy (section "Self-Archiving and Posting Rights")](https://www.acm.org/publications/policies/publication-rights-and-licensing-policy)
 
 
 </details>
