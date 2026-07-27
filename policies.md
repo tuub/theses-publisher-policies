@@ -77,7 +77,7 @@ Last checked: 22.06.2026
 #### Re-use permitted for...
 * All or part of the article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :warning: but only after official publication by publisher
+* Accepted manuscript: yes :warning: only after official publication by publisher
 
 #### Re-use before official publication by publisher
 Permitted for preprints; AAAS does not "regard dissertations/theses as prior publications".
@@ -200,7 +200,7 @@ Last checked: 22.06.2026
 #### Re-use permitted for...
 * Article
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes ⚠️ but may not be made publicly available before official publication (date version of record)
+* Accepted manuscript: yes :white_check_mark: only after official publication by publisher (cf. date version of record)
 
 #### Re-use before official publication by publisher
 * Permitted but should be disclosed upon submission (include link and indicate possible revisions)
@@ -367,7 +367,7 @@ Last checked: 30.06.2026
 * Article
 * For non-commercial purposes only
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark: only upon publication of the final paper
+* Accepted manuscript: yes :white_check_mark: only after official publication by publisher
 
 #### Re-use before official publication by publisher
 Permitted for Preprints
@@ -492,7 +492,7 @@ Permitted
 Last checked: 23.06.2026
 
 #### Re-use permitted for...
-* Book chapter (in collected volumes; ⚠️ policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
+* Book chapter (in collected volumes; :warning: policy does not apply to contributions published in encyclopedias, reference works, exhibition catalogues, commentaries, and textbooks)
 * Policy applies only to the publisher De Gruyter, its imprints, as well as to Birkhäuser. It does not apply to publications by Sciendo or De Gruyter's publishing partners.
 * Preprint: yes :white_check_mark:
 * Accepted manuscript: yes :white_check_mark:
@@ -518,8 +518,8 @@ Last checked: 23.06.2026
 #### Re-use permitted for...
 * Journal article
 * Preprint: yes :white_check_mark: 
-* Accepted manuscript: yes ✅
-* Published version: yes ⚠️ may only be included in print version of your thesis/dissertation, must not be used for online thesis
+* Accepted manuscript: yes :white_check_mark:
+* Published version: yes :warning: may only be included in print version of your thesis/dissertation, must not be used for online thesis
 
 #### Re-use before official publication by publisher
 Permitted
@@ -563,7 +563,7 @@ Last checked: 23.06.2026
 #### Re-use permitted for...
 * All or part of the article / book chapter
 * Preprint: yes :warning: but only for journal articles
-* Accepted manuscript: yes :warning: but for journal articles only after 6 months embargo; for book chapters only after 12 months embargo (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
+* Accepted manuscript: yes :warning: journal articles: 6 months embargo | book chapters: 12 months embargo (please note: [policy](https://www.e-elgar.com/author-hub/reuse-of-your-work/)) does not apply to textbooks, reference works etc.!)     
 * Published version: yes :warning: but no more than 1 or 2 chapters/articles
     
 #### Re-use before official publication by publisher
@@ -613,7 +613,7 @@ Last checked: 23.06.2026
 * All or part of the journal article
 * Preprint: yes :warning: but for re-use before official publication check policy for the journal
 * Accepted manuscript: yes :warning: but for re-use before official publication check policy for the journal
-* Published version: yes ⚠️ but only for non-commercial purposes
+* Published version: yes :warning: but only for non-commercial purposes
     
 #### Re-use before official publication by publisher
 * Generally permitted, some journals have deviating rules → check policy for your respective journal(s)
@@ -866,13 +866,12 @@ Generally permitted, publisher should be contacted in advance
 ### John Benjamins
 
 <details>
-Last checked: 10.06.2026 <br /> 
-   <br />
+Last checked: 10.06.2026
     
 #### Re-use permitted for...
 * Article in a journal or in a edited book volume
 * Preprint: yes :white_check_mark:
-* Accepted manuscript: yes :white_check_mark: | book chapters :warning: 12 months embargo for articles in books
+* Accepted manuscript: yes :white_check_mark: | book chapters: :warning: 12 months embargo for articles in books
 
 
 #### Re-use before official publication by publisher
